@@ -477,7 +477,7 @@
   },
   {
     "code" : "EE",
-    "count" : 6,
+    "count" : 12,
     "enabled" : true,
     "name" : "爱沙尼亚",
     "path" : "countries/EE.txt"
@@ -820,7 +820,7 @@
   },
   {
     "code" : "IT",
-    "count" : 5,
+    "count" : 6,
     "enabled" : true,
     "name" : "意大利",
     "path" : "countries/IT.txt"
