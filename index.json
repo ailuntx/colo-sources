@@ -568,7 +568,7 @@
   },
   {
     "code" : "FR",
-    "count" : 11,
+    "count" : 18,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
@@ -1212,7 +1212,7 @@
   },
   {
     "code" : "NL",
-    "count" : 4,
+    "count" : 8,
     "enabled" : true,
     "name" : "荷兰",
     "path" : "countries/NL.txt"
