@@ -435,7 +435,7 @@
   },
   {
     "code" : "DK",
-    "count" : 17,
+    "count" : 16,
     "enabled" : true,
     "name" : "丹麦",
     "path" : "countries/DK.txt"
@@ -1303,7 +1303,7 @@
   },
   {
     "code" : "PL",
-    "count" : 20,
+    "count" : 21,
     "enabled" : true,
     "name" : "波兰",
     "path" : "countries/PL.txt"
