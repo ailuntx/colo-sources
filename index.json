@@ -785,7 +785,7 @@
   },
   {
     "code" : "IN",
-    "count" : 7,
+    "count" : 12,
     "enabled" : true,
     "name" : "印度",
     "path" : "countries/IN.txt"
@@ -1443,7 +1443,7 @@
   },
   {
     "code" : "SG",
-    "count" : 4,
+    "count" : 7,
     "enabled" : true,
     "name" : "新加坡",
     "path" : "countries/SG.txt"
