@@ -85,7 +85,7 @@
   },
   {
     "code" : "AT",
-    "count" : 14,
+    "count" : 19,
     "enabled" : true,
     "name" : "奥地利",
     "path" : "countries/AT.txt"
@@ -848,7 +848,7 @@
   },
   {
     "code" : "JP",
-    "count" : 6,
+    "count" : 8,
     "enabled" : true,
     "name" : "日本",
     "path" : "countries/JP.txt"
