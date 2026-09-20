@@ -771,7 +771,7 @@
   },
   {
     "code" : "IL",
-    "count" : 4,
+    "count" : 2,
     "enabled" : true,
     "name" : "以色列",
     "path" : "countries/IL.txt"
@@ -925,7 +925,7 @@
   },
   {
     "code" : "KZ",
-    "count" : 3,
+    "count" : 6,
     "enabled" : true,
     "name" : "哈萨克斯坦",
     "path" : "countries/KZ.txt"
