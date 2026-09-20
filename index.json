@@ -43,7 +43,7 @@
   },
   {
     "code" : "AL",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "阿尔巴尼亚",
     "path" : "countries/AL.txt"
@@ -582,7 +582,7 @@
   },
   {
     "code" : "GB",
-    "count" : 42,
+    "count" : 50,
     "enabled" : true,
     "name" : "英国",
     "path" : "countries/GB.txt"
