@@ -666,7 +666,7 @@
   },
   {
     "code" : "GR",
-    "count" : 2,
+    "count" : 7,
     "enabled" : true,
     "name" : "希腊",
     "path" : "countries/GR.txt"
@@ -757,7 +757,7 @@
   },
   {
     "code" : "ID",
-    "count" : 3,
+    "count" : 4,
     "enabled" : true,
     "name" : "印度尼西亚",
     "path" : "countries/ID.txt"
