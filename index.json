@@ -708,7 +708,7 @@
   },
   {
     "code" : "HK",
-    "count" : 44,
+    "count" : 40,
     "enabled" : true,
     "name" : "香港",
     "path" : "countries/HK.txt"
@@ -1023,7 +1023,7 @@
   },
   {
     "code" : "MD",
-    "count" : 7,
+    "count" : 4,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
