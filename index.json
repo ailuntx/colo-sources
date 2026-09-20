@@ -981,7 +981,7 @@
   },
   {
     "code" : "LT",
-    "count" : 2,
+    "count" : 4,
     "enabled" : true,
     "name" : "立陶宛",
     "path" : "countries/LT.txt"
@@ -1149,7 +1149,7 @@
   },
   {
     "code" : "MX",
-    "count" : 7,
+    "count" : 8,
     "enabled" : true,
     "name" : "墨西哥",
     "path" : "countries/MX.txt"
