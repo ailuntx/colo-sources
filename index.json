@@ -218,7 +218,7 @@
   },
   {
     "code" : "BR",
-    "count" : 8,
+    "count" : 9,
     "enabled" : true,
     "name" : "巴西",
     "path" : "countries/BR.txt"
@@ -981,7 +981,7 @@
   },
   {
     "code" : "LT",
-    "count" : 0,
+    "count" : 2,
     "enabled" : true,
     "name" : "立陶宛",
     "path" : "countries/LT.txt"
