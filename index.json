@@ -757,7 +757,7 @@
   },
   {
     "code" : "ID",
-    "count" : 4,
+    "count" : 5,
     "enabled" : true,
     "name" : "印度尼西亚",
     "path" : "countries/ID.txt"
@@ -1023,7 +1023,7 @@
   },
   {
     "code" : "MD",
-    "count" : 2,
+    "count" : 4,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
