@@ -267,7 +267,7 @@
   },
   {
     "code" : "CA",
-    "count" : 13,
+    "count" : 9,
     "enabled" : true,
     "name" : "加拿大",
     "path" : "countries/CA.txt"
