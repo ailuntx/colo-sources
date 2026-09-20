@@ -1023,7 +1023,7 @@
   },
   {
     "code" : "MD",
-    "count" : 4,
+    "count" : 8,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
@@ -1219,7 +1219,7 @@
   },
   {
     "code" : "NO",
-    "count" : 3,
+    "count" : 6,
     "enabled" : true,
     "name" : "挪威",
     "path" : "countries/NO.txt"
@@ -1387,7 +1387,7 @@
   },
   {
     "code" : "RS",
-    "count" : 3,
+    "count" : 4,
     "enabled" : true,
     "name" : "塞尔维亚",
     "path" : "countries/RS.txt"
