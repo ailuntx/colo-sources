@@ -92,7 +92,7 @@
   },
   {
     "code" : "AU",
-    "count" : 9,
+    "count" : 8,
     "enabled" : true,
     "name" : "澳大利亚",
     "path" : "countries/AU.txt"
@@ -1443,7 +1443,7 @@
   },
   {
     "code" : "SG",
-    "count" : 11,
+    "count" : 21,
     "enabled" : true,
     "name" : "新加坡",
     "path" : "countries/SG.txt"
