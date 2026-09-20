@@ -155,7 +155,7 @@
   },
   {
     "code" : "BG",
-    "count" : 7,
+    "count" : 13,
     "enabled" : true,
     "name" : "保加利亚",
     "path" : "countries/BG.txt"
@@ -904,7 +904,7 @@
   },
   {
     "code" : "KR",
-    "count" : 3,
+    "count" : 9,
     "enabled" : true,
     "name" : "韩国",
     "path" : "countries/KR.txt"
