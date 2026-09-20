@@ -582,7 +582,7 @@
   },
   {
     "code" : "GB",
-    "count" : 36,
+    "count" : 29,
     "enabled" : true,
     "name" : "英国",
     "path" : "countries/GB.txt"
