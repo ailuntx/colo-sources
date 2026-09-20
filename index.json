@@ -141,7 +141,7 @@
   },
   {
     "code" : "BE",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "比利时",
     "path" : "countries/BE.txt"
@@ -1247,7 +1247,7 @@
   },
   {
     "code" : "NZ",
-    "count" : 1,
+    "count" : 2,
     "enabled" : true,
     "name" : "新西兰",
     "path" : "countries/NZ.txt"
@@ -1471,7 +1471,7 @@
   },
   {
     "code" : "SK",
-    "count" : 0,
+    "count" : 3,
     "enabled" : true,
     "name" : "斯洛伐克",
     "path" : "countries/SK.txt"
