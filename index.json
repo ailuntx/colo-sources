@@ -1023,7 +1023,7 @@
   },
   {
     "code" : "MD",
-    "count" : 8,
+    "count" : 7,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
@@ -1702,7 +1702,7 @@
   },
   {
     "code" : "US",
-    "count" : 34,
+    "count" : 50,
     "enabled" : true,
     "name" : "美国",
     "path" : "countries/US.txt"
