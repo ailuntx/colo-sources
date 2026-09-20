@@ -848,7 +848,7 @@
   },
   {
     "code" : "JP",
-    "count" : 8,
+    "count" : 14,
     "enabled" : true,
     "name" : "日本",
     "path" : "countries/JP.txt"
@@ -1303,7 +1303,7 @@
   },
   {
     "code" : "PL",
-    "count" : 9,
+    "count" : 10,
     "enabled" : true,
     "name" : "波兰",
     "path" : "countries/PL.txt"
