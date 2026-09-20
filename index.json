@@ -414,7 +414,7 @@
   },
   {
     "code" : "DE",
-    "count" : 34,
+    "count" : 29,
     "enabled" : true,
     "name" : "德国",
     "path" : "countries/DE.txt"
