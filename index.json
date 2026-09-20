@@ -50,7 +50,7 @@
   },
   {
     "code" : "AM",
-    "count" : 4,
+    "count" : 7,
     "enabled" : true,
     "name" : "亚美尼亚",
     "path" : "countries/AM.txt"
@@ -666,7 +666,7 @@
   },
   {
     "code" : "GR",
-    "count" : 1,
+    "count" : 2,
     "enabled" : true,
     "name" : "希腊",
     "path" : "countries/GR.txt"
@@ -1471,7 +1471,7 @@
   },
   {
     "code" : "SK",
-    "count" : 3,
+    "count" : 4,
     "enabled" : true,
     "name" : "斯洛伐克",
     "path" : "countries/SK.txt"
