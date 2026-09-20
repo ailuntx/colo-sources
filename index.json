@@ -1387,7 +1387,7 @@
   },
   {
     "code" : "RS",
-    "count" : 8,
+    "count" : 3,
     "enabled" : true,
     "name" : "塞尔维亚",
     "path" : "countries/RS.txt"
