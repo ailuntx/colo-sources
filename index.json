@@ -1149,7 +1149,7 @@
   },
   {
     "code" : "MX",
-    "count" : 12,
+    "count" : 8,
     "enabled" : true,
     "name" : "墨西哥",
     "path" : "countries/MX.txt"
