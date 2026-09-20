@@ -302,7 +302,7 @@
   },
   {
     "code" : "CH",
-    "count" : 15,
+    "count" : 12,
     "enabled" : true,
     "name" : "瑞士",
     "path" : "countries/CH.txt"
