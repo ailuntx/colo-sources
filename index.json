@@ -407,7 +407,7 @@
   },
   {
     "code" : "CZ",
-    "count" : 0,
+    "count" : 2,
     "enabled" : true,
     "name" : "捷克",
     "path" : "countries/CZ.txt"
@@ -596,7 +596,7 @@
   },
   {
     "code" : "GE",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "格鲁吉亚",
     "path" : "countries/GE.txt"
@@ -1457,7 +1457,7 @@
   },
   {
     "code" : "SI",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "斯洛文尼亚",
     "path" : "countries/SI.txt"
