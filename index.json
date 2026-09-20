@@ -1702,7 +1702,7 @@
   },
   {
     "code" : "US",
-    "count" : 27,
+    "count" : 34,
     "enabled" : true,
     "name" : "美国",
     "path" : "countries/US.txt"
