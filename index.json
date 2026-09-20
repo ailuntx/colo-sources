@@ -435,7 +435,7 @@
   },
   {
     "code" : "DK",
-    "count" : 9,
+    "count" : 17,
     "enabled" : true,
     "name" : "丹麦",
     "path" : "countries/DK.txt"
@@ -1807,7 +1807,7 @@
   },
   {
     "code" : "ZA",
-    "count" : 4,
+    "count" : 5,
     "enabled" : true,
     "name" : "南非",
     "path" : "countries/ZA.txt"
