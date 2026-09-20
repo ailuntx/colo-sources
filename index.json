@@ -267,7 +267,7 @@
   },
   {
     "code" : "CA",
-    "count" : 4,
+    "count" : 13,
     "enabled" : true,
     "name" : "加拿大",
     "path" : "countries/CA.txt"
@@ -1436,7 +1436,7 @@
   },
   {
     "code" : "SE",
-    "count" : 12,
+    "count" : 15,
     "enabled" : true,
     "name" : "瑞典",
     "path" : "countries/SE.txt"
