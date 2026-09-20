@@ -505,7 +505,7 @@
   },
   {
     "code" : "ES",
-    "count" : 10,
+    "count" : 20,
     "enabled" : true,
     "name" : "西班牙",
     "path" : "countries/ES.txt"
@@ -1380,7 +1380,7 @@
   },
   {
     "code" : "RO",
-    "count" : 4,
+    "count" : 8,
     "enabled" : true,
     "name" : "罗马尼亚",
     "path" : "countries/RO.txt"
