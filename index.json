@@ -533,7 +533,7 @@
   },
   {
     "code" : "FI",
-    "count" : 1,
+    "count" : 7,
     "enabled" : true,
     "name" : "芬兰",
     "path" : "countries/FI.txt"
@@ -813,7 +813,7 @@
   },
   {
     "code" : "IS",
-    "count" : 3,
+    "count" : 5,
     "enabled" : true,
     "name" : "冰岛",
     "path" : "countries/IS.txt"
