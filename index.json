@@ -995,7 +995,7 @@
   },
   {
     "code" : "LV",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "拉脱维亚",
     "path" : "countries/LV.txt"
@@ -1639,7 +1639,7 @@
   },
   {
     "code" : "TR",
-    "count" : 3,
+    "count" : 7,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
