@@ -981,7 +981,7 @@
   },
   {
     "code" : "LT",
-    "count" : 5,
+    "count" : 21,
     "enabled" : true,
     "name" : "立陶宛",
     "path" : "countries/LT.txt"
