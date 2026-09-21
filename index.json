@@ -85,7 +85,7 @@
   },
   {
     "code" : "AT",
-    "count" : 18,
+    "count" : 16,
     "enabled" : true,
     "name" : "奥地利",
     "path" : "countries/AT.txt"
@@ -477,7 +477,7 @@
   },
   {
     "code" : "EE",
-    "count" : 7,
+    "count" : 12,
     "enabled" : true,
     "name" : "爱沙尼亚",
     "path" : "countries/EE.txt"
