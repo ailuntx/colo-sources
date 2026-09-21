@@ -218,7 +218,7 @@
   },
   {
     "code" : "BR",
-    "count" : 5,
+    "count" : 9,
     "enabled" : true,
     "name" : "巴西",
     "path" : "countries/BR.txt"
