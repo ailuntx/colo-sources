@@ -771,7 +771,7 @@
   },
   {
     "code" : "IL",
-    "count" : 2,
+    "count" : 5,
     "enabled" : true,
     "name" : "以色列",
     "path" : "countries/IL.txt"
@@ -820,7 +820,7 @@
   },
   {
     "code" : "IT",
-    "count" : 13,
+    "count" : 12,
     "enabled" : true,
     "name" : "意大利",
     "path" : "countries/IT.txt"
