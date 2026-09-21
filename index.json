@@ -505,7 +505,7 @@
   },
   {
     "code" : "ES",
-    "count" : 15,
+    "count" : 14,
     "enabled" : true,
     "name" : "西班牙",
     "path" : "countries/ES.txt"
