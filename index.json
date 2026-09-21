@@ -785,7 +785,7 @@
   },
   {
     "code" : "IN",
-    "count" : 11,
+    "count" : 9,
     "enabled" : true,
     "name" : "印度",
     "path" : "countries/IN.txt"
