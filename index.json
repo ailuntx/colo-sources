@@ -1149,7 +1149,7 @@
   },
   {
     "code" : "MX",
-    "count" : 5,
+    "count" : 8,
     "enabled" : true,
     "name" : "墨西哥",
     "path" : "countries/MX.txt"
@@ -1807,7 +1807,7 @@
   },
   {
     "code" : "ZA",
-    "count" : 2,
+    "count" : 1,
     "enabled" : true,
     "name" : "南非",
     "path" : "countries/ZA.txt"
