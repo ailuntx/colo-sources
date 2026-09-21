@@ -995,7 +995,7 @@
   },
   {
     "code" : "LV",
-    "count" : 1,
+    "count" : 2,
     "enabled" : true,
     "name" : "拉脱维亚",
     "path" : "countries/LV.txt"
