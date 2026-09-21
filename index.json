@@ -1408,7 +1408,7 @@
   },
   {
     "code" : "SA",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "沙特阿拉伯",
     "path" : "countries/SA.txt"
@@ -1471,7 +1471,7 @@
   },
   {
     "code" : "SK",
-    "count" : 4,
+    "count" : 3,
     "enabled" : true,
     "name" : "斯洛伐克",
     "path" : "countries/SK.txt"
