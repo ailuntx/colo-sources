@@ -904,7 +904,7 @@
   },
   {
     "code" : "KR",
-    "count" : 7,
+    "count" : 9,
     "enabled" : true,
     "name" : "韩国",
     "path" : "countries/KR.txt"
