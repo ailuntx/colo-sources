@@ -1023,7 +1023,7 @@
   },
   {
     "code" : "MD",
-    "count" : 0,
+    "count" : 9,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
@@ -1149,7 +1149,7 @@
   },
   {
     "code" : "MX",
-    "count" : 6,
+    "count" : 5,
     "enabled" : true,
     "name" : "墨西哥",
     "path" : "countries/MX.txt"
