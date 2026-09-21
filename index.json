@@ -155,7 +155,7 @@
   },
   {
     "code" : "BG",
-    "count" : 20,
+    "count" : 18,
     "enabled" : true,
     "name" : "保加利亚",
     "path" : "countries/BG.txt"
@@ -218,7 +218,7 @@
   },
   {
     "code" : "BR",
-    "count" : 3,
+    "count" : 4,
     "enabled" : true,
     "name" : "巴西",
     "path" : "countries/BR.txt"
