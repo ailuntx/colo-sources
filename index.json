@@ -435,7 +435,7 @@
   },
   {
     "code" : "DK",
-    "count" : 10,
+    "count" : 12,
     "enabled" : true,
     "name" : "丹麦",
     "path" : "countries/DK.txt"
