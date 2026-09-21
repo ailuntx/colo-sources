@@ -666,7 +666,7 @@
   },
   {
     "code" : "GR",
-    "count" : 3,
+    "count" : 2,
     "enabled" : true,
     "name" : "希腊",
     "path" : "countries/GR.txt"
