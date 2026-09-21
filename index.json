@@ -533,7 +533,7 @@
   },
   {
     "code" : "FI",
-    "count" : 7,
+    "count" : 3,
     "enabled" : true,
     "name" : "芬兰",
     "path" : "countries/FI.txt"
@@ -1289,7 +1289,7 @@
   },
   {
     "code" : "PH",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "菲律宾",
     "path" : "countries/PH.txt"
