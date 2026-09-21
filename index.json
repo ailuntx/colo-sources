@@ -904,7 +904,7 @@
   },
   {
     "code" : "KR",
-    "count" : 5,
+    "count" : 7,
     "enabled" : true,
     "name" : "韩国",
     "path" : "countries/KR.txt"
@@ -925,7 +925,7 @@
   },
   {
     "code" : "KZ",
-    "count" : 3,
+    "count" : 7,
     "enabled" : true,
     "name" : "哈萨克斯坦",
     "path" : "countries/KZ.txt"
