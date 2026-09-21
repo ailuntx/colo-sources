@@ -568,7 +568,7 @@
   },
   {
     "code" : "FR",
-    "count" : 18,
+    "count" : 17,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
@@ -1394,7 +1394,7 @@
   },
   {
     "code" : "RU",
-    "count" : 5,
+    "count" : 1,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
