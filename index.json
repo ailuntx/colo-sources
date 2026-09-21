@@ -708,7 +708,7 @@
   },
   {
     "code" : "HK",
-    "count" : 38,
+    "count" : 34,
     "enabled" : true,
     "name" : "香港",
     "path" : "countries/HK.txt"
