@@ -400,7 +400,7 @@
   },
   {
     "code" : "CY",
-    "count" : 2,
+    "count" : 4,
     "enabled" : true,
     "name" : "塞浦路斯",
     "path" : "countries/CY.txt"
@@ -1387,7 +1387,7 @@
   },
   {
     "code" : "RS",
-    "count" : 3,
+    "count" : 4,
     "enabled" : true,
     "name" : "塞尔维亚",
     "path" : "countries/RS.txt"
