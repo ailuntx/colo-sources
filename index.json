@@ -1436,7 +1436,7 @@
   },
   {
     "code" : "SE",
-    "count" : 27,
+    "count" : 30,
     "enabled" : true,
     "name" : "瑞典",
     "path" : "countries/SE.txt"
