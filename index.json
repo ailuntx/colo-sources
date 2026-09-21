@@ -505,7 +505,7 @@
   },
   {
     "code" : "ES",
-    "count" : 17,
+    "count" : 16,
     "enabled" : true,
     "name" : "西班牙",
     "path" : "countries/ES.txt"
@@ -1639,7 +1639,7 @@
   },
   {
     "code" : "TR",
-    "count" : 9,
+    "count" : 15,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
@@ -1674,7 +1674,7 @@
   },
   {
     "code" : "UA",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "乌克兰",
     "path" : "countries/UA.txt"
