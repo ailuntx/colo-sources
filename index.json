@@ -1303,7 +1303,7 @@
   },
   {
     "code" : "PL",
-    "count" : 15,
+    "count" : 18,
     "enabled" : true,
     "name" : "波兰",
     "path" : "countries/PL.txt"
