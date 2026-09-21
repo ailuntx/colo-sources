@@ -414,7 +414,7 @@
   },
   {
     "code" : "DE",
-    "count" : 40,
+    "count" : 50,
     "enabled" : true,
     "name" : "德国",
     "path" : "countries/DE.txt"
@@ -1394,7 +1394,7 @@
   },
   {
     "code" : "RU",
-    "count" : 1,
+    "count" : 2,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
