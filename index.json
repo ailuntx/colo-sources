@@ -708,7 +708,7 @@
   },
   {
     "code" : "HK",
-    "count" : 35,
+    "count" : 33,
     "enabled" : true,
     "name" : "香港",
     "path" : "countries/HK.txt"
@@ -1443,7 +1443,7 @@
   },
   {
     "code" : "SG",
-    "count" : 11,
+    "count" : 10,
     "enabled" : true,
     "name" : "新加坡",
     "path" : "countries/SG.txt"
