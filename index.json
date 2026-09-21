@@ -533,7 +533,7 @@
   },
   {
     "code" : "FI",
-    "count" : 3,
+    "count" : 8,
     "enabled" : true,
     "name" : "芬兰",
     "path" : "countries/FI.txt"
@@ -596,7 +596,7 @@
   },
   {
     "code" : "GE",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "格鲁吉亚",
     "path" : "countries/GE.txt"
@@ -925,7 +925,7 @@
   },
   {
     "code" : "KZ",
-    "count" : 2,
+    "count" : 3,
     "enabled" : true,
     "name" : "哈萨克斯坦",
     "path" : "countries/KZ.txt"
