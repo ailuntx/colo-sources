@@ -449,7 +449,7 @@
   },
   {
     "code" : "DO",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "多米尼加共和国",
     "path" : "countries/DO.txt"
@@ -568,7 +568,7 @@
   },
   {
     "code" : "FR",
-    "count" : 24,
+    "count" : 20,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
@@ -1394,7 +1394,7 @@
   },
   {
     "code" : "RU",
-    "count" : 0,
+    "count" : 2,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
