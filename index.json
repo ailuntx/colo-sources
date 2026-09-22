@@ -50,7 +50,7 @@
   },
   {
     "code" : "AM",
-    "count" : 4,
+    "count" : 0,
     "enabled" : true,
     "name" : "亚美尼亚",
     "path" : "countries/AM.txt"
@@ -771,7 +771,7 @@
   },
   {
     "code" : "IL",
-    "count" : 5,
+    "count" : 3,
     "enabled" : true,
     "name" : "以色列",
     "path" : "countries/IL.txt"
