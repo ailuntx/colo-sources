@@ -302,7 +302,7 @@
   },
   {
     "code" : "CH",
-    "count" : 21,
+    "count" : 13,
     "enabled" : true,
     "name" : "瑞士",
     "path" : "countries/CH.txt"
@@ -1436,7 +1436,7 @@
   },
   {
     "code" : "SE",
-    "count" : 24,
+    "count" : 27,
     "enabled" : true,
     "name" : "瑞典",
     "path" : "countries/SE.txt"
