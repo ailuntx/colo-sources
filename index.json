@@ -1639,7 +1639,7 @@
   },
   {
     "code" : "TR",
-    "count" : 11,
+    "count" : 12,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
