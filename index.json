@@ -1443,7 +1443,7 @@
   },
   {
     "code" : "SG",
-    "count" : 11,
+    "count" : 10,
     "enabled" : true,
     "name" : "新加坡",
     "path" : "countries/SG.txt"
