@@ -267,7 +267,7 @@
   },
   {
     "code" : "CA",
-    "count" : 11,
+    "count" : 6,
     "enabled" : true,
     "name" : "加拿大",
     "path" : "countries/CA.txt"
@@ -1212,7 +1212,7 @@
   },
   {
     "code" : "NL",
-    "count" : 14,
+    "count" : 15,
     "enabled" : true,
     "name" : "荷兰",
     "path" : "countries/NL.txt"
