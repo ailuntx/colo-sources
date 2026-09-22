@@ -820,7 +820,7 @@
   },
   {
     "code" : "IT",
-    "count" : 11,
+    "count" : 10,
     "enabled" : true,
     "name" : "意大利",
     "path" : "countries/IT.txt"
