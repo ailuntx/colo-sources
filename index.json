@@ -92,7 +92,7 @@
   },
   {
     "code" : "AU",
-    "count" : 6,
+    "count" : 7,
     "enabled" : true,
     "name" : "澳大利亚",
     "path" : "countries/AU.txt"
