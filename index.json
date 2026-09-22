@@ -764,7 +764,7 @@
   },
   {
     "code" : "IE",
-    "count" : 11,
+    "count" : 10,
     "enabled" : true,
     "name" : "爱尔兰",
     "path" : "countries/IE.txt"
@@ -1254,7 +1254,7 @@
   },
   {
     "code" : "OM",
-    "count" : 1,
+    "count" : 2,
     "enabled" : true,
     "name" : "阿曼",
     "path" : "countries/OM.txt"
