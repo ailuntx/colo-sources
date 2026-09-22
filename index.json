@@ -1639,7 +1639,7 @@
   },
   {
     "code" : "TR",
-    "count" : 13,
+    "count" : 12,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
@@ -1674,7 +1674,7 @@
   },
   {
     "code" : "UA",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "乌克兰",
     "path" : "countries/UA.txt"
