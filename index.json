@@ -477,7 +477,7 @@
   },
   {
     "code" : "EE",
-    "count" : 18,
+    "count" : 15,
     "enabled" : true,
     "name" : "爱沙尼亚",
     "path" : "countries/EE.txt"
@@ -764,7 +764,7 @@
   },
   {
     "code" : "IE",
-    "count" : 10,
+    "count" : 6,
     "enabled" : true,
     "name" : "爱尔兰",
     "path" : "countries/IE.txt"
