@@ -323,7 +323,7 @@
   },
   {
     "code" : "CL",
-    "count" : 2,
+    "count" : 4,
     "enabled" : true,
     "name" : "智利",
     "path" : "countries/CL.txt"
@@ -582,7 +582,7 @@
   },
   {
     "code" : "GB",
-    "count" : 41,
+    "count" : 50,
     "enabled" : true,
     "name" : "英国",
     "path" : "countries/GB.txt"
