@@ -85,14 +85,14 @@
   },
   {
     "code" : "AT",
-    "count" : 16,
+    "count" : 17,
     "enabled" : true,
     "name" : "奥地利",
     "path" : "countries/AT.txt"
   },
   {
     "code" : "AU",
-    "count" : 9,
+    "count" : 6,
     "enabled" : true,
     "name" : "澳大利亚",
     "path" : "countries/AU.txt"
