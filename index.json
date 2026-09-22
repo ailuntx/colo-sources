@@ -1660,7 +1660,7 @@
   },
   {
     "code" : "TW",
-    "count" : 11,
+    "count" : 6,
     "enabled" : true,
     "name" : "台湾",
     "path" : "countries/TW.txt"
