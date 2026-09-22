@@ -1219,7 +1219,7 @@
   },
   {
     "code" : "NO",
-    "count" : 6,
+    "count" : 5,
     "enabled" : true,
     "name" : "挪威",
     "path" : "countries/NO.txt"
@@ -1807,7 +1807,7 @@
   },
   {
     "code" : "ZA",
-    "count" : 3,
+    "count" : 9,
     "enabled" : true,
     "name" : "南非",
     "path" : "countries/ZA.txt"
