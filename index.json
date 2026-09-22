@@ -1023,7 +1023,7 @@
   },
   {
     "code" : "MD",
-    "count" : 0,
+    "count" : 5,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
