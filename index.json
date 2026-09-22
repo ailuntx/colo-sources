@@ -505,7 +505,7 @@
   },
   {
     "code" : "ES",
-    "count" : 11,
+    "count" : 8,
     "enabled" : true,
     "name" : "西班牙",
     "path" : "countries/ES.txt"
@@ -666,7 +666,7 @@
   },
   {
     "code" : "GR",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "希腊",
     "path" : "countries/GR.txt"
@@ -708,7 +708,7 @@
   },
   {
     "code" : "HK",
-    "count" : 45,
+    "count" : 42,
     "enabled" : true,
     "name" : "香港",
     "path" : "countries/HK.txt"
