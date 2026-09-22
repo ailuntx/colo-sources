@@ -568,7 +568,7 @@
   },
   {
     "code" : "FR",
-    "count" : 22,
+    "count" : 24,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
