@@ -848,7 +848,7 @@
   },
   {
     "code" : "JP",
-    "count" : 13,
+    "count" : 16,
     "enabled" : true,
     "name" : "日本",
     "path" : "countries/JP.txt"
