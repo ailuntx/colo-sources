@@ -1408,7 +1408,7 @@
   },
   {
     "code" : "SA",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "沙特阿拉伯",
     "path" : "countries/SA.txt"
@@ -1457,7 +1457,7 @@
   },
   {
     "code" : "SI",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "斯洛文尼亚",
     "path" : "countries/SI.txt"
@@ -1660,7 +1660,7 @@
   },
   {
     "code" : "TW",
-    "count" : 10,
+    "count" : 1,
     "enabled" : true,
     "name" : "台湾",
     "path" : "countries/TW.txt"
