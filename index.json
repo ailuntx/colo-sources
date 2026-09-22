@@ -533,7 +533,7 @@
   },
   {
     "code" : "FI",
-    "count" : 4,
+    "count" : 6,
     "enabled" : true,
     "name" : "芬兰",
     "path" : "countries/FI.txt"
