@@ -1590,7 +1590,7 @@
   },
   {
     "code" : "TH",
-    "count" : 2,
+    "count" : 3,
     "enabled" : true,
     "name" : "泰国",
     "path" : "countries/TH.txt"
@@ -1660,7 +1660,7 @@
   },
   {
     "code" : "TW",
-    "count" : 6,
+    "count" : 10,
     "enabled" : true,
     "name" : "台湾",
     "path" : "countries/TW.txt"
