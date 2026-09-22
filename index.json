@@ -85,7 +85,7 @@
   },
   {
     "code" : "AT",
-    "count" : 16,
+    "count" : 21,
     "enabled" : true,
     "name" : "奥地利",
     "path" : "countries/AT.txt"
