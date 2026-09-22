@@ -43,7 +43,7 @@
   },
   {
     "code" : "AL",
-    "count" : 4,
+    "count" : 3,
     "enabled" : true,
     "name" : "阿尔巴尼亚",
     "path" : "countries/AL.txt"
