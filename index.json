@@ -1380,7 +1380,7 @@
   },
   {
     "code" : "RO",
-    "count" : 20,
+    "count" : 17,
     "enabled" : true,
     "name" : "罗马尼亚",
     "path" : "countries/RO.txt"
