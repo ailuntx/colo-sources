@@ -981,7 +981,7 @@
   },
   {
     "code" : "LT",
-    "count" : 26,
+    "count" : 4,
     "enabled" : true,
     "name" : "立陶宛",
     "path" : "countries/LT.txt"
@@ -995,7 +995,7 @@
   },
   {
     "code" : "LV",
-    "count" : 2,
+    "count" : 3,
     "enabled" : true,
     "name" : "拉脱维亚",
     "path" : "countries/LV.txt"
