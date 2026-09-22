@@ -1247,7 +1247,7 @@
   },
   {
     "code" : "NZ",
-    "count" : 0,
+    "count" : 2,
     "enabled" : true,
     "name" : "新西兰",
     "path" : "countries/NZ.txt"
@@ -1443,7 +1443,7 @@
   },
   {
     "code" : "SG",
-    "count" : 10,
+    "count" : 11,
     "enabled" : true,
     "name" : "新加坡",
     "path" : "countries/SG.txt"
