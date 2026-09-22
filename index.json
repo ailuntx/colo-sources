@@ -813,7 +813,7 @@
   },
   {
     "code" : "IS",
-    "count" : 5,
+    "count" : 10,
     "enabled" : true,
     "name" : "冰岛",
     "path" : "countries/IS.txt"
@@ -1303,7 +1303,7 @@
   },
   {
     "code" : "PL",
-    "count" : 24,
+    "count" : 21,
     "enabled" : true,
     "name" : "波兰",
     "path" : "countries/PL.txt"
