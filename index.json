@@ -323,7 +323,7 @@
   },
   {
     "code" : "CL",
-    "count" : 0,
+    "count" : 2,
     "enabled" : true,
     "name" : "智利",
     "path" : "countries/CL.txt"
