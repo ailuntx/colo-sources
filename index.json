@@ -323,7 +323,7 @@
   },
   {
     "code" : "CL",
-    "count" : 4,
+    "count" : 0,
     "enabled" : true,
     "name" : "智利",
     "path" : "countries/CL.txt"
@@ -582,7 +582,7 @@
   },
   {
     "code" : "GB",
-    "count" : 50,
+    "count" : 0,
     "enabled" : true,
     "name" : "英国",
     "path" : "countries/GB.txt"
@@ -757,7 +757,7 @@
   },
   {
     "code" : "ID",
-    "count" : 3,
+    "count" : 0,
     "enabled" : true,
     "name" : "印度尼西亚",
     "path" : "countries/ID.txt"
@@ -785,7 +785,7 @@
   },
   {
     "code" : "IN",
-    "count" : 17,
+    "count" : 0,
     "enabled" : true,
     "name" : "印度",
     "path" : "countries/IN.txt"
