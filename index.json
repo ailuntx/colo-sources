@@ -130,7 +130,7 @@
   {
     "candidates" : 5443,
     "code" : "DE",
-    "count" : 50,
+    "count" : 19,
     "enabled" : true,
     "name" : "德国",
     "path" : "countries/DE.txt"
