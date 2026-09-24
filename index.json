@@ -394,7 +394,7 @@
   {
     "candidates" : 27,
     "code" : "PL",
-    "count" : 10,
+    "count" : 16,
     "enabled" : true,
     "name" : "波兰",
     "path" : "countries/PL.txt"
