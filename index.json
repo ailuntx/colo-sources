@@ -813,7 +813,7 @@
   },
   {
     "code" : "IS",
-    "count" : 0,
+    "count" : 4,
     "enabled" : true,
     "name" : "冰岛",
     "path" : "countries/IS.txt"
