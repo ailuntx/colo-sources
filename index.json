@@ -15,7 +15,7 @@
   },
   {
     "code" : "AE",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "阿拉伯联合酋长国",
     "path" : "countries/AE.txt"
@@ -43,7 +43,7 @@
   },
   {
     "code" : "AL",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "阿尔巴尼亚",
     "path" : "countries/AL.txt"
@@ -85,14 +85,14 @@
   },
   {
     "code" : "AT",
-    "count" : 21,
+    "count" : 0,
     "enabled" : true,
     "name" : "奥地利",
     "path" : "countries/AT.txt"
   },
   {
     "code" : "AU",
-    "count" : 8,
+    "count" : 0,
     "enabled" : true,
     "name" : "澳大利亚",
     "path" : "countries/AU.txt"
@@ -141,7 +141,7 @@
   },
   {
     "code" : "BE",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "比利时",
     "path" : "countries/BE.txt"
@@ -155,7 +155,7 @@
   },
   {
     "code" : "BG",
-    "count" : 20,
+    "count" : 0,
     "enabled" : true,
     "name" : "保加利亚",
     "path" : "countries/BG.txt"
@@ -218,7 +218,7 @@
   },
   {
     "code" : "BR",
-    "count" : 4,
+    "count" : 0,
     "enabled" : true,
     "name" : "巴西",
     "path" : "countries/BR.txt"
@@ -267,7 +267,7 @@
   },
   {
     "code" : "CA",
-    "count" : 15,
+    "count" : 0,
     "enabled" : true,
     "name" : "加拿大",
     "path" : "countries/CA.txt"
@@ -302,7 +302,7 @@
   },
   {
     "code" : "CH",
-    "count" : 19,
+    "count" : 0,
     "enabled" : true,
     "name" : "瑞士",
     "path" : "countries/CH.txt"
@@ -400,21 +400,21 @@
   },
   {
     "code" : "CY",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "塞浦路斯",
     "path" : "countries/CY.txt"
   },
   {
     "code" : "CZ",
-    "count" : 4,
+    "count" : 0,
     "enabled" : true,
     "name" : "捷克",
     "path" : "countries/CZ.txt"
   },
   {
     "code" : "DE",
-    "count" : 50,
+    "count" : 0,
     "enabled" : true,
     "name" : "德国",
     "path" : "countries/DE.txt"
@@ -435,7 +435,7 @@
   },
   {
     "code" : "DK",
-    "count" : 10,
+    "count" : 0,
     "enabled" : true,
     "name" : "丹麦",
     "path" : "countries/DK.txt"
@@ -477,7 +477,7 @@
   },
   {
     "code" : "EE",
-    "count" : 13,
+    "count" : 0,
     "enabled" : true,
     "name" : "爱沙尼亚",
     "path" : "countries/EE.txt"
@@ -505,7 +505,7 @@
   },
   {
     "code" : "ES",
-    "count" : 17,
+    "count" : 0,
     "enabled" : true,
     "name" : "西班牙",
     "path" : "countries/ES.txt"
@@ -533,7 +533,7 @@
   },
   {
     "code" : "FI",
-    "count" : 12,
+    "count" : 0,
     "enabled" : true,
     "name" : "芬兰",
     "path" : "countries/FI.txt"
@@ -568,7 +568,7 @@
   },
   {
     "code" : "FR",
-    "count" : 20,
+    "count" : 0,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
@@ -666,7 +666,7 @@
   },
   {
     "code" : "GR",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "希腊",
     "path" : "countries/GR.txt"
@@ -708,7 +708,7 @@
   },
   {
     "code" : "HK",
-    "count" : 48,
+    "count" : 0,
     "enabled" : true,
     "name" : "香港",
     "path" : "countries/HK.txt"
@@ -743,7 +743,7 @@
   },
   {
     "code" : "HU",
-    "count" : 3,
+    "count" : 0,
     "enabled" : true,
     "name" : "匈牙利",
     "path" : "countries/HU.txt"
@@ -764,14 +764,14 @@
   },
   {
     "code" : "IE",
-    "count" : 6,
+    "count" : 0,
     "enabled" : true,
     "name" : "爱尔兰",
     "path" : "countries/IE.txt"
   },
   {
     "code" : "IL",
-    "count" : 3,
+    "count" : 0,
     "enabled" : true,
     "name" : "以色列",
     "path" : "countries/IL.txt"
@@ -813,14 +813,14 @@
   },
   {
     "code" : "IS",
-    "count" : 4,
+    "count" : 0,
     "enabled" : true,
     "name" : "冰岛",
     "path" : "countries/IS.txt"
   },
   {
     "code" : "IT",
-    "count" : 12,
+    "count" : 0,
     "enabled" : true,
     "name" : "意大利",
     "path" : "countries/IT.txt"
@@ -848,7 +848,7 @@
   },
   {
     "code" : "JP",
-    "count" : 22,
+    "count" : 0,
     "enabled" : true,
     "name" : "日本",
     "path" : "countries/JP.txt"
@@ -904,7 +904,7 @@
   },
   {
     "code" : "KR",
-    "count" : 12,
+    "count" : 0,
     "enabled" : true,
     "name" : "韩国",
     "path" : "countries/KR.txt"
@@ -925,7 +925,7 @@
   },
   {
     "code" : "KZ",
-    "count" : 6,
+    "count" : 0,
     "enabled" : true,
     "name" : "哈萨克斯坦",
     "path" : "countries/KZ.txt"
@@ -981,7 +981,7 @@
   },
   {
     "code" : "LT",
-    "count" : 26,
+    "count" : 0,
     "enabled" : true,
     "name" : "立陶宛",
     "path" : "countries/LT.txt"
@@ -995,7 +995,7 @@
   },
   {
     "code" : "LV",
-    "count" : 6,
+    "count" : 0,
     "enabled" : true,
     "name" : "拉脱维亚",
     "path" : "countries/LV.txt"
@@ -1023,7 +1023,7 @@
   },
   {
     "code" : "MD",
-    "count" : 5,
+    "count" : 0,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
@@ -1149,7 +1149,7 @@
   },
   {
     "code" : "MX",
-    "count" : 7,
+    "count" : 0,
     "enabled" : true,
     "name" : "墨西哥",
     "path" : "countries/MX.txt"
@@ -1212,14 +1212,14 @@
   },
   {
     "code" : "NL",
-    "count" : 22,
+    "count" : 0,
     "enabled" : true,
     "name" : "荷兰",
     "path" : "countries/NL.txt"
   },
   {
     "code" : "NO",
-    "count" : 3,
+    "count" : 0,
     "enabled" : true,
     "name" : "挪威",
     "path" : "countries/NO.txt"
@@ -1254,7 +1254,7 @@
   },
   {
     "code" : "OM",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "阿曼",
     "path" : "countries/OM.txt"
@@ -1289,7 +1289,7 @@
   },
   {
     "code" : "PH",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "菲律宾",
     "path" : "countries/PH.txt"
@@ -1303,7 +1303,7 @@
   },
   {
     "code" : "PL",
-    "count" : 20,
+    "count" : 0,
     "enabled" : true,
     "name" : "波兰",
     "path" : "countries/PL.txt"
@@ -1380,21 +1380,21 @@
   },
   {
     "code" : "RO",
-    "count" : 13,
+    "count" : 0,
     "enabled" : true,
     "name" : "罗马尼亚",
     "path" : "countries/RO.txt"
   },
   {
     "code" : "RS",
-    "count" : 3,
+    "count" : 0,
     "enabled" : true,
     "name" : "塞尔维亚",
     "path" : "countries/RS.txt"
   },
   {
     "code" : "RU",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
@@ -1408,7 +1408,7 @@
   },
   {
     "code" : "SA",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "沙特阿拉伯",
     "path" : "countries/SA.txt"
@@ -1436,14 +1436,14 @@
   },
   {
     "code" : "SE",
-    "count" : 27,
+    "count" : 0,
     "enabled" : true,
     "name" : "瑞典",
     "path" : "countries/SE.txt"
   },
   {
     "code" : "SG",
-    "count" : 34,
+    "count" : 0,
     "enabled" : true,
     "name" : "新加坡",
     "path" : "countries/SG.txt"
@@ -1457,7 +1457,7 @@
   },
   {
     "code" : "SI",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "斯洛文尼亚",
     "path" : "countries/SI.txt"
@@ -1471,7 +1471,7 @@
   },
   {
     "code" : "SK",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "斯洛伐克",
     "path" : "countries/SK.txt"
@@ -1639,7 +1639,7 @@
   },
   {
     "code" : "TR",
-    "count" : 12,
+    "count" : 0,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
@@ -1660,7 +1660,7 @@
   },
   {
     "code" : "TW",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "台湾",
     "path" : "countries/TW.txt"
@@ -1702,7 +1702,7 @@
   },
   {
     "code" : "US",
-    "count" : 50,
+    "count" : 0,
     "enabled" : true,
     "name" : "美国",
     "path" : "countries/US.txt"
@@ -1807,7 +1807,7 @@
   },
   {
     "code" : "ZA",
-    "count" : 3,
+    "count" : 0,
     "enabled" : true,
     "name" : "南非",
     "path" : "countries/ZA.txt"
