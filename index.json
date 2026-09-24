@@ -498,7 +498,7 @@
   {
     "candidates" : 558591,
     "code" : "US",
-    "count" : 50,
+    "count" : 47,
     "enabled" : true,
     "name" : "美国",
     "path" : "countries/US.txt"
