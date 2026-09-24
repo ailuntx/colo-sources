@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 26,
+    "candidates" : 27,
     "code" : "AT",
     "count" : 17,
     "enabled" : true,
@@ -474,7 +474,7 @@
   {
     "candidates" : 17,
     "code" : "TR",
-    "count" : 12,
+    "count" : 9,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
@@ -488,9 +488,9 @@
     "path" : "countries/TW.txt"
   },
   {
-    "candidates" : 2,
+    "candidates" : 1,
     "code" : "UA",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "乌克兰",
     "path" : "countries/UA.txt"
