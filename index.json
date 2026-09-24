@@ -450,7 +450,7 @@
   {
     "candidates" : 1,
     "code" : "SI",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "斯洛文尼亚",
     "path" : "countries/SI.txt"
@@ -474,7 +474,7 @@
   {
     "candidates" : 17,
     "code" : "TR",
-    "count" : 12,
+    "count" : 10,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
