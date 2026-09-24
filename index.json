@@ -764,7 +764,7 @@
   },
   {
     "code" : "IE",
-    "count" : 0,
+    "count" : 7,
     "enabled" : true,
     "name" : "爱尔兰",
     "path" : "countries/IE.txt"
