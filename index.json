@@ -106,7 +106,7 @@
   {
     "candidates" : 4,
     "code" : "CL",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "智利",
     "path" : "countries/CL.txt"
