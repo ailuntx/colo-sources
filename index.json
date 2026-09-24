@@ -266,7 +266,7 @@
   {
     "candidates" : 27,
     "code" : "IT",
-    "count" : 12,
+    "count" : 4,
     "enabled" : true,
     "name" : "意大利",
     "path" : "countries/IT.txt"
