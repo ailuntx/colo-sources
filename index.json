@@ -416,9 +416,9 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 10,
+    "candidates" : 8,
     "code" : "RU",
-    "count" : 8,
+    "count" : 0,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
@@ -432,7 +432,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 51,
+    "candidates" : 53,
     "code" : "SE",
     "count" : 31,
     "enabled" : true,
