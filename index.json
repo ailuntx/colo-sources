@@ -1,19 +1,6 @@
 [
   {
-    "code" : "AC",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "阿森松岛",
-    "path" : "countries/AC.txt"
-  },
-  {
-    "code" : "AD",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "安道尔",
-    "path" : "countries/AD.txt"
-  },
-  {
+    "candidates" : 10,
     "code" : "AE",
     "count" : 7,
     "enabled" : true,
@@ -21,27 +8,7 @@
     "path" : "countries/AE.txt"
   },
   {
-    "code" : "AF",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "阿富汗",
-    "path" : "countries/AF.txt"
-  },
-  {
-    "code" : "AG",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "安提瓜和巴布达",
-    "path" : "countries/AG.txt"
-  },
-  {
-    "code" : "AI",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "安圭拉",
-    "path" : "countries/AI.txt"
-  },
-  {
+    "candidates" : 4,
     "code" : "AL",
     "count" : 2,
     "enabled" : true,
@@ -49,6 +16,7 @@
     "path" : "countries/AL.txt"
   },
   {
+    "candidates" : 7,
     "code" : "AM",
     "count" : 0,
     "enabled" : true,
@@ -56,20 +24,7 @@
     "path" : "countries/AM.txt"
   },
   {
-    "code" : "AO",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "安哥拉",
-    "path" : "countries/AO.txt"
-  },
-  {
-    "code" : "AQ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "南极洲",
-    "path" : "countries/AQ.txt"
-  },
-  {
+    "candidates" : 3,
     "code" : "AR",
     "count" : 1,
     "enabled" : true,
@@ -77,13 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "code" : "AS",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "美属萨摩亚",
-    "path" : "countries/AS.txt"
-  },
-  {
+    "candidates" : 29,
     "code" : "AT",
     "count" : 13,
     "enabled" : true,
@@ -91,6 +40,7 @@
     "path" : "countries/AT.txt"
   },
   {
+    "candidates" : 74,
     "code" : "AU",
     "count" : 5,
     "enabled" : true,
@@ -98,20 +48,7 @@
     "path" : "countries/AU.txt"
   },
   {
-    "code" : "AW",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "阿鲁巴",
-    "path" : "countries/AW.txt"
-  },
-  {
-    "code" : "AX",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "奥兰群岛",
-    "path" : "countries/AX.txt"
-  },
-  {
+    "candidates" : 1,
     "code" : "AZ",
     "count" : 0,
     "enabled" : true,
@@ -119,27 +56,7 @@
     "path" : "countries/AZ.txt"
   },
   {
-    "code" : "BA",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "波斯尼亚和黑塞哥维那",
-    "path" : "countries/BA.txt"
-  },
-  {
-    "code" : "BB",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "巴巴多斯",
-    "path" : "countries/BB.txt"
-  },
-  {
-    "code" : "BD",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "孟加拉国",
-    "path" : "countries/BD.txt"
-  },
-  {
+    "candidates" : 3,
     "code" : "BE",
     "count" : 1,
     "enabled" : true,
@@ -147,13 +64,7 @@
     "path" : "countries/BE.txt"
   },
   {
-    "code" : "BF",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "布基纳法索",
-    "path" : "countries/BF.txt"
-  },
-  {
+    "candidates" : 29,
     "code" : "BG",
     "count" : 22,
     "enabled" : true,
@@ -161,6 +72,7 @@
     "path" : "countries/BG.txt"
   },
   {
+    "candidates" : 1,
     "code" : "BH",
     "count" : 0,
     "enabled" : true,
@@ -168,55 +80,7 @@
     "path" : "countries/BH.txt"
   },
   {
-    "code" : "BI",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "布隆迪",
-    "path" : "countries/BI.txt"
-  },
-  {
-    "code" : "BJ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "贝宁",
-    "path" : "countries/BJ.txt"
-  },
-  {
-    "code" : "BL",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "圣巴泰勒米",
-    "path" : "countries/BL.txt"
-  },
-  {
-    "code" : "BM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "百慕大",
-    "path" : "countries/BM.txt"
-  },
-  {
-    "code" : "BN",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "文莱",
-    "path" : "countries/BN.txt"
-  },
-  {
-    "code" : "BO",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "玻利维亚",
-    "path" : "countries/BO.txt"
-  },
-  {
-    "code" : "BQ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "荷属加勒比区",
-    "path" : "countries/BQ.txt"
-  },
-  {
+    "candidates" : 12,
     "code" : "BR",
     "count" : 3,
     "enabled" : true,
@@ -224,48 +88,7 @@
     "path" : "countries/BR.txt"
   },
   {
-    "code" : "BS",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "巴哈马",
-    "path" : "countries/BS.txt"
-  },
-  {
-    "code" : "BT",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "不丹",
-    "path" : "countries/BT.txt"
-  },
-  {
-    "code" : "BV",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "布韦岛",
-    "path" : "countries/BV.txt"
-  },
-  {
-    "code" : "BW",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "博茨瓦纳",
-    "path" : "countries/BW.txt"
-  },
-  {
-    "code" : "BY",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "白俄罗斯",
-    "path" : "countries/BY.txt"
-  },
-  {
-    "code" : "BZ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "伯利兹",
-    "path" : "countries/BZ.txt"
-  },
-  {
+    "candidates" : 207,
     "code" : "CA",
     "count" : 12,
     "enabled" : true,
@@ -273,34 +96,7 @@
     "path" : "countries/CA.txt"
   },
   {
-    "code" : "CC",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "科科斯（基林）群岛",
-    "path" : "countries/CC.txt"
-  },
-  {
-    "code" : "CD",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "刚果（金）",
-    "path" : "countries/CD.txt"
-  },
-  {
-    "code" : "CF",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "中非共和国",
-    "path" : "countries/CF.txt"
-  },
-  {
-    "code" : "CG",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "刚果（布）",
-    "path" : "countries/CG.txt"
-  },
-  {
+    "candidates" : 30,
     "code" : "CH",
     "count" : 0,
     "enabled" : true,
@@ -308,20 +104,7 @@
     "path" : "countries/CH.txt"
   },
   {
-    "code" : "CI",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "科特迪瓦",
-    "path" : "countries/CI.txt"
-  },
-  {
-    "code" : "CK",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "库克群岛",
-    "path" : "countries/CK.txt"
-  },
-  {
+    "candidates" : 4,
     "code" : "CL",
     "count" : 2,
     "enabled" : true,
@@ -329,76 +112,7 @@
     "path" : "countries/CL.txt"
   },
   {
-    "code" : "CM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "喀麦隆",
-    "path" : "countries/CM.txt"
-  },
-  {
-    "code" : "CN",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "中国大陆",
-    "path" : "countries/CN.txt"
-  },
-  {
-    "code" : "CO",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "哥伦比亚",
-    "path" : "countries/CO.txt"
-  },
-  {
-    "code" : "CP",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "克利珀顿岛",
-    "path" : "countries/CP.txt"
-  },
-  {
-    "code" : "CQ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "萨克岛",
-    "path" : "countries/CQ.txt"
-  },
-  {
-    "code" : "CR",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "哥斯达黎加",
-    "path" : "countries/CR.txt"
-  },
-  {
-    "code" : "CU",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "古巴",
-    "path" : "countries/CU.txt"
-  },
-  {
-    "code" : "CV",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "佛得角",
-    "path" : "countries/CV.txt"
-  },
-  {
-    "code" : "CW",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "库拉索",
-    "path" : "countries/CW.txt"
-  },
-  {
-    "code" : "CX",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "圣诞岛",
-    "path" : "countries/CX.txt"
-  },
-  {
+    "candidates" : 6,
     "code" : "CY",
     "count" : 0,
     "enabled" : true,
@@ -406,6 +120,7 @@
     "path" : "countries/CY.txt"
   },
   {
+    "candidates" : 4,
     "code" : "CZ",
     "count" : 4,
     "enabled" : true,
@@ -413,6 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
+    "candidates" : 5443,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -420,20 +136,7 @@
     "path" : "countries/DE.txt"
   },
   {
-    "code" : "DG",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "迪戈加西亚岛",
-    "path" : "countries/DG.txt"
-  },
-  {
-    "code" : "DJ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "吉布提",
-    "path" : "countries/DJ.txt"
-  },
-  {
+    "candidates" : 21,
     "code" : "DK",
     "count" : 11,
     "enabled" : true,
@@ -441,13 +144,7 @@
     "path" : "countries/DK.txt"
   },
   {
-    "code" : "DM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "多米尼克",
-    "path" : "countries/DM.txt"
-  },
-  {
+    "candidates" : 1,
     "code" : "DO",
     "count" : 0,
     "enabled" : true,
@@ -455,27 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "code" : "DZ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "阿尔及利亚",
-    "path" : "countries/DZ.txt"
-  },
-  {
-    "code" : "EA",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "休达及梅利利亚",
-    "path" : "countries/EA.txt"
-  },
-  {
-    "code" : "EC",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "厄瓜多尔",
-    "path" : "countries/EC.txt"
-  },
-  {
+    "candidates" : 19,
     "code" : "EE",
     "count" : 12,
     "enabled" : true,
@@ -483,27 +160,7 @@
     "path" : "countries/EE.txt"
   },
   {
-    "code" : "EG",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "埃及",
-    "path" : "countries/EG.txt"
-  },
-  {
-    "code" : "EH",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "西撒哈拉",
-    "path" : "countries/EH.txt"
-  },
-  {
-    "code" : "ER",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "厄立特里亚",
-    "path" : "countries/ER.txt"
-  },
-  {
+    "candidates" : 24,
     "code" : "ES",
     "count" : 0,
     "enabled" : true,
@@ -511,27 +168,7 @@
     "path" : "countries/ES.txt"
   },
   {
-    "code" : "ET",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "埃塞俄比亚",
-    "path" : "countries/ET.txt"
-  },
-  {
-    "code" : "EU",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "欧盟",
-    "path" : "countries/EU.txt"
-  },
-  {
-    "code" : "EZ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "欧元区",
-    "path" : "countries/EZ.txt"
-  },
-  {
+    "candidates" : 20,
     "code" : "FI",
     "count" : 17,
     "enabled" : true,
@@ -539,34 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "code" : "FJ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "斐济",
-    "path" : "countries/FJ.txt"
-  },
-  {
-    "code" : "FK",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "福克兰群岛",
-    "path" : "countries/FK.txt"
-  },
-  {
-    "code" : "FM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "密克罗尼西亚",
-    "path" : "countries/FM.txt"
-  },
-  {
-    "code" : "FO",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "法罗群岛",
-    "path" : "countries/FO.txt"
-  },
-  {
+    "candidates" : 30,
     "code" : "FR",
     "count" : 16,
     "enabled" : true,
@@ -574,13 +184,7 @@
     "path" : "countries/FR.txt"
   },
   {
-    "code" : "GA",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "加蓬",
-    "path" : "countries/GA.txt"
-  },
-  {
+    "candidates" : 33047,
     "code" : "GB",
     "count" : 16,
     "enabled" : true,
@@ -588,13 +192,7 @@
     "path" : "countries/GB.txt"
   },
   {
-    "code" : "GD",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "格林纳达",
-    "path" : "countries/GD.txt"
-  },
-  {
+    "candidates" : 1,
     "code" : "GE",
     "count" : 1,
     "enabled" : true,
@@ -602,69 +200,7 @@
     "path" : "countries/GE.txt"
   },
   {
-    "code" : "GF",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "法属圭亚那",
-    "path" : "countries/GF.txt"
-  },
-  {
-    "code" : "GG",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "根西岛",
-    "path" : "countries/GG.txt"
-  },
-  {
-    "code" : "GH",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "加纳",
-    "path" : "countries/GH.txt"
-  },
-  {
-    "code" : "GI",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "直布罗陀",
-    "path" : "countries/GI.txt"
-  },
-  {
-    "code" : "GL",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "格陵兰",
-    "path" : "countries/GL.txt"
-  },
-  {
-    "code" : "GM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "冈比亚",
-    "path" : "countries/GM.txt"
-  },
-  {
-    "code" : "GN",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "几内亚",
-    "path" : "countries/GN.txt"
-  },
-  {
-    "code" : "GP",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "瓜德罗普",
-    "path" : "countries/GP.txt"
-  },
-  {
-    "code" : "GQ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "赤道几内亚",
-    "path" : "countries/GQ.txt"
-  },
-  {
+    "candidates" : 9,
     "code" : "GR",
     "count" : 0,
     "enabled" : true,
@@ -672,41 +208,7 @@
     "path" : "countries/GR.txt"
   },
   {
-    "code" : "GS",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "南乔治亚和南桑威奇群岛",
-    "path" : "countries/GS.txt"
-  },
-  {
-    "code" : "GT",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "危地马拉",
-    "path" : "countries/GT.txt"
-  },
-  {
-    "code" : "GU",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "关岛",
-    "path" : "countries/GU.txt"
-  },
-  {
-    "code" : "GW",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "几内亚比绍",
-    "path" : "countries/GW.txt"
-  },
-  {
-    "code" : "GY",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "圭亚那",
-    "path" : "countries/GY.txt"
-  },
-  {
+    "candidates" : 60010,
     "code" : "HK",
     "count" : 0,
     "enabled" : true,
@@ -714,34 +216,7 @@
     "path" : "countries/HK.txt"
   },
   {
-    "code" : "HM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "赫德岛和麦克唐纳群岛",
-    "path" : "countries/HM.txt"
-  },
-  {
-    "code" : "HN",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "洪都拉斯",
-    "path" : "countries/HN.txt"
-  },
-  {
-    "code" : "HR",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "克罗地亚",
-    "path" : "countries/HR.txt"
-  },
-  {
-    "code" : "HT",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "海地",
-    "path" : "countries/HT.txt"
-  },
-  {
+    "candidates" : 6,
     "code" : "HU",
     "count" : 0,
     "enabled" : true,
@@ -749,13 +224,7 @@
     "path" : "countries/HU.txt"
   },
   {
-    "code" : "IC",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "加纳利群岛",
-    "path" : "countries/IC.txt"
-  },
-  {
+    "candidates" : 8,
     "code" : "ID",
     "count" : 7,
     "enabled" : true,
@@ -763,6 +232,7 @@
     "path" : "countries/ID.txt"
   },
   {
+    "candidates" : 16,
     "code" : "IE",
     "count" : 7,
     "enabled" : true,
@@ -770,6 +240,7 @@
     "path" : "countries/IE.txt"
   },
   {
+    "candidates" : 12,
     "code" : "IL",
     "count" : 0,
     "enabled" : true,
@@ -777,13 +248,7 @@
     "path" : "countries/IL.txt"
   },
   {
-    "code" : "IM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "马恩岛",
-    "path" : "countries/IM.txt"
-  },
-  {
+    "candidates" : 51,
     "code" : "IN",
     "count" : 17,
     "enabled" : true,
@@ -791,27 +256,7 @@
     "path" : "countries/IN.txt"
   },
   {
-    "code" : "IO",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "查戈斯群岛",
-    "path" : "countries/IO.txt"
-  },
-  {
-    "code" : "IQ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "伊拉克",
-    "path" : "countries/IQ.txt"
-  },
-  {
-    "code" : "IR",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "伊朗",
-    "path" : "countries/IR.txt"
-  },
-  {
+    "candidates" : 12,
     "code" : "IS",
     "count" : 4,
     "enabled" : true,
@@ -819,6 +264,7 @@
     "path" : "countries/IS.txt"
   },
   {
+    "candidates" : 24,
     "code" : "IT",
     "count" : 0,
     "enabled" : true,
@@ -826,27 +272,7 @@
     "path" : "countries/IT.txt"
   },
   {
-    "code" : "JE",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "泽西岛",
-    "path" : "countries/JE.txt"
-  },
-  {
-    "code" : "JM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "牙买加",
-    "path" : "countries/JM.txt"
-  },
-  {
-    "code" : "JO",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "约旦",
-    "path" : "countries/JO.txt"
-  },
-  {
+    "candidates" : 2684,
     "code" : "JP",
     "count" : 0,
     "enabled" : true,
@@ -854,13 +280,7 @@
     "path" : "countries/JP.txt"
   },
   {
-    "code" : "KE",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "肯尼亚",
-    "path" : "countries/KE.txt"
-  },
-  {
+    "candidates" : 2,
     "code" : "KG",
     "count" : 0,
     "enabled" : true,
@@ -868,41 +288,7 @@
     "path" : "countries/KG.txt"
   },
   {
-    "code" : "KH",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "柬埔寨",
-    "path" : "countries/KH.txt"
-  },
-  {
-    "code" : "KI",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "基里巴斯",
-    "path" : "countries/KI.txt"
-  },
-  {
-    "code" : "KM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "科摩罗",
-    "path" : "countries/KM.txt"
-  },
-  {
-    "code" : "KN",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "圣基茨和尼维斯",
-    "path" : "countries/KN.txt"
-  },
-  {
-    "code" : "KP",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "朝鲜",
-    "path" : "countries/KP.txt"
-  },
-  {
+    "candidates" : 27,
     "code" : "KR",
     "count" : 9,
     "enabled" : true,
@@ -910,20 +296,7 @@
     "path" : "countries/KR.txt"
   },
   {
-    "code" : "KW",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "科威特",
-    "path" : "countries/KW.txt"
-  },
-  {
-    "code" : "KY",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "开曼群岛",
-    "path" : "countries/KY.txt"
-  },
-  {
+    "candidates" : 12,
     "code" : "KZ",
     "count" : 7,
     "enabled" : true,
@@ -931,55 +304,7 @@
     "path" : "countries/KZ.txt"
   },
   {
-    "code" : "LA",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "老挝",
-    "path" : "countries/LA.txt"
-  },
-  {
-    "code" : "LB",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "黎巴嫩",
-    "path" : "countries/LB.txt"
-  },
-  {
-    "code" : "LC",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "圣卢西亚",
-    "path" : "countries/LC.txt"
-  },
-  {
-    "code" : "LI",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "列支敦士登",
-    "path" : "countries/LI.txt"
-  },
-  {
-    "code" : "LK",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "斯里兰卡",
-    "path" : "countries/LK.txt"
-  },
-  {
-    "code" : "LR",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "利比里亚",
-    "path" : "countries/LR.txt"
-  },
-  {
-    "code" : "LS",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "莱索托",
-    "path" : "countries/LS.txt"
-  },
-  {
+    "candidates" : 14,
     "code" : "LT",
     "count" : 0,
     "enabled" : true,
@@ -987,6 +312,7 @@
     "path" : "countries/LT.txt"
   },
   {
+    "candidates" : 1,
     "code" : "LU",
     "count" : 0,
     "enabled" : true,
@@ -994,34 +320,15 @@
     "path" : "countries/LU.txt"
   },
   {
+    "candidates" : 23,
     "code" : "LV",
-    "count" : 0,
+    "count" : 4,
     "enabled" : true,
     "name" : "拉脱维亚",
     "path" : "countries/LV.txt"
   },
   {
-    "code" : "LY",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "利比亚",
-    "path" : "countries/LY.txt"
-  },
-  {
-    "code" : "MA",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "摩洛哥",
-    "path" : "countries/MA.txt"
-  },
-  {
-    "code" : "MC",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "摩纳哥",
-    "path" : "countries/MC.txt"
-  },
-  {
+    "candidates" : 10,
     "code" : "MD",
     "count" : 0,
     "enabled" : true,
@@ -1029,125 +336,7 @@
     "path" : "countries/MD.txt"
   },
   {
-    "code" : "ME",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "黑山",
-    "path" : "countries/ME.txt"
-  },
-  {
-    "code" : "MF",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "法属圣马丁",
-    "path" : "countries/MF.txt"
-  },
-  {
-    "code" : "MG",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "马达加斯加",
-    "path" : "countries/MG.txt"
-  },
-  {
-    "code" : "MH",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "马绍尔群岛",
-    "path" : "countries/MH.txt"
-  },
-  {
-    "code" : "MK",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "北马其顿",
-    "path" : "countries/MK.txt"
-  },
-  {
-    "code" : "ML",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "马里",
-    "path" : "countries/ML.txt"
-  },
-  {
-    "code" : "MM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "缅甸",
-    "path" : "countries/MM.txt"
-  },
-  {
-    "code" : "MN",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "蒙古",
-    "path" : "countries/MN.txt"
-  },
-  {
-    "code" : "MO",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "澳门",
-    "path" : "countries/MO.txt"
-  },
-  {
-    "code" : "MP",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "北马里亚纳群岛",
-    "path" : "countries/MP.txt"
-  },
-  {
-    "code" : "MQ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "马提尼克",
-    "path" : "countries/MQ.txt"
-  },
-  {
-    "code" : "MR",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "毛里塔尼亚",
-    "path" : "countries/MR.txt"
-  },
-  {
-    "code" : "MS",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "蒙特塞拉特",
-    "path" : "countries/MS.txt"
-  },
-  {
-    "code" : "MT",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "马耳他",
-    "path" : "countries/MT.txt"
-  },
-  {
-    "code" : "MU",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "毛里求斯",
-    "path" : "countries/MU.txt"
-  },
-  {
-    "code" : "MV",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "马尔代夫",
-    "path" : "countries/MV.txt"
-  },
-  {
-    "code" : "MW",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "马拉维",
-    "path" : "countries/MW.txt"
-  },
-  {
+    "candidates" : 14,
     "code" : "MX",
     "count" : 0,
     "enabled" : true,
@@ -1155,48 +344,7 @@
     "path" : "countries/MX.txt"
   },
   {
-    "code" : "MY",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "马来西亚",
-    "path" : "countries/MY.txt"
-  },
-  {
-    "code" : "MZ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "莫桑比克",
-    "path" : "countries/MZ.txt"
-  },
-  {
-    "code" : "NA",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "纳米比亚",
-    "path" : "countries/NA.txt"
-  },
-  {
-    "code" : "NC",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "新喀里多尼亚",
-    "path" : "countries/NC.txt"
-  },
-  {
-    "code" : "NE",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "尼日尔",
-    "path" : "countries/NE.txt"
-  },
-  {
-    "code" : "NF",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "诺福克岛",
-    "path" : "countries/NF.txt"
-  },
-  {
+    "candidates" : 1,
     "code" : "NG",
     "count" : 0,
     "enabled" : true,
@@ -1204,13 +352,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "code" : "NI",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "尼加拉瓜",
-    "path" : "countries/NI.txt"
-  },
-  {
+    "candidates" : 32,
     "code" : "NL",
     "count" : 21,
     "enabled" : true,
@@ -1218,6 +360,7 @@
     "path" : "countries/NL.txt"
   },
   {
+    "candidates" : 8,
     "code" : "NO",
     "count" : 0,
     "enabled" : true,
@@ -1225,27 +368,7 @@
     "path" : "countries/NO.txt"
   },
   {
-    "code" : "NP",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "尼泊尔",
-    "path" : "countries/NP.txt"
-  },
-  {
-    "code" : "NR",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "瑙鲁",
-    "path" : "countries/NR.txt"
-  },
-  {
-    "code" : "NU",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "纽埃",
-    "path" : "countries/NU.txt"
-  },
-  {
+    "candidates" : 3,
     "code" : "NZ",
     "count" : 0,
     "enabled" : true,
@@ -1253,6 +376,7 @@
     "path" : "countries/NZ.txt"
   },
   {
+    "candidates" : 2,
     "code" : "OM",
     "count" : 1,
     "enabled" : true,
@@ -1260,34 +384,7 @@
     "path" : "countries/OM.txt"
   },
   {
-    "code" : "PA",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "巴拿马",
-    "path" : "countries/PA.txt"
-  },
-  {
-    "code" : "PE",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "秘鲁",
-    "path" : "countries/PE.txt"
-  },
-  {
-    "code" : "PF",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "法属波利尼西亚",
-    "path" : "countries/PF.txt"
-  },
-  {
-    "code" : "PG",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "巴布亚新几内亚",
-    "path" : "countries/PG.txt"
-  },
-  {
+    "candidates" : 2,
     "code" : "PH",
     "count" : 2,
     "enabled" : true,
@@ -1295,13 +392,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "code" : "PK",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "巴基斯坦",
-    "path" : "countries/PK.txt"
-  },
-  {
+    "candidates" : 24,
     "code" : "PL",
     "count" : 10,
     "enabled" : true,
@@ -1309,76 +400,7 @@
     "path" : "countries/PL.txt"
   },
   {
-    "code" : "PM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "圣皮埃尔和密克隆群岛",
-    "path" : "countries/PM.txt"
-  },
-  {
-    "code" : "PN",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "皮特凯恩群岛",
-    "path" : "countries/PN.txt"
-  },
-  {
-    "code" : "PR",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "波多黎各",
-    "path" : "countries/PR.txt"
-  },
-  {
-    "code" : "PS",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "巴勒斯坦领土",
-    "path" : "countries/PS.txt"
-  },
-  {
-    "code" : "PT",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "葡萄牙",
-    "path" : "countries/PT.txt"
-  },
-  {
-    "code" : "PW",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "帕劳",
-    "path" : "countries/PW.txt"
-  },
-  {
-    "code" : "PY",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "巴拉圭",
-    "path" : "countries/PY.txt"
-  },
-  {
-    "code" : "QA",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "卡塔尔",
-    "path" : "countries/QA.txt"
-  },
-  {
-    "code" : "QO",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "大洋洲边远群岛",
-    "path" : "countries/QO.txt"
-  },
-  {
-    "code" : "RE",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "留尼汪",
-    "path" : "countries/RE.txt"
-  },
-  {
+    "candidates" : 25,
     "code" : "RO",
     "count" : 0,
     "enabled" : true,
@@ -1386,6 +408,7 @@
     "path" : "countries/RO.txt"
   },
   {
+    "candidates" : 8,
     "code" : "RS",
     "count" : 0,
     "enabled" : true,
@@ -1393,6 +416,7 @@
     "path" : "countries/RS.txt"
   },
   {
+    "candidates" : 10,
     "code" : "RU",
     "count" : 8,
     "enabled" : true,
@@ -1400,13 +424,7 @@
     "path" : "countries/RU.txt"
   },
   {
-    "code" : "RW",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "卢旺达",
-    "path" : "countries/RW.txt"
-  },
-  {
+    "candidates" : 14,
     "code" : "SA",
     "count" : 0,
     "enabled" : true,
@@ -1414,27 +432,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "code" : "SB",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "所罗门群岛",
-    "path" : "countries/SB.txt"
-  },
-  {
-    "code" : "SC",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "塞舌尔",
-    "path" : "countries/SC.txt"
-  },
-  {
-    "code" : "SD",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "苏丹",
-    "path" : "countries/SD.txt"
-  },
-  {
+    "candidates" : 55,
     "code" : "SE",
     "count" : 0,
     "enabled" : true,
@@ -1442,6 +440,7 @@
     "path" : "countries/SE.txt"
   },
   {
+    "candidates" : 68,
     "code" : "SG",
     "count" : 0,
     "enabled" : true,
@@ -1449,13 +448,7 @@
     "path" : "countries/SG.txt"
   },
   {
-    "code" : "SH",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "圣赫勒拿",
-    "path" : "countries/SH.txt"
-  },
-  {
+    "candidates" : 1,
     "code" : "SI",
     "count" : 0,
     "enabled" : true,
@@ -1463,13 +456,7 @@
     "path" : "countries/SI.txt"
   },
   {
-    "code" : "SJ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "斯瓦尔巴和扬马延",
-    "path" : "countries/SJ.txt"
-  },
-  {
+    "candidates" : 4,
     "code" : "SK",
     "count" : 0,
     "enabled" : true,
@@ -1477,118 +464,7 @@
     "path" : "countries/SK.txt"
   },
   {
-    "code" : "SL",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "塞拉利昂",
-    "path" : "countries/SL.txt"
-  },
-  {
-    "code" : "SM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "圣马力诺",
-    "path" : "countries/SM.txt"
-  },
-  {
-    "code" : "SN",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "塞内加尔",
-    "path" : "countries/SN.txt"
-  },
-  {
-    "code" : "SO",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "索马里",
-    "path" : "countries/SO.txt"
-  },
-  {
-    "code" : "SR",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "苏里南",
-    "path" : "countries/SR.txt"
-  },
-  {
-    "code" : "SS",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "南苏丹",
-    "path" : "countries/SS.txt"
-  },
-  {
-    "code" : "ST",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "圣多美和普林西比",
-    "path" : "countries/ST.txt"
-  },
-  {
-    "code" : "SV",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "萨尔瓦多",
-    "path" : "countries/SV.txt"
-  },
-  {
-    "code" : "SX",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "荷属圣马丁",
-    "path" : "countries/SX.txt"
-  },
-  {
-    "code" : "SY",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "叙利亚",
-    "path" : "countries/SY.txt"
-  },
-  {
-    "code" : "SZ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "斯威士兰",
-    "path" : "countries/SZ.txt"
-  },
-  {
-    "code" : "TA",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "特里斯坦-达库尼亚群岛",
-    "path" : "countries/TA.txt"
-  },
-  {
-    "code" : "TC",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "特克斯和凯科斯群岛",
-    "path" : "countries/TC.txt"
-  },
-  {
-    "code" : "TD",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "乍得",
-    "path" : "countries/TD.txt"
-  },
-  {
-    "code" : "TF",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "法属南部领地",
-    "path" : "countries/TF.txt"
-  },
-  {
-    "code" : "TG",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "多哥",
-    "path" : "countries/TG.txt"
-  },
-  {
+    "candidates" : 4,
     "code" : "TH",
     "count" : 0,
     "enabled" : true,
@@ -1596,48 +472,7 @@
     "path" : "countries/TH.txt"
   },
   {
-    "code" : "TJ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "塔吉克斯坦",
-    "path" : "countries/TJ.txt"
-  },
-  {
-    "code" : "TK",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "托克劳",
-    "path" : "countries/TK.txt"
-  },
-  {
-    "code" : "TL",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "东帝汶",
-    "path" : "countries/TL.txt"
-  },
-  {
-    "code" : "TM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "土库曼斯坦",
-    "path" : "countries/TM.txt"
-  },
-  {
-    "code" : "TN",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "突尼斯",
-    "path" : "countries/TN.txt"
-  },
-  {
-    "code" : "TO",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "汤加",
-    "path" : "countries/TO.txt"
-  },
-  {
+    "candidates" : 17,
     "code" : "TR",
     "count" : 0,
     "enabled" : true,
@@ -1645,20 +480,7 @@
     "path" : "countries/TR.txt"
   },
   {
-    "code" : "TT",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "特立尼达和多巴哥",
-    "path" : "countries/TT.txt"
-  },
-  {
-    "code" : "TV",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "图瓦卢",
-    "path" : "countries/TV.txt"
-  },
-  {
+    "candidates" : 9,
     "code" : "TW",
     "count" : 0,
     "enabled" : true,
@@ -1666,13 +488,7 @@
     "path" : "countries/TW.txt"
   },
   {
-    "code" : "TZ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "坦桑尼亚",
-    "path" : "countries/TZ.txt"
-  },
-  {
+    "candidates" : 2,
     "code" : "UA",
     "count" : 0,
     "enabled" : true,
@@ -1680,27 +496,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "code" : "UG",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "乌干达",
-    "path" : "countries/UG.txt"
-  },
-  {
-    "code" : "UM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "美国本土外小岛屿",
-    "path" : "countries/UM.txt"
-  },
-  {
-    "code" : "UN",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "联合国",
-    "path" : "countries/UN.txt"
-  },
-  {
+    "candidates" : 558546,
     "code" : "US",
     "count" : 0,
     "enabled" : true,
@@ -1708,122 +504,11 @@
     "path" : "countries/US.txt"
   },
   {
-    "code" : "UY",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "乌拉圭",
-    "path" : "countries/UY.txt"
-  },
-  {
-    "code" : "UZ",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "乌兹别克斯坦",
-    "path" : "countries/UZ.txt"
-  },
-  {
-    "code" : "VA",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "梵蒂冈",
-    "path" : "countries/VA.txt"
-  },
-  {
-    "code" : "VC",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "圣文森特和格林纳丁斯",
-    "path" : "countries/VC.txt"
-  },
-  {
-    "code" : "VE",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "委内瑞拉",
-    "path" : "countries/VE.txt"
-  },
-  {
-    "code" : "VG",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "英属维尔京群岛",
-    "path" : "countries/VG.txt"
-  },
-  {
-    "code" : "VI",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "美属维尔京群岛",
-    "path" : "countries/VI.txt"
-  },
-  {
-    "code" : "VN",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "越南",
-    "path" : "countries/VN.txt"
-  },
-  {
-    "code" : "VU",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "瓦努阿图",
-    "path" : "countries/VU.txt"
-  },
-  {
-    "code" : "WF",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "瓦利斯和富图纳",
-    "path" : "countries/WF.txt"
-  },
-  {
-    "code" : "WS",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "萨摩亚",
-    "path" : "countries/WS.txt"
-  },
-  {
-    "code" : "XK",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "科索沃",
-    "path" : "countries/XK.txt"
-  },
-  {
-    "code" : "YE",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "也门",
-    "path" : "countries/YE.txt"
-  },
-  {
-    "code" : "YT",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "马约特",
-    "path" : "countries/YT.txt"
-  },
-  {
+    "candidates" : 20,
     "code" : "ZA",
     "count" : 0,
     "enabled" : true,
     "name" : "南非",
     "path" : "countries/ZA.txt"
-  },
-  {
-    "code" : "ZM",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "赞比亚",
-    "path" : "countries/ZM.txt"
-  },
-  {
-    "code" : "ZW",
-    "count" : 0,
-    "enabled" : true,
-    "name" : "津巴布韦",
-    "path" : "countries/ZW.txt"
   }
 ]
