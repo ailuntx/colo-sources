@@ -136,7 +136,7 @@
     "path" : "countries/DE.txt"
   },
   {
-    "candidates" : 22,
+    "candidates" : 23,
     "code" : "DK",
     "count" : 17,
     "enabled" : true,
@@ -152,7 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 18,
+    "candidates" : 19,
     "code" : "EE",
     "count" : 13,
     "enabled" : true,
@@ -360,9 +360,9 @@
     "path" : "countries/NL.txt"
   },
   {
-    "candidates" : 10,
+    "candidates" : 8,
     "code" : "NO",
-    "count" : 3,
+    "count" : 2,
     "enabled" : true,
     "name" : "挪威",
     "path" : "countries/NO.txt"
