@@ -414,7 +414,7 @@
   },
   {
     "code" : "DE",
-    "count" : 0,
+    "count" : 50,
     "enabled" : true,
     "name" : "德国",
     "path" : "countries/DE.txt"
@@ -533,7 +533,7 @@
   },
   {
     "code" : "FI",
-    "count" : 0,
+    "count" : 17,
     "enabled" : true,
     "name" : "芬兰",
     "path" : "countries/FI.txt"
@@ -568,7 +568,7 @@
   },
   {
     "code" : "FR",
-    "count" : 0,
+    "count" : 16,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
@@ -596,7 +596,7 @@
   },
   {
     "code" : "GE",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "格鲁吉亚",
     "path" : "countries/GE.txt"
@@ -925,7 +925,7 @@
   },
   {
     "code" : "KZ",
-    "count" : 0,
+    "count" : 7,
     "enabled" : true,
     "name" : "哈萨克斯坦",
     "path" : "countries/KZ.txt"
@@ -1289,7 +1289,7 @@
   },
   {
     "code" : "PH",
-    "count" : 0,
+    "count" : 2,
     "enabled" : true,
     "name" : "菲律宾",
     "path" : "countries/PH.txt"
@@ -1394,7 +1394,7 @@
   },
   {
     "code" : "RU",
-    "count" : 0,
+    "count" : 8,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
