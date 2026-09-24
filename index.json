@@ -15,7 +15,7 @@
   },
   {
     "code" : "AE",
-    "count" : 0,
+    "count" : 7,
     "enabled" : true,
     "name" : "阿拉伯联合酋长国",
     "path" : "countries/AE.txt"
@@ -1254,7 +1254,7 @@
   },
   {
     "code" : "OM",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "阿曼",
     "path" : "countries/OM.txt"
