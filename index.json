@@ -42,7 +42,7 @@
   {
     "candidates" : 74,
     "code" : "AU",
-    "count" : 13,
+    "count" : 7,
     "enabled" : true,
     "name" : "澳大利亚",
     "path" : "countries/AU.txt"
@@ -82,7 +82,7 @@
   {
     "candidates" : 14,
     "code" : "BR",
-    "count" : 10,
+    "count" : 8,
     "enabled" : true,
     "name" : "巴西",
     "path" : "countries/BR.txt"
