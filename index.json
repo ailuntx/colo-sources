@@ -344,7 +344,7 @@
     "path" : "countries/MX.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 0,
     "code" : "NG",
     "count" : 0,
     "enabled" : true,
@@ -398,6 +398,14 @@
     "enabled" : true,
     "name" : "波兰",
     "path" : "countries/PL.txt"
+  },
+  {
+    "candidates" : 1,
+    "code" : "PT",
+    "count" : 0,
+    "enabled" : true,
+    "name" : "葡萄牙",
+    "path" : "countries/PT.txt"
   },
   {
     "candidates" : 26,
