@@ -130,7 +130,7 @@
   {
     "candidates" : 5428,
     "code" : "DE",
-    "count" : 19,
+    "count" : 50,
     "enabled" : true,
     "name" : "德国",
     "path" : "countries/DE.txt"
@@ -168,7 +168,7 @@
     "path" : "countries/ES.txt"
   },
   {
-    "candidates" : 10,
+    "candidates" : 16,
     "code" : "FI",
     "count" : 1,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 33,
+    "candidates" : 32,
     "code" : "FR",
     "count" : 16,
     "enabled" : true,
@@ -376,7 +376,7 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 2,
     "code" : "OM",
     "count" : 1,
     "enabled" : true,
@@ -416,9 +416,9 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 8,
+    "candidates" : 2,
     "code" : "RU",
-    "count" : 0,
+    "count" : 2,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
