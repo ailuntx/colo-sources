@@ -10,7 +10,7 @@
   {
     "candidates" : 4,
     "code" : "AL",
-    "count" : 2,
+    "count" : 3,
     "enabled" : true,
     "name" : "阿尔巴尼亚",
     "path" : "countries/AL.txt"
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 34,
+    "candidates" : 35,
     "code" : "FR",
     "count" : 19,
     "enabled" : true,
@@ -376,7 +376,7 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 2,
+    "candidates" : 1,
     "code" : "OM",
     "count" : 1,
     "enabled" : true,
