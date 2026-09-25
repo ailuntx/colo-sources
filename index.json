@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 25,
+    "candidates" : 26,
     "code" : "AT",
     "count" : 13,
     "enabled" : true,
@@ -200,7 +200,7 @@
     "path" : "countries/GE.txt"
   },
   {
-    "candidates" : 9,
+    "candidates" : 10,
     "code" : "GR",
     "count" : 1,
     "enabled" : true,
@@ -432,9 +432,9 @@
     "path" : "countries/RU.txt"
   },
   {
-    "candidates" : 14,
+    "candidates" : 13,
     "code" : "SA",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "沙特阿拉伯",
     "path" : "countries/SA.txt"
@@ -464,7 +464,7 @@
     "path" : "countries/SI.txt"
   },
   {
-    "candidates" : 5,
+    "candidates" : 4,
     "code" : "SK",
     "count" : 1,
     "enabled" : true,
