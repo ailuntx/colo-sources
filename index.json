@@ -322,7 +322,7 @@
   {
     "candidates" : 7,
     "code" : "LV",
-    "count" : 2,
+    "count" : 5,
     "enabled" : true,
     "name" : "拉脱维亚",
     "path" : "countries/LV.txt"
