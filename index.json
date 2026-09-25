@@ -202,7 +202,7 @@
   {
     "candidates" : 9,
     "code" : "GR",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "希腊",
     "path" : "countries/GR.txt"
