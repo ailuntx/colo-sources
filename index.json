@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 27,
+    "candidates" : 28,
     "code" : "AT",
     "count" : 16,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5440,
+    "candidates" : 5441,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -274,7 +274,7 @@
   {
     "candidates" : 2495,
     "code" : "JP",
-    "count" : 16,
+    "count" : 23,
     "enabled" : true,
     "name" : "日本",
     "path" : "countries/JP.txt"
@@ -392,7 +392,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 29,
+    "candidates" : 30,
     "code" : "PL",
     "count" : 16,
     "enabled" : true,
@@ -440,7 +440,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 63,
+    "candidates" : 60,
     "code" : "SE",
     "count" : 36,
     "enabled" : true,
