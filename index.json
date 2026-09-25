@@ -250,7 +250,7 @@
   {
     "candidates" : 51,
     "code" : "IN",
-    "count" : 5,
+    "count" : 14,
     "enabled" : true,
     "name" : "印度",
     "path" : "countries/IN.txt"
