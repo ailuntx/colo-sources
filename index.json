@@ -338,7 +338,7 @@
   {
     "candidates" : 11,
     "code" : "MX",
-    "count" : 6,
+    "count" : 4,
     "enabled" : true,
     "name" : "墨西哥",
     "path" : "countries/MX.txt"
