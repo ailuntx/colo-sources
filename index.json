@@ -2,7 +2,7 @@
   {
     "candidates" : 5,
     "code" : "AE",
-    "count" : 0,
+    "count" : 2,
     "enabled" : true,
     "name" : "阿拉伯联合酋长国",
     "path" : "countries/AE.txt"
@@ -376,7 +376,7 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 2,
+    "candidates" : 1,
     "code" : "OM",
     "count" : 1,
     "enabled" : true,
@@ -424,7 +424,7 @@
     "path" : "countries/RU.txt"
   },
   {
-    "candidates" : 13,
+    "candidates" : 14,
     "code" : "SA",
     "count" : 0,
     "enabled" : true,
