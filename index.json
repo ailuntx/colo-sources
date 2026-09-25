@@ -152,7 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 24,
+    "candidates" : 23,
     "code" : "EE",
     "count" : 12,
     "enabled" : true,
@@ -234,7 +234,7 @@
   {
     "candidates" : 17,
     "code" : "IE",
-    "count" : 8,
+    "count" : 6,
     "enabled" : true,
     "name" : "爱尔兰",
     "path" : "countries/IE.txt"
@@ -440,7 +440,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 52,
+    "candidates" : 53,
     "code" : "SE",
     "count" : 36,
     "enabled" : true,
