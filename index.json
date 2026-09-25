@@ -162,7 +162,7 @@
   {
     "candidates" : 24,
     "code" : "ES",
-    "count" : 10,
+    "count" : 9,
     "enabled" : true,
     "name" : "西班牙",
     "path" : "countries/ES.txt"
@@ -482,7 +482,7 @@
   {
     "candidates" : 17,
     "code" : "TR",
-    "count" : 8,
+    "count" : 10,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
