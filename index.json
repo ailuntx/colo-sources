@@ -376,7 +376,7 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 2,
     "code" : "OM",
     "count" : 1,
     "enabled" : true,
@@ -432,7 +432,7 @@
     "path" : "countries/RU.txt"
   },
   {
-    "candidates" : 14,
+    "candidates" : 13,
     "code" : "SA",
     "count" : 1,
     "enabled" : true,
