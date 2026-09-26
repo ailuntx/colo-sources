@@ -162,7 +162,7 @@
   {
     "candidates" : 24,
     "code" : "ES",
-    "count" : 16,
+    "count" : 20,
     "enabled" : true,
     "name" : "西班牙",
     "path" : "countries/ES.txt"
