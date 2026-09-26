@@ -90,7 +90,7 @@
   {
     "candidates" : 44,
     "code" : "CA",
-    "count" : 10,
+    "count" : 12,
     "enabled" : true,
     "name" : "加拿大",
     "path" : "countries/CA.txt"
