@@ -106,7 +106,7 @@
   {
     "candidates" : 5,
     "code" : "CL",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "智利",
     "path" : "countries/CL.txt"
@@ -186,7 +186,7 @@
   {
     "candidates" : 33062,
     "code" : "GB",
-    "count" : 50,
+    "count" : 1,
     "enabled" : true,
     "name" : "英国",
     "path" : "countries/GB.txt"
@@ -226,7 +226,7 @@
   {
     "candidates" : 8,
     "code" : "ID",
-    "count" : 6,
+    "count" : 0,
     "enabled" : true,
     "name" : "印度尼西亚",
     "path" : "countries/ID.txt"
@@ -250,7 +250,7 @@
   {
     "candidates" : 51,
     "code" : "IN",
-    "count" : 14,
+    "count" : 0,
     "enabled" : true,
     "name" : "印度",
     "path" : "countries/IN.txt"
@@ -266,7 +266,7 @@
   {
     "candidates" : 24,
     "code" : "IT",
-    "count" : 12,
+    "count" : 0,
     "enabled" : true,
     "name" : "意大利",
     "path" : "countries/IT.txt"
