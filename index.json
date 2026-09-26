@@ -168,7 +168,7 @@
     "path" : "countries/ES.txt"
   },
   {
-    "candidates" : 15,
+    "candidates" : 17,
     "code" : "FI",
     "count" : 12,
     "enabled" : true,
@@ -176,9 +176,9 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 31,
+    "candidates" : 30,
     "code" : "FR",
-    "count" : 20,
+    "count" : 19,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
@@ -376,7 +376,7 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 2,
     "code" : "OM",
     "count" : 1,
     "enabled" : true,
@@ -424,7 +424,7 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 7,
+    "candidates" : 2,
     "code" : "RU",
     "count" : 2,
     "enabled" : true,
@@ -440,7 +440,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 57,
+    "candidates" : 60,
     "code" : "SE",
     "count" : 33,
     "enabled" : true,
