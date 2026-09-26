@@ -24,7 +24,7 @@
     "path" : "countries/AM.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 2,
     "code" : "AR",
     "count" : 1,
     "enabled" : true,
@@ -80,7 +80,7 @@
     "path" : "countries/BH.txt"
   },
   {
-    "candidates" : 13,
+    "candidates" : 12,
     "code" : "BR",
     "count" : 2,
     "enabled" : true,
