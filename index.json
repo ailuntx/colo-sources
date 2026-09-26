@@ -10,7 +10,7 @@
   {
     "candidates" : 4,
     "code" : "AL",
-    "count" : 3,
+    "count" : 0,
     "enabled" : true,
     "name" : "阿尔巴尼亚",
     "path" : "countries/AL.txt"
@@ -26,7 +26,7 @@
   {
     "candidates" : 1,
     "code" : "AR",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "阿根廷",
     "path" : "countries/AR.txt"
