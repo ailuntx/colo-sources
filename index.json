@@ -114,7 +114,7 @@
   {
     "candidates" : 6,
     "code" : "CY",
-    "count" : 0,
+    "count" : 4,
     "enabled" : true,
     "name" : "塞浦路斯",
     "path" : "countries/CY.txt"
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 30,
+    "candidates" : 31,
     "code" : "FR",
     "count" : 20,
     "enabled" : true,
@@ -418,7 +418,7 @@
   {
     "candidates" : 8,
     "code" : "RS",
-    "count" : 2,
+    "count" : 3,
     "enabled" : true,
     "name" : "塞尔维亚",
     "path" : "countries/RS.txt"
@@ -432,9 +432,9 @@
     "path" : "countries/RU.txt"
   },
   {
-    "candidates" : 14,
+    "candidates" : 13,
     "code" : "SA",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "沙特阿拉伯",
     "path" : "countries/SA.txt"
