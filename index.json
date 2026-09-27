@@ -410,7 +410,7 @@
   {
     "candidates" : 25,
     "code" : "RO",
-    "count" : 0,
+    "count" : 8,
     "enabled" : true,
     "name" : "罗马尼亚",
     "path" : "countries/RO.txt"
@@ -506,7 +506,7 @@
   {
     "candidates" : 559203,
     "code" : "US",
-    "count" : 48,
+    "count" : 4,
     "enabled" : true,
     "name" : "美国",
     "path" : "countries/US.txt"
