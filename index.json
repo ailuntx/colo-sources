@@ -482,7 +482,7 @@
   {
     "candidates" : 17,
     "code" : "TR",
-    "count" : 13,
+    "count" : 14,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
@@ -498,7 +498,7 @@
   {
     "candidates" : 2,
     "code" : "UA",
-    "count" : 0,
+    "count" : 2,
     "enabled" : true,
     "name" : "乌克兰",
     "path" : "countries/UA.txt"
