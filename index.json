@@ -330,7 +330,7 @@
   {
     "candidates" : 10,
     "code" : "MD",
-    "count" : 5,
+    "count" : 0,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
@@ -338,7 +338,7 @@
   {
     "candidates" : 11,
     "code" : "MX",
-    "count" : 8,
+    "count" : 1,
     "enabled" : true,
     "name" : "墨西哥",
     "path" : "countries/MX.txt"
