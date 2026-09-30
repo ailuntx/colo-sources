@@ -344,7 +344,7 @@
     "path" : "countries/MX.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 0,
     "code" : "NG",
     "count" : 0,
     "enabled" : true,
@@ -400,7 +400,7 @@
     "path" : "countries/PL.txt"
   },
   {
-    "candidates" : 0,
+    "candidates" : 1,
     "code" : "PT",
     "count" : 0,
     "enabled" : true,
@@ -514,7 +514,7 @@
   {
     "candidates" : 24,
     "code" : "ZA",
-    "count" : 8,
+    "count" : 4,
     "enabled" : true,
     "name" : "南非",
     "path" : "countries/ZA.txt"
