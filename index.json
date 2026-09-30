@@ -458,7 +458,7 @@
   {
     "candidates" : 1,
     "code" : "SI",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "斯洛文尼亚",
     "path" : "countries/SI.txt"
@@ -466,7 +466,7 @@
   {
     "candidates" : 4,
     "code" : "SK",
-    "count" : 2,
+    "count" : 3,
     "enabled" : true,
     "name" : "斯洛伐克",
     "path" : "countries/SK.txt"
@@ -474,7 +474,7 @@
   {
     "candidates" : 4,
     "code" : "TH",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "泰国",
     "path" : "countries/TH.txt"
@@ -490,7 +490,7 @@
   {
     "candidates" : 9,
     "code" : "TW",
-    "count" : 1,
+    "count" : 2,
     "enabled" : true,
     "name" : "台湾",
     "path" : "countries/TW.txt"
