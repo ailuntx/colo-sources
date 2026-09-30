@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 28,
+    "candidates" : 29,
     "code" : "FR",
     "count" : 15,
     "enabled" : true,
@@ -376,9 +376,9 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 6,
+    "candidates" : 4,
     "code" : "OM",
-    "count" : 2,
+    "count" : 3,
     "enabled" : true,
     "name" : "阿曼",
     "path" : "countries/OM.txt"
@@ -432,7 +432,7 @@
     "path" : "countries/RU.txt"
   },
   {
-    "candidates" : 13,
+    "candidates" : 14,
     "code" : "SA",
     "count" : 0,
     "enabled" : true,
