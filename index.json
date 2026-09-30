@@ -352,7 +352,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 38,
+    "candidates" : 39,
     "code" : "NL",
     "count" : 21,
     "enabled" : true,
@@ -392,7 +392,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 35,
+    "candidates" : 30,
     "code" : "PL",
     "count" : 9,
     "enabled" : true,
@@ -408,7 +408,7 @@
     "path" : "countries/PT.txt"
   },
   {
-    "candidates" : 30,
+    "candidates" : 31,
     "code" : "RO",
     "count" : 11,
     "enabled" : true,
@@ -440,7 +440,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 61,
+    "candidates" : 64,
     "code" : "SE",
     "count" : 46,
     "enabled" : true,
