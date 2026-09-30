@@ -56,7 +56,7 @@
     "path" : "countries/AZ.txt"
   },
   {
-    "candidates" : 2,
+    "candidates" : 3,
     "code" : "BE",
     "count" : 1,
     "enabled" : true,
@@ -168,7 +168,7 @@
     "path" : "countries/ES.txt"
   },
   {
-    "candidates" : 4,
+    "candidates" : 9,
     "code" : "FI",
     "count" : 1,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 29,
+    "candidates" : 30,
     "code" : "FR",
     "count" : 16,
     "enabled" : true,
@@ -352,9 +352,9 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 39,
+    "candidates" : 31,
     "code" : "NL",
-    "count" : 19,
+    "count" : 16,
     "enabled" : true,
     "name" : "荷兰",
     "path" : "countries/NL.txt"
@@ -440,7 +440,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 60,
+    "candidates" : 61,
     "code" : "SE",
     "count" : 32,
     "enabled" : true,
