@@ -176,9 +176,9 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 30,
+    "candidates" : 29,
     "code" : "FR",
-    "count" : 16,
+    "count" : 14,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
@@ -376,7 +376,7 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 4,
+    "candidates" : 5,
     "code" : "OM",
     "count" : 4,
     "enabled" : true,
