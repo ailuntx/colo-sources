@@ -296,7 +296,7 @@
     "path" : "countries/KR.txt"
   },
   {
-    "candidates" : 12,
+    "candidates" : 14,
     "code" : "KZ",
     "count" : 8,
     "enabled" : true,
@@ -392,9 +392,9 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 34,
+    "candidates" : 28,
     "code" : "PL",
-    "count" : 20,
+    "count" : 19,
     "enabled" : true,
     "name" : "波兰",
     "path" : "countries/PL.txt"
@@ -408,7 +408,7 @@
     "path" : "countries/PT.txt"
   },
   {
-    "candidates" : 26,
+    "candidates" : 27,
     "code" : "RO",
     "count" : 22,
     "enabled" : true,
@@ -440,7 +440,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 50,
+    "candidates" : 53,
     "code" : "SE",
     "count" : 25,
     "enabled" : true,
