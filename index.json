@@ -152,7 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 21,
+    "candidates" : 23,
     "code" : "EE",
     "count" : 13,
     "enabled" : true,
@@ -304,7 +304,7 @@
     "path" : "countries/KZ.txt"
   },
   {
-    "candidates" : 16,
+    "candidates" : 29,
     "code" : "LT",
     "count" : 3,
     "enabled" : true,
@@ -320,9 +320,9 @@
     "path" : "countries/LU.txt"
   },
   {
-    "candidates" : 23,
+    "candidates" : 8,
     "code" : "LV",
-    "count" : 2,
+    "count" : 5,
     "enabled" : true,
     "name" : "拉脱维亚",
     "path" : "countries/LV.txt"
