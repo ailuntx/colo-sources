@@ -1,6 +1,6 @@
 [
   {
-    "candidates" : 5,
+    "candidates" : 8,
     "code" : "AE",
     "count" : 2,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 30,
+    "candidates" : 31,
     "code" : "FR",
     "count" : 13,
     "enabled" : true,
@@ -512,9 +512,9 @@
     "path" : "countries/US.txt"
   },
   {
-    "candidates" : 24,
+    "candidates" : 20,
     "code" : "ZA",
-    "count" : 5,
+    "count" : 4,
     "enabled" : true,
     "name" : "南非",
     "path" : "countries/ZA.txt"
