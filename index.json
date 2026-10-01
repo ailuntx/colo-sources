@@ -170,7 +170,7 @@
   {
     "candidates" : 15,
     "code" : "FI",
-    "count" : 1,
+    "count" : 11,
     "enabled" : true,
     "name" : "芬兰",
     "path" : "countries/FI.txt"
@@ -194,7 +194,7 @@
   {
     "candidates" : 1,
     "code" : "GE",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "格鲁吉亚",
     "path" : "countries/GE.txt"
@@ -296,9 +296,9 @@
     "path" : "countries/KR.txt"
   },
   {
-    "candidates" : 14,
+    "candidates" : 11,
     "code" : "KZ",
-    "count" : 8,
+    "count" : 5,
     "enabled" : true,
     "name" : "哈萨克斯坦",
     "path" : "countries/KZ.txt"
@@ -392,7 +392,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 28,
+    "candidates" : 31,
     "code" : "PL",
     "count" : 11,
     "enabled" : true,
