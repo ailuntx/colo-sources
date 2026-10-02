@@ -386,7 +386,7 @@
   {
     "candidates" : 2,
     "code" : "PH",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "菲律宾",
     "path" : "countries/PH.txt"
