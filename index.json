@@ -88,7 +88,7 @@
     "path" : "countries/BR.txt"
   },
   {
-    "candidates" : 46,
+    "candidates" : 45,
     "code" : "CA",
     "count" : 16,
     "enabled" : true,
@@ -354,7 +354,7 @@
   {
     "candidates" : 31,
     "code" : "NL",
-    "count" : 19,
+    "count" : 23,
     "enabled" : true,
     "name" : "荷兰",
     "path" : "countries/NL.txt"
@@ -504,7 +504,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 559774,
+    "candidates" : 559775,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
