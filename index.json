@@ -10,7 +10,7 @@
   {
     "candidates" : 4,
     "code" : "AL",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "阿尔巴尼亚",
     "path" : "countries/AL.txt"
