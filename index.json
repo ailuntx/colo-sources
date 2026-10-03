@@ -170,7 +170,7 @@
   {
     "candidates" : 16,
     "code" : "FI",
-    "count" : 9,
+    "count" : 11,
     "enabled" : true,
     "name" : "芬兰",
     "path" : "countries/FI.txt"
