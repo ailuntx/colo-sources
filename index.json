@@ -378,7 +378,7 @@
   {
     "candidates" : 5,
     "code" : "OM",
-    "count" : 2,
+    "count" : 3,
     "enabled" : true,
     "name" : "阿曼",
     "path" : "countries/OM.txt"
