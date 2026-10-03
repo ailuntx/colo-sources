@@ -424,7 +424,7 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 6,
+    "candidates" : 4,
     "code" : "RU",
     "count" : 2,
     "enabled" : true,
@@ -440,7 +440,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 53,
+    "candidates" : 55,
     "code" : "SE",
     "count" : 27,
     "enabled" : true,
