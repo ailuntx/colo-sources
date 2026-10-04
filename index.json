@@ -434,7 +434,7 @@
   {
     "candidates" : 14,
     "code" : "SA",
-    "count" : 3,
+    "count" : 1,
     "enabled" : true,
     "name" : "沙特阿拉伯",
     "path" : "countries/SA.txt"
@@ -466,7 +466,7 @@
   {
     "candidates" : 4,
     "code" : "SK",
-    "count" : 2,
+    "count" : 3,
     "enabled" : true,
     "name" : "斯洛伐克",
     "path" : "countries/SK.txt"
