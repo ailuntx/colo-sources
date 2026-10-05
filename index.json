@@ -2,7 +2,7 @@
   {
     "candidates" : 9,
     "code" : "AE",
-    "count" : 4,
+    "count" : 6,
     "enabled" : true,
     "name" : "阿拉伯联合酋长国",
     "path" : "countries/AE.txt"
@@ -234,7 +234,7 @@
   {
     "candidates" : 17,
     "code" : "IE",
-    "count" : 2,
+    "count" : 7,
     "enabled" : true,
     "name" : "爱尔兰",
     "path" : "countries/IE.txt"
@@ -386,7 +386,7 @@
   {
     "candidates" : 6,
     "code" : "OM",
-    "count" : 3,
+    "count" : 4,
     "enabled" : true,
     "name" : "阿曼",
     "path" : "countries/OM.txt"
