@@ -258,7 +258,7 @@
   {
     "candidates" : 11,
     "code" : "IS",
-    "count" : 3,
+    "count" : 8,
     "enabled" : true,
     "name" : "冰岛",
     "path" : "countries/IS.txt"
