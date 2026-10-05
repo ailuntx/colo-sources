@@ -1,6 +1,6 @@
 [
   {
-    "candidates" : 8,
+    "candidates" : 9,
     "code" : "AE",
     "count" : 4,
     "enabled" : true,
@@ -146,7 +146,7 @@
   {
     "candidates" : 1,
     "code" : "DO",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "多米尼加共和国",
     "path" : "countries/DO.txt"
@@ -168,7 +168,7 @@
     "path" : "countries/ES.txt"
   },
   {
-    "candidates" : 16,
+    "candidates" : 17,
     "code" : "FI",
     "count" : 11,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 31,
+    "candidates" : 28,
     "code" : "FR",
     "count" : 14,
     "enabled" : true,
@@ -376,7 +376,7 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 5,
+    "candidates" : 6,
     "code" : "OM",
     "count" : 3,
     "enabled" : true,
@@ -424,9 +424,9 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 6,
+    "candidates" : 3,
     "code" : "RU",
-    "count" : 4,
+    "count" : 2,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
@@ -440,7 +440,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 50,
+    "candidates" : 53,
     "code" : "SE",
     "count" : 36,
     "enabled" : true,
