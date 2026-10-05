@@ -82,7 +82,7 @@
   {
     "candidates" : 12,
     "code" : "BR",
-    "count" : 9,
+    "count" : 7,
     "enabled" : true,
     "name" : "巴西",
     "path" : "countries/BR.txt"
@@ -90,7 +90,7 @@
   {
     "candidates" : 44,
     "code" : "CA",
-    "count" : 16,
+    "count" : 15,
     "enabled" : true,
     "name" : "加拿大",
     "path" : "countries/CA.txt"
@@ -152,7 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 23,
+    "candidates" : 25,
     "code" : "EE",
     "count" : 9,
     "enabled" : true,
@@ -274,7 +274,7 @@
   {
     "candidates" : 1635,
     "code" : "JP",
-    "count" : 10,
+    "count" : 9,
     "enabled" : true,
     "name" : "日本",
     "path" : "countries/JP.txt"
@@ -342,6 +342,14 @@
     "enabled" : true,
     "name" : "墨西哥",
     "path" : "countries/MX.txt"
+  },
+  {
+    "candidates" : 1,
+    "code" : "MY",
+    "count" : 0,
+    "enabled" : true,
+    "name" : "马来西亚",
+    "path" : "countries/MY.txt"
   },
   {
     "candidates" : 1,
@@ -426,7 +434,7 @@
   {
     "candidates" : 3,
     "code" : "RU",
-    "count" : 2,
+    "count" : 1,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
@@ -504,7 +512,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 560175,
+    "candidates" : 560172,
     "code" : "US",
     "count" : 46,
     "enabled" : true,
