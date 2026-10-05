@@ -168,7 +168,7 @@
     "path" : "countries/ES.txt"
   },
   {
-    "candidates" : 17,
+    "candidates" : 16,
     "code" : "FI",
     "count" : 11,
     "enabled" : true,
@@ -394,7 +394,7 @@
   {
     "candidates" : 2,
     "code" : "PH",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "菲律宾",
     "path" : "countries/PH.txt"
@@ -432,7 +432,7 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 3,
+    "candidates" : 4,
     "code" : "RU",
     "count" : 3,
     "enabled" : true,
