@@ -112,9 +112,9 @@
     "path" : "countries/CL.txt"
   },
   {
-    "candidates" : 6,
+    "candidates" : 3,
     "code" : "CY",
-    "count" : 5,
+    "count" : 2,
     "enabled" : true,
     "name" : "塞浦路斯",
     "path" : "countries/CY.txt"
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 400,
+    "candidates" : 403,
     "code" : "FR",
     "count" : 15,
     "enabled" : true,
