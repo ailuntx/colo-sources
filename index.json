@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 4655,
+    "candidates" : 4665,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -400,7 +400,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 33,
+    "candidates" : 34,
     "code" : "PL",
     "count" : 14,
     "enabled" : true,
@@ -416,9 +416,9 @@
     "path" : "countries/PT.txt"
   },
   {
-    "candidates" : 125,
+    "candidates" : 114,
     "code" : "RO",
-    "count" : 19,
+    "count" : 18,
     "enabled" : true,
     "name" : "罗马尼亚",
     "path" : "countries/RO.txt"
