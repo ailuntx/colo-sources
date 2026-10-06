@@ -272,7 +272,7 @@
     "path" : "countries/IT.txt"
   },
   {
-    "candidates" : 1484,
+    "candidates" : 1439,
     "code" : "JP",
     "count" : 9,
     "enabled" : true,
@@ -512,7 +512,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 560371,
+    "candidates" : 560416,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
