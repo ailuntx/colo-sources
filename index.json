@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 68,
+    "candidates" : 69,
     "code" : "AT",
     "count" : 14,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 4747,
+    "candidates" : 4752,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -152,7 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 23,
+    "candidates" : 24,
     "code" : "EE",
     "count" : 11,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 343,
+    "candidates" : 349,
     "code" : "FR",
     "count" : 15,
     "enabled" : true,
@@ -274,7 +274,7 @@
   {
     "candidates" : 1439,
     "code" : "JP",
-    "count" : 9,
+    "count" : 17,
     "enabled" : true,
     "name" : "日本",
     "path" : "countries/JP.txt"
@@ -360,7 +360,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 31,
+    "candidates" : 33,
     "code" : "NL",
     "count" : 22,
     "enabled" : true,
@@ -400,7 +400,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 83,
+    "candidates" : 94,
     "code" : "PL",
     "count" : 16,
     "enabled" : true,
@@ -432,7 +432,7 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 5,
+    "candidates" : 7,
     "code" : "RU",
     "count" : 3,
     "enabled" : true,
@@ -448,9 +448,9 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 130,
+    "candidates" : 102,
     "code" : "SE",
-    "count" : 38,
+    "count" : 35,
     "enabled" : true,
     "name" : "瑞典",
     "path" : "countries/SE.txt"
