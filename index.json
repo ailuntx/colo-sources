@@ -152,7 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 20,
+    "candidates" : 21,
     "code" : "EE",
     "count" : 9,
     "enabled" : true,
@@ -344,7 +344,7 @@
     "path" : "countries/MX.txt"
   },
   {
-    "candidates" : 3,
+    "candidates" : 1,
     "code" : "MY",
     "count" : 0,
     "enabled" : true,
@@ -418,7 +418,7 @@
   {
     "candidates" : 98,
     "code" : "RO",
-    "count" : 18,
+    "count" : 10,
     "enabled" : true,
     "name" : "罗马尼亚",
     "path" : "countries/RO.txt"
@@ -512,7 +512,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 560282,
+    "candidates" : 560283,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
