@@ -330,15 +330,15 @@
   {
     "candidates" : 5,
     "code" : "MD",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
   },
   {
-    "candidates" : 8,
+    "candidates" : 7,
     "code" : "MX",
-    "count" : 4,
+    "count" : 5,
     "enabled" : true,
     "name" : "墨西哥",
     "path" : "countries/MX.txt"
@@ -512,7 +512,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 560349,
+    "candidates" : 560350,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
