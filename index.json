@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 72,
+    "candidates" : 73,
     "code" : "AT",
     "count" : 14,
     "enabled" : true,
@@ -464,9 +464,9 @@
     "path" : "countries/SG.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 0,
     "code" : "SI",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "斯洛文尼亚",
     "path" : "countries/SI.txt"
@@ -474,7 +474,7 @@
   {
     "candidates" : 5,
     "code" : "SK",
-    "count" : 1,
+    "count" : 3,
     "enabled" : true,
     "name" : "斯洛伐克",
     "path" : "countries/SK.txt"
