@@ -258,7 +258,7 @@
   {
     "candidates" : 11,
     "code" : "IS",
-    "count" : 9,
+    "count" : 8,
     "enabled" : true,
     "name" : "冰岛",
     "path" : "countries/IS.txt"
@@ -400,9 +400,9 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 72,
+    "candidates" : 68,
     "code" : "PL",
-    "count" : 14,
+    "count" : 13,
     "enabled" : true,
     "name" : "波兰",
     "path" : "countries/PL.txt"
@@ -416,7 +416,7 @@
     "path" : "countries/PT.txt"
   },
   {
-    "candidates" : 75,
+    "candidates" : 76,
     "code" : "RO",
     "count" : 21,
     "enabled" : true,
@@ -448,7 +448,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 75,
+    "candidates" : 76,
     "code" : "SE",
     "count" : 41,
     "enabled" : true,
@@ -472,7 +472,7 @@
     "path" : "countries/SI.txt"
   },
   {
-    "candidates" : 4,
+    "candidates" : 6,
     "code" : "SK",
     "count" : 2,
     "enabled" : true,
