@@ -64,7 +64,7 @@
     "path" : "countries/BE.txt"
   },
   {
-    "candidates" : 28,
+    "candidates" : 29,
     "code" : "BG",
     "count" : 18,
     "enabled" : true,
@@ -488,9 +488,9 @@
     "path" : "countries/TH.txt"
   },
   {
-    "candidates" : 17,
+    "candidates" : 16,
     "code" : "TR",
-    "count" : 4,
+    "count" : 3,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
@@ -498,7 +498,7 @@
   {
     "candidates" : 9,
     "code" : "TW",
-    "count" : 2,
+    "count" : 1,
     "enabled" : true,
     "name" : "台湾",
     "path" : "countries/TW.txt"
