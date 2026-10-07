@@ -200,7 +200,7 @@
     "path" : "countries/GE.txt"
   },
   {
-    "candidates" : 9,
+    "candidates" : 10,
     "code" : "GR",
     "count" : 3,
     "enabled" : true,
@@ -384,7 +384,7 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 5,
+    "candidates" : 6,
     "code" : "OM",
     "count" : 2,
     "enabled" : true,
@@ -440,7 +440,7 @@
     "path" : "countries/RU.txt"
   },
   {
-    "candidates" : 14,
+    "candidates" : 12,
     "code" : "SA",
     "count" : 0,
     "enabled" : true,
