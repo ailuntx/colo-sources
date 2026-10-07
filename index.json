@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 4893,
+    "candidates" : 4897,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -160,7 +160,7 @@
     "path" : "countries/EE.txt"
   },
   {
-    "candidates" : 161,
+    "candidates" : 142,
     "code" : "ES",
     "count" : 21,
     "enabled" : true,
@@ -360,7 +360,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 45,
+    "candidates" : 58,
     "code" : "NL",
     "count" : 21,
     "enabled" : true,
@@ -416,7 +416,7 @@
     "path" : "countries/PT.txt"
   },
   {
-    "candidates" : 72,
+    "candidates" : 74,
     "code" : "RO",
     "count" : 21,
     "enabled" : true,
@@ -506,7 +506,7 @@
   {
     "candidates" : 1,
     "code" : "UA",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "乌克兰",
     "path" : "countries/UA.txt"
