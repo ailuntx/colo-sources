@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 35,
+    "candidates" : 37,
     "code" : "AT",
     "count" : 14,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 4943,
+    "candidates" : 4945,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 275,
+    "candidates" : 277,
     "code" : "FR",
     "count" : 12,
     "enabled" : true,
@@ -290,7 +290,7 @@
   {
     "candidates" : 27,
     "code" : "KR",
-    "count" : 5,
+    "count" : 12,
     "enabled" : true,
     "name" : "韩国",
     "path" : "countries/KR.txt"
@@ -360,7 +360,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 67,
+    "candidates" : 31,
     "code" : "NL",
     "count" : 21,
     "enabled" : true,
@@ -448,7 +448,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 138,
+    "candidates" : 168,
     "code" : "SE",
     "count" : 41,
     "enabled" : true,
