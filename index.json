@@ -370,7 +370,7 @@
   {
     "candidates" : 8,
     "code" : "NO",
-    "count" : 4,
+    "count" : 5,
     "enabled" : true,
     "name" : "挪威",
     "path" : "countries/NO.txt"
@@ -410,7 +410,7 @@
   {
     "candidates" : 1,
     "code" : "PT",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "葡萄牙",
     "path" : "countries/PT.txt"
