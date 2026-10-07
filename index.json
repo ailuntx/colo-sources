@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 78,
+    "candidates" : 51,
     "code" : "AT",
     "count" : 14,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 4768,
+    "candidates" : 4782,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -154,7 +154,7 @@
   {
     "candidates" : 21,
     "code" : "EE",
-    "count" : 11,
+    "count" : 9,
     "enabled" : true,
     "name" : "爱沙尼亚",
     "path" : "countries/EE.txt"
@@ -416,7 +416,7 @@
     "path" : "countries/PT.txt"
   },
   {
-    "candidates" : 48,
+    "candidates" : 61,
     "code" : "RO",
     "count" : 19,
     "enabled" : true,
