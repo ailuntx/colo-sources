@@ -184,9 +184,9 @@
     "path" : "countries/FR.txt"
   },
   {
-    "candidates" : 33096,
+    "candidates" : 33091,
     "code" : "GB",
-    "count" : 50,
+    "count" : 49,
     "enabled" : true,
     "name" : "英国",
     "path" : "countries/GB.txt"
@@ -512,7 +512,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 561513,
+    "candidates" : 561518,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
