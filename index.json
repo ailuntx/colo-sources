@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 46,
+    "candidates" : 47,
     "code" : "AT",
     "count" : 14,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5003,
+    "candidates" : 5002,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
