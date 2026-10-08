@@ -80,9 +80,9 @@
     "path" : "countries/BH.txt"
   },
   {
-    "candidates" : 13,
+    "candidates" : 12,
     "code" : "BR",
-    "count" : 8,
+    "count" : 7,
     "enabled" : true,
     "name" : "巴西",
     "path" : "countries/BR.txt"
@@ -104,7 +104,7 @@
     "path" : "countries/CH.txt"
   },
   {
-    "candidates" : 4,
+    "candidates" : 5,
     "code" : "CL",
     "count" : 1,
     "enabled" : true,
@@ -296,7 +296,7 @@
     "path" : "countries/KR.txt"
   },
   {
-    "candidates" : 14,
+    "candidates" : 13,
     "code" : "KZ",
     "count" : 9,
     "enabled" : true,
@@ -400,7 +400,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 82,
+    "candidates" : 83,
     "code" : "PL",
     "count" : 14,
     "enabled" : true,
