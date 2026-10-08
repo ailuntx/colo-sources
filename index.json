@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5134,
+    "candidates" : 5135,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -160,7 +160,7 @@
     "path" : "countries/EE.txt"
   },
   {
-    "candidates" : 125,
+    "candidates" : 121,
     "code" : "ES",
     "count" : 17,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 59,
+    "candidates" : 61,
     "code" : "FR",
     "count" : 15,
     "enabled" : true,
@@ -448,7 +448,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 167,
+    "candidates" : 168,
     "code" : "SE",
     "count" : 34,
     "enabled" : true,
@@ -490,7 +490,7 @@
   {
     "candidates" : 17,
     "code" : "TR",
-    "count" : 3,
+    "count" : 6,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
