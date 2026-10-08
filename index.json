@@ -456,9 +456,9 @@
     "path" : "countries/SE.txt"
   },
   {
-    "candidates" : 67,
+    "candidates" : 66,
     "code" : "SG",
-    "count" : 28,
+    "count" : 26,
     "enabled" : true,
     "name" : "新加坡",
     "path" : "countries/SG.txt"
@@ -512,7 +512,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 561051,
+    "candidates" : 561052,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
