@@ -434,7 +434,7 @@
   {
     "candidates" : 6,
     "code" : "RU",
-    "count" : 4,
+    "count" : 3,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
