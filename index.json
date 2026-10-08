@@ -352,7 +352,7 @@
     "path" : "countries/MY.txt"
   },
   {
-    "candidates" : 0,
+    "candidates" : 1,
     "code" : "NG",
     "count" : 0,
     "enabled" : true,
@@ -378,7 +378,7 @@
   {
     "candidates" : 3,
     "code" : "NZ",
-    "count" : 2,
+    "count" : 1,
     "enabled" : true,
     "name" : "新西兰",
     "path" : "countries/NZ.txt"
@@ -408,9 +408,9 @@
     "path" : "countries/PL.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 0,
     "code" : "PT",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "葡萄牙",
     "path" : "countries/PT.txt"
