@@ -194,7 +194,7 @@
   {
     "candidates" : 1,
     "code" : "GE",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "格鲁吉亚",
     "path" : "countries/GE.txt"
