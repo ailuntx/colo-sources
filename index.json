@@ -178,7 +178,7 @@
   {
     "candidates" : 156,
     "code" : "FR",
-    "count" : 12,
+    "count" : 13,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
@@ -272,9 +272,9 @@
     "path" : "countries/IT.txt"
   },
   {
-    "candidates" : 1309,
+    "candidates" : 848,
     "code" : "JP",
-    "count" : 17,
+    "count" : 12,
     "enabled" : true,
     "name" : "日本",
     "path" : "countries/JP.txt"
@@ -512,7 +512,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 561052,
+    "candidates" : 561513,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
