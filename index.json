@@ -266,7 +266,7 @@
   {
     "candidates" : 24,
     "code" : "IT",
-    "count" : 17,
+    "count" : 15,
     "enabled" : true,
     "name" : "意大利",
     "path" : "countries/IT.txt"
@@ -290,7 +290,7 @@
   {
     "candidates" : 27,
     "code" : "KR",
-    "count" : 12,
+    "count" : 11,
     "enabled" : true,
     "name" : "韩国",
     "path" : "countries/KR.txt"
