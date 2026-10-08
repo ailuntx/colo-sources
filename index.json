@@ -48,9 +48,9 @@
     "path" : "countries/AU.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 0,
     "code" : "AZ",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "阿塞拜疆",
     "path" : "countries/AZ.txt"
@@ -64,7 +64,7 @@
     "path" : "countries/BE.txt"
   },
   {
-    "candidates" : 29,
+    "candidates" : 30,
     "code" : "BG",
     "count" : 19,
     "enabled" : true,
@@ -234,7 +234,7 @@
   {
     "candidates" : 15,
     "code" : "IE",
-    "count" : 5,
+    "count" : 3,
     "enabled" : true,
     "name" : "爱尔兰",
     "path" : "countries/IE.txt"
