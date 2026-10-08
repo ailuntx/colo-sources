@@ -146,7 +146,7 @@
   {
     "candidates" : 1,
     "code" : "DO",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "多米尼加共和国",
     "path" : "countries/DO.txt"
@@ -168,7 +168,7 @@
     "path" : "countries/ES.txt"
   },
   {
-    "candidates" : 15,
+    "candidates" : 16,
     "code" : "FI",
     "count" : 11,
     "enabled" : true,
@@ -432,9 +432,9 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 7,
+    "candidates" : 4,
     "code" : "RU",
-    "count" : 3,
+    "count" : 1,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
@@ -448,7 +448,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 129,
+    "candidates" : 131,
     "code" : "SE",
     "count" : 38,
     "enabled" : true,
