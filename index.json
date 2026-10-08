@@ -234,7 +234,7 @@
   {
     "candidates" : 15,
     "code" : "IE",
-    "count" : 4,
+    "count" : 5,
     "enabled" : true,
     "name" : "爱尔兰",
     "path" : "countries/IE.txt"
@@ -490,7 +490,7 @@
   {
     "candidates" : 16,
     "code" : "TR",
-    "count" : 5,
+    "count" : 4,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
