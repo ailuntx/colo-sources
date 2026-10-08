@@ -120,7 +120,7 @@
     "path" : "countries/CY.txt"
   },
   {
-    "candidates" : 11,
+    "candidates" : 12,
     "code" : "CZ",
     "count" : 0,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5048,
+    "candidates" : 5052,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -304,9 +304,9 @@
     "path" : "countries/KZ.txt"
   },
   {
-    "candidates" : 28,
+    "candidates" : 23,
     "code" : "LT",
-    "count" : 20,
+    "count" : 2,
     "enabled" : true,
     "name" : "立陶宛",
     "path" : "countries/LT.txt"
@@ -320,7 +320,7 @@
     "path" : "countries/LU.txt"
   },
   {
-    "candidates" : 10,
+    "candidates" : 15,
     "code" : "LV",
     "count" : 2,
     "enabled" : true,
@@ -400,7 +400,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 49,
+    "candidates" : 50,
     "code" : "PL",
     "count" : 12,
     "enabled" : true,
@@ -416,9 +416,9 @@
     "path" : "countries/PT.txt"
   },
   {
-    "candidates" : 52,
+    "candidates" : 46,
     "code" : "RO",
-    "count" : 19,
+    "count" : 18,
     "enabled" : true,
     "name" : "罗马尼亚",
     "path" : "countries/RO.txt"
