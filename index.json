@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 25,
+    "candidates" : 26,
     "code" : "AT",
     "count" : 17,
     "enabled" : true,
@@ -64,9 +64,9 @@
     "path" : "countries/BE.txt"
   },
   {
-    "candidates" : 30,
+    "candidates" : 28,
     "code" : "BG",
-    "count" : 17,
+    "count" : 16,
     "enabled" : true,
     "name" : "保加利亚",
     "path" : "countries/BG.txt"
@@ -488,7 +488,7 @@
     "path" : "countries/TH.txt"
   },
   {
-    "candidates" : 16,
+    "candidates" : 17,
     "code" : "TR",
     "count" : 3,
     "enabled" : true,
