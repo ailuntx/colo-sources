@@ -152,7 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 19,
+    "candidates" : 20,
     "code" : "EE",
     "count" : 7,
     "enabled" : true,
@@ -304,9 +304,9 @@
     "path" : "countries/KZ.txt"
   },
   {
-    "candidates" : 28,
+    "candidates" : 15,
     "code" : "LT",
-    "count" : 21,
+    "count" : 8,
     "enabled" : true,
     "name" : "立陶宛",
     "path" : "countries/LT.txt"
@@ -320,7 +320,7 @@
     "path" : "countries/LU.txt"
   },
   {
-    "candidates" : 13,
+    "candidates" : 23,
     "code" : "LV",
     "count" : 4,
     "enabled" : true,
@@ -448,7 +448,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 170,
+    "candidates" : 172,
     "code" : "SE",
     "count" : 34,
     "enabled" : true,
