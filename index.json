@@ -234,7 +234,7 @@
   {
     "candidates" : 15,
     "code" : "IE",
-    "count" : 6,
+    "count" : 4,
     "enabled" : true,
     "name" : "爱尔兰",
     "path" : "countries/IE.txt"
