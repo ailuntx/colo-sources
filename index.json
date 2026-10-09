@@ -304,9 +304,9 @@
     "path" : "countries/KZ.txt"
   },
   {
-    "candidates" : 15,
+    "candidates" : 13,
     "code" : "LT",
-    "count" : 8,
+    "count" : 2,
     "enabled" : true,
     "name" : "立陶宛",
     "path" : "countries/LT.txt"
@@ -320,7 +320,7 @@
     "path" : "countries/LU.txt"
   },
   {
-    "candidates" : 23,
+    "candidates" : 25,
     "code" : "LV",
     "count" : 4,
     "enabled" : true,
