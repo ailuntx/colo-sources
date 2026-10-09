@@ -138,7 +138,7 @@
   {
     "candidates" : 23,
     "code" : "DK",
-    "count" : 11,
+    "count" : 1,
     "enabled" : true,
     "name" : "丹麦",
     "path" : "countries/DK.txt"
@@ -402,7 +402,7 @@
   {
     "candidates" : 29,
     "code" : "PL",
-    "count" : 12,
+    "count" : 8,
     "enabled" : true,
     "name" : "波兰",
     "path" : "countries/PL.txt"
