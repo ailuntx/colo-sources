@@ -400,7 +400,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 31,
+    "candidates" : 32,
     "code" : "PL",
     "count" : 12,
     "enabled" : true,
@@ -466,15 +466,15 @@
   {
     "candidates" : 1,
     "code" : "SI",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "斯洛文尼亚",
     "path" : "countries/SI.txt"
   },
   {
-    "candidates" : 6,
+    "candidates" : 5,
     "code" : "SK",
-    "count" : 4,
+    "count" : 2,
     "enabled" : true,
     "name" : "斯洛伐克",
     "path" : "countries/SK.txt"
