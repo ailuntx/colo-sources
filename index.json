@@ -330,15 +330,15 @@
   {
     "candidates" : 9,
     "code" : "MD",
-    "count" : 0,
+    "count" : 5,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
   },
   {
-    "candidates" : 4,
+    "candidates" : 1,
     "code" : "MX",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "墨西哥",
     "path" : "countries/MX.txt"
@@ -350,6 +350,14 @@
     "enabled" : true,
     "name" : "马来西亚",
     "path" : "countries/MY.txt"
+  },
+  {
+    "candidates" : 1,
+    "code" : "MZ",
+    "count" : 0,
+    "enabled" : true,
+    "name" : "莫桑比克",
+    "path" : "countries/MZ.txt"
   },
   {
     "candidates" : 0,
@@ -512,7 +520,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 561712,
+    "candidates" : 561715,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
@@ -520,7 +528,7 @@
     "path" : "countries/US.txt"
   },
   {
-    "candidates" : 20,
+    "candidates" : 19,
     "code" : "ZA",
     "count" : 7,
     "enabled" : true,
