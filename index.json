@@ -272,7 +272,7 @@
     "path" : "countries/IT.txt"
   },
   {
-    "candidates" : 719,
+    "candidates" : 691,
     "code" : "JP",
     "count" : 12,
     "enabled" : true,
@@ -370,7 +370,7 @@
   {
     "candidates" : 8,
     "code" : "NO",
-    "count" : 5,
+    "count" : 3,
     "enabled" : true,
     "name" : "挪威",
     "path" : "countries/NO.txt"
@@ -512,7 +512,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 561647,
+    "candidates" : 561675,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
