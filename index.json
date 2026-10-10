@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 26,
+    "candidates" : 32,
     "code" : "AT",
     "count" : 16,
     "enabled" : true,
@@ -120,7 +120,7 @@
     "path" : "countries/CY.txt"
   },
   {
-    "candidates" : 31,
+    "candidates" : 10,
     "code" : "CZ",
     "count" : 0,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5372,
+    "candidates" : 5378,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -304,7 +304,7 @@
     "path" : "countries/KZ.txt"
   },
   {
-    "candidates" : 23,
+    "candidates" : 28,
     "code" : "LT",
     "count" : 10,
     "enabled" : true,
@@ -320,7 +320,7 @@
     "path" : "countries/LU.txt"
   },
   {
-    "candidates" : 15,
+    "candidates" : 10,
     "code" : "LV",
     "count" : 4,
     "enabled" : true,
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 113,
+    "candidates" : 122,
     "code" : "SE",
     "count" : 34,
     "enabled" : true,
