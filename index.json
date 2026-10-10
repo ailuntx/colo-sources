@@ -360,7 +360,7 @@
     "path" : "countries/MZ.txt"
   },
   {
-    "candidates" : 0,
+    "candidates" : 1,
     "code" : "NG",
     "count" : 0,
     "enabled" : true,
@@ -416,9 +416,9 @@
     "path" : "countries/PL.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 0,
     "code" : "PT",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "葡萄牙",
     "path" : "countries/PT.txt"
