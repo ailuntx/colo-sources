@@ -50,7 +50,7 @@
   {
     "candidates" : 1,
     "code" : "AZ",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "阿塞拜疆",
     "path" : "countries/AZ.txt"
