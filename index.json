@@ -168,9 +168,9 @@
     "path" : "countries/ES.txt"
   },
   {
-    "candidates" : 16,
+    "candidates" : 15,
     "code" : "FI",
-    "count" : 10,
+    "count" : 9,
     "enabled" : true,
     "name" : "芬兰",
     "path" : "countries/FI.txt"
@@ -440,7 +440,7 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 4,
+    "candidates" : 5,
     "code" : "RU",
     "count" : 3,
     "enabled" : true,
