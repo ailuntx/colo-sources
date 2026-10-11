@@ -426,7 +426,7 @@
   {
     "candidates" : 25,
     "code" : "RO",
-    "count" : 14,
+    "count" : 16,
     "enabled" : true,
     "name" : "罗马尼亚",
     "path" : "countries/RO.txt"
