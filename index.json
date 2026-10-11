@@ -168,9 +168,9 @@
     "path" : "countries/ES.txt"
   },
   {
-    "candidates" : 17,
+    "candidates" : 15,
     "code" : "FI",
-    "count" : 8,
+    "count" : 7,
     "enabled" : true,
     "name" : "芬兰",
     "path" : "countries/FI.txt"
@@ -178,7 +178,7 @@
   {
     "candidates" : 29,
     "code" : "FR",
-    "count" : 12,
+    "count" : 14,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
@@ -402,7 +402,7 @@
   {
     "candidates" : 2,
     "code" : "PH",
-    "count" : 2,
+    "count" : 1,
     "enabled" : true,
     "name" : "菲律宾",
     "path" : "countries/PH.txt"
@@ -440,7 +440,7 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 3,
+    "candidates" : 5,
     "code" : "RU",
     "count" : 2,
     "enabled" : true,
