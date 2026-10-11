@@ -96,7 +96,7 @@
     "path" : "countries/CA.txt"
   },
   {
-    "candidates" : 28,
+    "candidates" : 30,
     "code" : "CH",
     "count" : 18,
     "enabled" : true,
@@ -242,7 +242,7 @@
   {
     "candidates" : 10,
     "code" : "IL",
-    "count" : 2,
+    "count" : 5,
     "enabled" : true,
     "name" : "以色列",
     "path" : "countries/IL.txt"
@@ -264,9 +264,9 @@
     "path" : "countries/IS.txt"
   },
   {
-    "candidates" : 25,
+    "candidates" : 23,
     "code" : "IT",
-    "count" : 12,
+    "count" : 11,
     "enabled" : true,
     "name" : "意大利",
     "path" : "countries/IT.txt"
