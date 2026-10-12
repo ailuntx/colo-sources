@@ -1,6 +1,6 @@
 [
   {
-    "candidates" : 8,
+    "candidates" : 10,
     "code" : "AE",
     "count" : 1,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5446,
+    "candidates" : 5452,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 35,
+    "candidates" : 34,
     "code" : "FR",
     "count" : 14,
     "enabled" : true,
@@ -208,7 +208,7 @@
     "path" : "countries/GR.txt"
   },
   {
-    "candidates" : 60038,
+    "candidates" : 60042,
     "code" : "HK",
     "count" : 40,
     "enabled" : true,
@@ -248,7 +248,7 @@
     "path" : "countries/IL.txt"
   },
   {
-    "candidates" : 51,
+    "candidates" : 53,
     "code" : "IN",
     "count" : 10,
     "enabled" : true,
@@ -272,7 +272,7 @@
     "path" : "countries/IT.txt"
   },
   {
-    "candidates" : 270,
+    "candidates" : 278,
     "code" : "JP",
     "count" : 10,
     "enabled" : true,
@@ -288,7 +288,7 @@
     "path" : "countries/KG.txt"
   },
   {
-    "candidates" : 27,
+    "candidates" : 33,
     "code" : "KR",
     "count" : 3,
     "enabled" : true,
@@ -368,7 +368,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 31,
+    "candidates" : 32,
     "code" : "NL",
     "count" : 18,
     "enabled" : true,
@@ -392,7 +392,7 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 5,
+    "candidates" : 4,
     "code" : "OM",
     "count" : 1,
     "enabled" : true,
@@ -400,7 +400,7 @@
     "path" : "countries/OM.txt"
   },
   {
-    "candidates" : 2,
+    "candidates" : 3,
     "code" : "PH",
     "count" : 2,
     "enabled" : true,
@@ -448,7 +448,7 @@
     "path" : "countries/RU.txt"
   },
   {
-    "candidates" : 12,
+    "candidates" : 13,
     "code" : "SA",
     "count" : 0,
     "enabled" : true,
@@ -464,7 +464,7 @@
     "path" : "countries/SE.txt"
   },
   {
-    "candidates" : 66,
+    "candidates" : 83,
     "code" : "SG",
     "count" : 20,
     "enabled" : true,
@@ -504,7 +504,7 @@
     "path" : "countries/TR.txt"
   },
   {
-    "candidates" : 9,
+    "candidates" : 17,
     "code" : "TW",
     "count" : 3,
     "enabled" : true,
@@ -520,7 +520,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 562101,
+    "candidates" : 562108,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
