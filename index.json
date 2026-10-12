@@ -184,7 +184,7 @@
     "path" : "countries/FR.txt"
   },
   {
-    "candidates" : 33096,
+    "candidates" : 33106,
     "code" : "GB",
     "count" : 50,
     "enabled" : true,
@@ -272,7 +272,7 @@
     "path" : "countries/IT.txt"
   },
   {
-    "candidates" : 280,
+    "candidates" : 236,
     "code" : "JP",
     "count" : 10,
     "enabled" : true,
@@ -368,7 +368,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 51,
+    "candidates" : 61,
     "code" : "NL",
     "count" : 33,
     "enabled" : true,
@@ -418,7 +418,7 @@
   {
     "candidates" : 1,
     "code" : "PT",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "葡萄牙",
     "path" : "countries/PT.txt"
@@ -520,7 +520,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 562102,
+    "candidates" : 562126,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
