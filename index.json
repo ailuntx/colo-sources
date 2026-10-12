@@ -368,7 +368,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 46,
+    "candidates" : 48,
     "code" : "NL",
     "count" : 33,
     "enabled" : true,
@@ -426,7 +426,7 @@
   {
     "candidates" : 30,
     "code" : "RO",
-    "count" : 14,
+    "count" : 18,
     "enabled" : true,
     "name" : "罗马尼亚",
     "path" : "countries/RO.txt"
@@ -520,9 +520,9 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 562114,
+    "candidates" : 562112,
     "code" : "US",
-    "count" : 50,
+    "count" : 48,
     "enabled" : true,
     "name" : "美国",
     "path" : "countries/US.txt"
