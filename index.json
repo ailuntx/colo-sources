@@ -106,7 +106,7 @@
   {
     "candidates" : 5,
     "code" : "CL",
-    "count" : 3,
+    "count" : 2,
     "enabled" : true,
     "name" : "智利",
     "path" : "countries/CL.txt"
@@ -186,7 +186,7 @@
   {
     "candidates" : 33089,
     "code" : "GB",
-    "count" : 48,
+    "count" : 50,
     "enabled" : true,
     "name" : "英国",
     "path" : "countries/GB.txt"
