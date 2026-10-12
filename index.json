@@ -34,7 +34,7 @@
   {
     "candidates" : 40,
     "code" : "AT",
-    "count" : 14,
+    "count" : 27,
     "enabled" : true,
     "name" : "奥地利",
     "path" : "countries/AT.txt"
