@@ -168,7 +168,7 @@
     "path" : "countries/ES.txt"
   },
   {
-    "candidates" : 15,
+    "candidates" : 17,
     "code" : "FI",
     "count" : 8,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 36,
+    "candidates" : 35,
     "code" : "FR",
     "count" : 14,
     "enabled" : true,
@@ -392,7 +392,7 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 3,
+    "candidates" : 4,
     "code" : "OM",
     "count" : 1,
     "enabled" : true,
@@ -440,9 +440,9 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 7,
+    "candidates" : 3,
     "code" : "RU",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 55,
+    "candidates" : 57,
     "code" : "SE",
     "count" : 31,
     "enabled" : true,
