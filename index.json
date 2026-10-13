@@ -330,7 +330,7 @@
   {
     "candidates" : 13,
     "code" : "MD",
-    "count" : 5,
+    "count" : 11,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
