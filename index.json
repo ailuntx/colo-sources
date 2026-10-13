@@ -232,7 +232,7 @@
     "path" : "countries/ID.txt"
   },
   {
-    "candidates" : 19,
+    "candidates" : 22,
     "code" : "IE",
     "count" : 8,
     "enabled" : true,
@@ -256,9 +256,9 @@
     "path" : "countries/IN.txt"
   },
   {
-    "candidates" : 15,
+    "candidates" : 12,
     "code" : "IS",
-    "count" : 13,
+    "count" : 10,
     "enabled" : true,
     "name" : "冰岛",
     "path" : "countries/IS.txt"
