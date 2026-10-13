@@ -160,7 +160,7 @@
     "path" : "countries/EE.txt"
   },
   {
-    "candidates" : 30,
+    "candidates" : 31,
     "code" : "ES",
     "count" : 20,
     "enabled" : true,
@@ -272,7 +272,7 @@
     "path" : "countries/IT.txt"
   },
   {
-    "candidates" : 227,
+    "candidates" : 207,
     "code" : "JP",
     "count" : 24,
     "enabled" : true,
@@ -416,9 +416,9 @@
     "path" : "countries/PL.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 0,
     "code" : "PT",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "葡萄牙",
     "path" : "countries/PT.txt"
@@ -520,7 +520,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 562133,
+    "candidates" : 562153,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
