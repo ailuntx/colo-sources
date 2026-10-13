@@ -218,7 +218,7 @@
   {
     "candidates" : 8,
     "code" : "HU",
-    "count" : 2,
+    "count" : 5,
     "enabled" : true,
     "name" : "匈牙利",
     "path" : "countries/HU.txt"
