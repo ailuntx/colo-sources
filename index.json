@@ -184,7 +184,7 @@
     "path" : "countries/FR.txt"
   },
   {
-    "candidates" : 34081,
+    "candidates" : 34082,
     "code" : "GB",
     "count" : 50,
     "enabled" : true,
@@ -480,9 +480,9 @@
     "path" : "countries/SI.txt"
   },
   {
-    "candidates" : 9,
+    "candidates" : 8,
     "code" : "SK",
-    "count" : 4,
+    "count" : 6,
     "enabled" : true,
     "name" : "斯洛伐克",
     "path" : "countries/SK.txt"
