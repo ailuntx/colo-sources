@@ -162,7 +162,7 @@
   {
     "candidates" : 31,
     "code" : "ES",
-    "count" : 20,
+    "count" : 18,
     "enabled" : true,
     "name" : "西班牙",
     "path" : "countries/ES.txt"
@@ -200,7 +200,7 @@
     "path" : "countries/GE.txt"
   },
   {
-    "candidates" : 12,
+    "candidates" : 11,
     "code" : "GR",
     "count" : 4,
     "enabled" : true,
@@ -264,7 +264,7 @@
     "path" : "countries/IS.txt"
   },
   {
-    "candidates" : 32,
+    "candidates" : 33,
     "code" : "IT",
     "count" : 19,
     "enabled" : true,
