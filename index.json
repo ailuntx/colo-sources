@@ -362,7 +362,7 @@
   {
     "candidates" : 1,
     "code" : "NG",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "尼日利亚",
     "path" : "countries/NG.txt"
@@ -530,7 +530,7 @@
   {
     "candidates" : 19,
     "code" : "ZA",
-    "count" : 5,
+    "count" : 3,
     "enabled" : true,
     "name" : "南非",
     "path" : "countries/ZA.txt"
