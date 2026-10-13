@@ -82,7 +82,7 @@
   {
     "candidates" : 17,
     "code" : "BR",
-    "count" : 12,
+    "count" : 11,
     "enabled" : true,
     "name" : "巴西",
     "path" : "countries/BR.txt"
