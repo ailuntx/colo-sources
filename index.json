@@ -466,7 +466,7 @@
   {
     "candidates" : 95,
     "code" : "SG",
-    "count" : 36,
+    "count" : 47,
     "enabled" : true,
     "name" : "新加坡",
     "path" : "countries/SG.txt"
