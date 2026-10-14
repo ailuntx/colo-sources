@@ -80,7 +80,7 @@
     "path" : "countries/BH.txt"
   },
   {
-    "candidates" : 17,
+    "candidates" : 18,
     "code" : "BR",
     "count" : 13,
     "enabled" : true,
@@ -104,9 +104,9 @@
     "path" : "countries/CH.txt"
   },
   {
-    "candidates" : 5,
+    "candidates" : 4,
     "code" : "CL",
-    "count" : 3,
+    "count" : 1,
     "enabled" : true,
     "name" : "智利",
     "path" : "countries/CL.txt"
@@ -186,7 +186,7 @@
   {
     "candidates" : 34006,
     "code" : "GB",
-    "count" : 12,
+    "count" : 17,
     "enabled" : true,
     "name" : "英国",
     "path" : "countries/GB.txt"
