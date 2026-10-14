@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5472,
+    "candidates" : 5500,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -184,9 +184,9 @@
     "path" : "countries/FR.txt"
   },
   {
-    "candidates" : 34082,
+    "candidates" : 34006,
     "code" : "GB",
-    "count" : 50,
+    "count" : 12,
     "enabled" : true,
     "name" : "英国",
     "path" : "countries/GB.txt"
@@ -208,7 +208,7 @@
     "path" : "countries/GR.txt"
   },
   {
-    "candidates" : 60065,
+    "candidates" : 60102,
     "code" : "HK",
     "count" : 49,
     "enabled" : true,
@@ -272,7 +272,7 @@
     "path" : "countries/IT.txt"
   },
   {
-    "candidates" : 1890,
+    "candidates" : 1901,
     "code" : "JP",
     "count" : 23,
     "enabled" : true,
