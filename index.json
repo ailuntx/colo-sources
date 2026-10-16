@@ -136,7 +136,7 @@
     "path" : "countries/DE.txt"
   },
   {
-    "candidates" : 27,
+    "candidates" : 26,
     "code" : "DK",
     "count" : 17,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 37,
+    "candidates" : 38,
     "code" : "FR",
     "count" : 18,
     "enabled" : true,
