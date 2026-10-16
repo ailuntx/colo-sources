@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5506,
+    "candidates" : 5507,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -160,9 +160,9 @@
     "path" : "countries/EE.txt"
   },
   {
-    "candidates" : 35,
+    "candidates" : 33,
     "code" : "ES",
-    "count" : 25,
+    "count" : 24,
     "enabled" : true,
     "name" : "西班牙",
     "path" : "countries/ES.txt"
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 38,
+    "candidates" : 39,
     "code" : "FR",
     "count" : 15,
     "enabled" : true,
