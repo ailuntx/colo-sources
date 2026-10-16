@@ -306,7 +306,7 @@
   {
     "candidates" : 22,
     "code" : "LT",
-    "count" : 6,
+    "count" : 3,
     "enabled" : true,
     "name" : "立陶宛",
     "path" : "countries/LT.txt"
@@ -426,7 +426,7 @@
   {
     "candidates" : 31,
     "code" : "RO",
-    "count" : 8,
+    "count" : 7,
     "enabled" : true,
     "name" : "罗马尼亚",
     "path" : "countries/RO.txt"
