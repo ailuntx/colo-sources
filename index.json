@@ -90,7 +90,7 @@
   {
     "candidates" : 205,
     "code" : "CA",
-    "count" : 22,
+    "count" : 20,
     "enabled" : true,
     "name" : "加拿大",
     "path" : "countries/CA.txt"
@@ -304,7 +304,7 @@
     "path" : "countries/KZ.txt"
   },
   {
-    "candidates" : 22,
+    "candidates" : 36,
     "code" : "LT",
     "count" : 3,
     "enabled" : true,
@@ -320,9 +320,9 @@
     "path" : "countries/LU.txt"
   },
   {
-    "candidates" : 27,
+    "candidates" : 13,
     "code" : "LV",
-    "count" : 10,
+    "count" : 8,
     "enabled" : true,
     "name" : "拉脱维亚",
     "path" : "countries/LV.txt"
