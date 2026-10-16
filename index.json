@@ -306,7 +306,7 @@
   {
     "candidates" : 36,
     "code" : "LT",
-    "count" : 3,
+    "count" : 24,
     "enabled" : true,
     "name" : "立陶宛",
     "path" : "countries/LT.txt"
@@ -328,7 +328,7 @@
     "path" : "countries/LV.txt"
   },
   {
-    "candidates" : 7,
+    "candidates" : 13,
     "code" : "MD",
     "count" : 1,
     "enabled" : true,
@@ -408,7 +408,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 45,
+    "candidates" : 46,
     "code" : "PL",
     "count" : 31,
     "enabled" : true,
@@ -424,9 +424,9 @@
     "path" : "countries/PT.txt"
   },
   {
-    "candidates" : 37,
+    "candidates" : 30,
     "code" : "RO",
-    "count" : 12,
+    "count" : 10,
     "enabled" : true,
     "name" : "罗马尼亚",
     "path" : "countries/RO.txt"
