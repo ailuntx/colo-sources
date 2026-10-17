@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5516,
+    "candidates" : 5518,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -290,7 +290,7 @@
   {
     "candidates" : 35,
     "code" : "KR",
-    "count" : 8,
+    "count" : 17,
     "enabled" : true,
     "name" : "韩国",
     "path" : "countries/KR.txt"
@@ -368,7 +368,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 47,
+    "candidates" : 45,
     "code" : "NL",
     "count" : 32,
     "enabled" : true,
