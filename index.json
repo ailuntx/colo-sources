@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 40,
+    "candidates" : 41,
     "code" : "AT",
     "count" : 26,
     "enabled" : true,
@@ -90,7 +90,7 @@
   {
     "candidates" : 51,
     "code" : "CA",
-    "count" : 23,
+    "count" : 26,
     "enabled" : true,
     "name" : "加拿大",
     "path" : "countries/CA.txt"
@@ -120,7 +120,7 @@
     "path" : "countries/CY.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 0,
     "code" : "CZ",
     "count" : 0,
     "enabled" : true,
