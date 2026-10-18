@@ -178,7 +178,7 @@
   {
     "candidates" : 32,
     "code" : "FR",
-    "count" : 17,
+    "count" : 16,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
