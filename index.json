@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 39,
+    "candidates" : 42,
     "code" : "AT",
     "count" : 24,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5520,
+    "candidates" : 5521,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -216,9 +216,9 @@
     "path" : "countries/HK.txt"
   },
   {
-    "candidates" : 8,
+    "candidates" : 4,
     "code" : "HU",
-    "count" : 4,
+    "count" : 0,
     "enabled" : true,
     "name" : "匈牙利",
     "path" : "countries/HU.txt"
@@ -386,7 +386,7 @@
   {
     "candidates" : 3,
     "code" : "NZ",
-    "count" : 2,
+    "count" : 1,
     "enabled" : true,
     "name" : "新西兰",
     "path" : "countries/NZ.txt"
@@ -466,7 +466,7 @@
   {
     "candidates" : 92,
     "code" : "SG",
-    "count" : 44,
+    "count" : 38,
     "enabled" : true,
     "name" : "新加坡",
     "path" : "countries/SG.txt"
