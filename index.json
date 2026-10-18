@@ -274,7 +274,7 @@
   {
     "candidates" : 1554,
     "code" : "JP",
-    "count" : 16,
+    "count" : 15,
     "enabled" : true,
     "name" : "日本",
     "path" : "countries/JP.txt"
