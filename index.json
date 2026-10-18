@@ -48,9 +48,9 @@
     "path" : "countries/AU.txt"
   },
   {
-    "candidates" : 3,
+    "candidates" : 0,
     "code" : "AZ",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "阿塞拜疆",
     "path" : "countries/AZ.txt"
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 75,
+    "candidates" : 78,
     "code" : "SE",
     "count" : 49,
     "enabled" : true,
