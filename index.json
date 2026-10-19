@@ -98,7 +98,7 @@
   {
     "candidates" : 35,
     "code" : "CH",
-    "count" : 19,
+    "count" : 23,
     "enabled" : true,
     "name" : "瑞士",
     "path" : "countries/CH.txt"
@@ -112,9 +112,9 @@
     "path" : "countries/CL.txt"
   },
   {
-    "candidates" : 6,
+    "candidates" : 3,
     "code" : "CY",
-    "count" : 5,
+    "count" : 2,
     "enabled" : true,
     "name" : "塞浦路斯",
     "path" : "countries/CY.txt"
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 179,
+    "candidates" : 182,
     "code" : "FR",
     "count" : 16,
     "enabled" : true,
@@ -434,7 +434,7 @@
   {
     "candidates" : 11,
     "code" : "RS",
-    "count" : 5,
+    "count" : 4,
     "enabled" : true,
     "name" : "塞尔维亚",
     "path" : "countries/RS.txt"
