@@ -162,7 +162,7 @@
   {
     "candidates" : 32,
     "code" : "ES",
-    "count" : 27,
+    "count" : 26,
     "enabled" : true,
     "name" : "西班牙",
     "path" : "countries/ES.txt"
@@ -514,7 +514,7 @@
   {
     "candidates" : 1,
     "code" : "UA",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "乌克兰",
     "path" : "countries/UA.txt"
