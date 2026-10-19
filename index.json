@@ -258,7 +258,7 @@
   {
     "candidates" : 15,
     "code" : "IS",
-    "count" : 12,
+    "count" : 13,
     "enabled" : true,
     "name" : "冰岛",
     "path" : "countries/IS.txt"
@@ -296,7 +296,7 @@
     "path" : "countries/KR.txt"
   },
   {
-    "candidates" : 16,
+    "candidates" : 17,
     "code" : "KZ",
     "count" : 13,
     "enabled" : true,
@@ -408,7 +408,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 45,
+    "candidates" : 44,
     "code" : "PL",
     "count" : 32,
     "enabled" : true,
