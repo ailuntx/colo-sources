@@ -296,7 +296,7 @@
     "path" : "countries/KR.txt"
   },
   {
-    "candidates" : 17,
+    "candidates" : 27,
     "code" : "KZ",
     "count" : 10,
     "enabled" : true,
