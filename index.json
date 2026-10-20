@@ -16,7 +16,7 @@
     "path" : "countries/AL.txt"
   },
   {
-    "candidates" : 4,
+    "candidates" : 9,
     "code" : "AM",
     "count" : 1,
     "enabled" : true,
@@ -64,7 +64,7 @@
     "path" : "countries/BE.txt"
   },
   {
-    "candidates" : 43,
+    "candidates" : 38,
     "code" : "BG",
     "count" : 26,
     "enabled" : true,
@@ -82,7 +82,7 @@
   {
     "candidates" : 17,
     "code" : "BR",
-    "count" : 12,
+    "count" : 14,
     "enabled" : true,
     "name" : "巴西",
     "path" : "countries/BR.txt"
