@@ -232,7 +232,7 @@
     "path" : "countries/ID.txt"
   },
   {
-    "candidates" : 137,
+    "candidates" : 154,
     "code" : "IE",
     "count" : 7,
     "enabled" : true,
@@ -520,9 +520,9 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 558464,
+    "candidates" : 558447,
     "code" : "US",
-    "count" : 49,
+    "count" : 48,
     "enabled" : true,
     "name" : "美国",
     "path" : "countries/US.txt"
