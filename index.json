@@ -50,7 +50,7 @@
   {
     "candidates" : 3,
     "code" : "AZ",
-    "count" : 1,
+    "count" : 3,
     "enabled" : true,
     "name" : "阿塞拜疆",
     "path" : "countries/AZ.txt"
@@ -232,7 +232,7 @@
     "path" : "countries/ID.txt"
   },
   {
-    "candidates" : 162,
+    "candidates" : 125,
     "code" : "IE",
     "count" : 7,
     "enabled" : true,
@@ -394,7 +394,7 @@
   {
     "candidates" : 7,
     "code" : "OM",
-    "count" : 0,
+    "count" : 2,
     "enabled" : true,
     "name" : "阿曼",
     "path" : "countries/OM.txt"
@@ -520,7 +520,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 558439,
+    "candidates" : 558476,
     "code" : "US",
     "count" : 47,
     "enabled" : true,
