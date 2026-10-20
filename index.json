@@ -306,7 +306,7 @@
   {
     "candidates" : 41,
     "code" : "LT",
-    "count" : 2,
+    "count" : 25,
     "enabled" : true,
     "name" : "立陶宛",
     "path" : "countries/LT.txt"
