@@ -216,9 +216,9 @@
     "path" : "countries/HK.txt"
   },
   {
-    "candidates" : 8,
+    "candidates" : 7,
     "code" : "HU",
-    "count" : 3,
+    "count" : 2,
     "enabled" : true,
     "name" : "匈牙利",
     "path" : "countries/HU.txt"
@@ -386,7 +386,7 @@
   {
     "candidates" : 3,
     "code" : "NZ",
-    "count" : 1,
+    "count" : 2,
     "enabled" : true,
     "name" : "新西兰",
     "path" : "countries/NZ.txt"
@@ -472,7 +472,7 @@
     "path" : "countries/SG.txt"
   },
   {
-    "candidates" : 0,
+    "candidates" : 1,
     "code" : "SI",
     "count" : 0,
     "enabled" : true,
