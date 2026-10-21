@@ -216,7 +216,7 @@
     "path" : "countries/HK.txt"
   },
   {
-    "candidates" : 7,
+    "candidates" : 8,
     "code" : "HU",
     "count" : 3,
     "enabled" : true,
@@ -472,9 +472,9 @@
     "path" : "countries/SG.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 0,
     "code" : "SI",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "斯洛文尼亚",
     "path" : "countries/SI.txt"
@@ -506,7 +506,7 @@
   {
     "candidates" : 20,
     "code" : "TW",
-    "count" : 10,
+    "count" : 9,
     "enabled" : true,
     "name" : "台湾",
     "path" : "countries/TW.txt"
