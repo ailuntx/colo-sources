@@ -96,7 +96,7 @@
     "path" : "countries/CA.txt"
   },
   {
-    "candidates" : 40,
+    "candidates" : 41,
     "code" : "CH",
     "count" : 22,
     "enabled" : true,
@@ -274,7 +274,7 @@
   {
     "candidates" : 1246,
     "code" : "JP",
-    "count" : 14,
+    "count" : 13,
     "enabled" : true,
     "name" : "日本",
     "path" : "countries/JP.txt"
@@ -440,7 +440,7 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 5,
+    "candidates" : 6,
     "code" : "RU",
     "count" : 3,
     "enabled" : true,
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 78,
+    "candidates" : 76,
     "code" : "SE",
     "count" : 50,
     "enabled" : true,
