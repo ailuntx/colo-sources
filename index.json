@@ -96,7 +96,7 @@
     "path" : "countries/CA.txt"
   },
   {
-    "candidates" : 38,
+    "candidates" : 39,
     "code" : "CH",
     "count" : 22,
     "enabled" : true,
@@ -240,9 +240,9 @@
     "path" : "countries/IE.txt"
   },
   {
-    "candidates" : 14,
+    "candidates" : 13,
     "code" : "IL",
-    "count" : 7,
+    "count" : 6,
     "enabled" : true,
     "name" : "以色列",
     "path" : "countries/IL.txt"
