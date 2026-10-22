@@ -514,7 +514,7 @@
   {
     "candidates" : 3,
     "code" : "UA",
-    "count" : 0,
+    "count" : 2,
     "enabled" : true,
     "name" : "乌克兰",
     "path" : "countries/UA.txt"
