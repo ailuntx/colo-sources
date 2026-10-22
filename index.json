@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5528,
+    "candidates" : 5529,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -304,7 +304,7 @@
     "path" : "countries/KZ.txt"
   },
   {
-    "candidates" : 22,
+    "candidates" : 15,
     "code" : "LT",
     "count" : 3,
     "enabled" : true,
@@ -320,9 +320,9 @@
     "path" : "countries/LU.txt"
   },
   {
-    "candidates" : 21,
+    "candidates" : 24,
     "code" : "LV",
-    "count" : 7,
+    "count" : 15,
     "enabled" : true,
     "name" : "拉脱维亚",
     "path" : "countries/LV.txt"
@@ -408,7 +408,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 48,
+    "candidates" : 51,
     "code" : "PL",
     "count" : 28,
     "enabled" : true,
