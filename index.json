@@ -344,7 +344,7 @@
     "path" : "countries/MX.txt"
   },
   {
-    "candidates" : 4,
+    "candidates" : 3,
     "code" : "MY",
     "count" : 0,
     "enabled" : true,
@@ -520,7 +520,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 559206,
+    "candidates" : 559207,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
