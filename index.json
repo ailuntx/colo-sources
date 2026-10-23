@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5521,
+    "candidates" : 5522,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -184,7 +184,7 @@
     "path" : "countries/FR.txt"
   },
   {
-    "candidates" : 36476,
+    "candidates" : 36477,
     "code" : "GB",
     "count" : 50,
     "enabled" : true,
@@ -368,9 +368,9 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 45,
+    "candidates" : 43,
     "code" : "NL",
-    "count" : 26,
+    "count" : 25,
     "enabled" : true,
     "name" : "荷兰",
     "path" : "countries/NL.txt"
