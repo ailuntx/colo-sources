@@ -120,7 +120,7 @@
     "path" : "countries/CY.txt"
   },
   {
-    "candidates" : 2,
+    "candidates" : 3,
     "code" : "CZ",
     "count" : 0,
     "enabled" : true,
@@ -136,7 +136,7 @@
     "path" : "countries/DE.txt"
   },
   {
-    "candidates" : 33,
+    "candidates" : 34,
     "code" : "DK",
     "count" : 11,
     "enabled" : true,
@@ -242,7 +242,7 @@
   {
     "candidates" : 13,
     "code" : "IL",
-    "count" : 5,
+    "count" : 4,
     "enabled" : true,
     "name" : "以色列",
     "path" : "countries/IL.txt"
@@ -264,9 +264,9 @@
     "path" : "countries/IS.txt"
   },
   {
-    "candidates" : 28,
+    "candidates" : 26,
     "code" : "IT",
-    "count" : 16,
+    "count" : 15,
     "enabled" : true,
     "name" : "意大利",
     "path" : "countries/IT.txt"
