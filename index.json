@@ -178,7 +178,7 @@
   {
     "candidates" : 45,
     "code" : "FR",
-    "count" : 11,
+    "count" : 15,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
@@ -402,7 +402,7 @@
   {
     "candidates" : 3,
     "code" : "PH",
-    "count" : 2,
+    "count" : 1,
     "enabled" : true,
     "name" : "菲律宾",
     "path" : "countries/PH.txt"
