@@ -96,7 +96,7 @@
     "path" : "countries/CA.txt"
   },
   {
-    "candidates" : 35,
+    "candidates" : 34,
     "code" : "CH",
     "count" : 20,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 4790,
+    "candidates" : 4791,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
