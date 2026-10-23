@@ -120,7 +120,7 @@
     "path" : "countries/CY.txt"
   },
   {
-    "candidates" : 44,
+    "candidates" : 45,
     "code" : "CZ",
     "count" : 0,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5450,
+    "candidates" : 5449,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
