@@ -90,7 +90,7 @@
   {
     "candidates" : 54,
     "code" : "CA",
-    "count" : 21,
+    "count" : 19,
     "enabled" : true,
     "name" : "加拿大",
     "path" : "countries/CA.txt"
@@ -152,7 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 25,
+    "candidates" : 26,
     "code" : "EE",
     "count" : 9,
     "enabled" : true,
@@ -344,7 +344,7 @@
     "path" : "countries/MX.txt"
   },
   {
-    "candidates" : 0,
+    "candidates" : 3,
     "code" : "MY",
     "count" : 0,
     "enabled" : true,
@@ -450,7 +450,7 @@
   {
     "candidates" : 12,
     "code" : "SA",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "沙特阿拉伯",
     "path" : "countries/SA.txt"
@@ -520,7 +520,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 559143,
+    "candidates" : 559139,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
@@ -530,7 +530,7 @@
   {
     "candidates" : 19,
     "code" : "ZA",
-    "count" : 2,
+    "count" : 1,
     "enabled" : true,
     "name" : "南非",
     "path" : "countries/ZA.txt"
