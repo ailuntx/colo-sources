@@ -370,7 +370,7 @@
   {
     "candidates" : 48,
     "code" : "NL",
-    "count" : 19,
+    "count" : 25,
     "enabled" : true,
     "name" : "荷兰",
     "path" : "countries/NL.txt"
