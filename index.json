@@ -18,7 +18,7 @@
   {
     "candidates" : 9,
     "code" : "AM",
-    "count" : 5,
+    "count" : 6,
     "enabled" : true,
     "name" : "亚美尼亚",
     "path" : "countries/AM.txt"
@@ -218,7 +218,7 @@
   {
     "candidates" : 7,
     "code" : "HU",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "匈牙利",
     "path" : "countries/HU.txt"
