@@ -250,7 +250,7 @@
   {
     "candidates" : 54,
     "code" : "IN",
-    "count" : 15,
+    "count" : 12,
     "enabled" : true,
     "name" : "印度",
     "path" : "countries/IN.txt"
@@ -266,7 +266,7 @@
   {
     "candidates" : 26,
     "code" : "IT",
-    "count" : 16,
+    "count" : 15,
     "enabled" : true,
     "name" : "意大利",
     "path" : "countries/IT.txt"
