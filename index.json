@@ -368,7 +368,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 42,
+    "candidates" : 43,
     "code" : "NL",
     "count" : 23,
     "enabled" : true,
@@ -520,7 +520,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 559187,
+    "candidates" : 559186,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
