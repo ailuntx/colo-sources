@@ -120,7 +120,7 @@
     "path" : "countries/CY.txt"
   },
   {
-    "candidates" : 533,
+    "candidates" : 540,
     "code" : "CZ",
     "count" : 0,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 4935,
+    "candidates" : 4939,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -136,7 +136,7 @@
     "path" : "countries/DE.txt"
   },
   {
-    "candidates" : 39,
+    "candidates" : 41,
     "code" : "DK",
     "count" : 10,
     "enabled" : true,
@@ -146,7 +146,7 @@
   {
     "candidates" : 1,
     "code" : "DO",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "多米尼加共和国",
     "path" : "countries/DO.txt"
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 66,
+    "candidates" : 53,
     "code" : "FR",
     "count" : 14,
     "enabled" : true,
@@ -440,9 +440,9 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 6,
+    "candidates" : 5,
     "code" : "RU",
-    "count" : 3,
+    "count" : 2,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 77,
+    "candidates" : 78,
     "code" : "SE",
     "count" : 49,
     "enabled" : true,
