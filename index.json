@@ -58,7 +58,7 @@
   {
     "candidates" : 5,
     "code" : "BE",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "比利时",
     "path" : "countries/BE.txt"
