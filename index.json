@@ -400,9 +400,9 @@
     "path" : "countries/OM.txt"
   },
   {
-    "candidates" : 3,
+    "candidates" : 1,
     "code" : "PH",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "菲律宾",
     "path" : "countries/PH.txt"
@@ -464,7 +464,7 @@
     "path" : "countries/SE.txt"
   },
   {
-    "candidates" : 92,
+    "candidates" : 94,
     "code" : "SG",
     "count" : 31,
     "enabled" : true,
