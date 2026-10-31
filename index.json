@@ -218,7 +218,7 @@
   {
     "candidates" : 7,
     "code" : "HU",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "匈牙利",
     "path" : "countries/HU.txt"
@@ -386,7 +386,7 @@
   {
     "candidates" : 3,
     "code" : "NZ",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "新西兰",
     "path" : "countries/NZ.txt"
