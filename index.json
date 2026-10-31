@@ -160,9 +160,9 @@
     "path" : "countries/EE.txt"
   },
   {
-    "candidates" : 33,
+    "candidates" : 32,
     "code" : "ES",
-    "count" : 25,
+    "count" : 24,
     "enabled" : true,
     "name" : "西班牙",
     "path" : "countries/ES.txt"
@@ -376,7 +376,7 @@
     "path" : "countries/NL.txt"
   },
   {
-    "candidates" : 7,
+    "candidates" : 8,
     "code" : "NO",
     "count" : 2,
     "enabled" : true,
@@ -498,7 +498,7 @@
   {
     "candidates" : 21,
     "code" : "TR",
-    "count" : 6,
+    "count" : 3,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
