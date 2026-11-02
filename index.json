@@ -2,7 +2,7 @@
   {
     "candidates" : 11,
     "code" : "AE",
-    "count" : 2,
+    "count" : 3,
     "enabled" : true,
     "name" : "阿拉伯联合酋长国",
     "path" : "countries/AE.txt"
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 140,
+    "candidates" : 141,
     "code" : "FR",
     "count" : 10,
     "enabled" : true,
@@ -200,9 +200,9 @@
     "path" : "countries/GE.txt"
   },
   {
-    "candidates" : 11,
+    "candidates" : 10,
     "code" : "GR",
-    "count" : 5,
+    "count" : 4,
     "enabled" : true,
     "name" : "希腊",
     "path" : "countries/GR.txt"
@@ -434,7 +434,7 @@
   {
     "candidates" : 11,
     "code" : "RS",
-    "count" : 3,
+    "count" : 4,
     "enabled" : true,
     "name" : "塞尔维亚",
     "path" : "countries/RS.txt"
