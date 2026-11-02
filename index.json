@@ -120,7 +120,7 @@
     "path" : "countries/CY.txt"
   },
   {
-    "candidates" : 365,
+    "candidates" : 1,
     "code" : "CZ",
     "count" : 0,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5147,
+    "candidates" : 5425,
     "code" : "DE",
     "count" : 49,
     "enabled" : true,
@@ -136,7 +136,7 @@
     "path" : "countries/DE.txt"
   },
   {
-    "candidates" : 39,
+    "candidates" : 78,
     "code" : "DK",
     "count" : 9,
     "enabled" : true,
@@ -176,15 +176,15 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 48,
+    "candidates" : 95,
     "code" : "FR",
-    "count" : 10,
+    "count" : 13,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
   },
   {
-    "candidates" : 36499,
+    "candidates" : 36501,
     "code" : "GB",
     "count" : 50,
     "enabled" : true,
@@ -272,9 +272,9 @@
     "path" : "countries/IT.txt"
   },
   {
-    "candidates" : 945,
+    "candidates" : 511,
     "code" : "JP",
-    "count" : 3,
+    "count" : 2,
     "enabled" : true,
     "name" : "日本",
     "path" : "countries/JP.txt"
@@ -520,7 +520,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 559261,
+    "candidates" : 559693,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
