@@ -418,7 +418,7 @@
   {
     "candidates" : 1,
     "code" : "PT",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "葡萄牙",
     "path" : "countries/PT.txt"
