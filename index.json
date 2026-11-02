@@ -98,7 +98,7 @@
   {
     "candidates" : 34,
     "code" : "CH",
-    "count" : 21,
+    "count" : 20,
     "enabled" : true,
     "name" : "瑞士",
     "path" : "countries/CH.txt"
@@ -458,7 +458,7 @@
   {
     "candidates" : 81,
     "code" : "SE",
-    "count" : 34,
+    "count" : 36,
     "enabled" : true,
     "name" : "瑞典",
     "path" : "countries/SE.txt"
