@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5059,
+    "candidates" : 5147,
     "code" : "DE",
     "count" : 49,
     "enabled" : true,
@@ -136,7 +136,7 @@
     "path" : "countries/DE.txt"
   },
   {
-    "candidates" : 28,
+    "candidates" : 39,
     "code" : "DK",
     "count" : 9,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 147,
+    "candidates" : 48,
     "code" : "FR",
     "count" : 10,
     "enabled" : true,
@@ -466,7 +466,7 @@
   {
     "candidates" : 91,
     "code" : "SG",
-    "count" : 26,
+    "count" : 13,
     "enabled" : true,
     "name" : "新加坡",
     "path" : "countries/SG.txt"
