@@ -328,7 +328,7 @@
     "path" : "countries/LV.txt"
   },
   {
-    "candidates" : 9,
+    "candidates" : 10,
     "code" : "MD",
     "count" : 0,
     "enabled" : true,
@@ -424,9 +424,9 @@
     "path" : "countries/PT.txt"
   },
   {
-    "candidates" : 31,
+    "candidates" : 30,
     "code" : "RO",
-    "count" : 7,
+    "count" : 8,
     "enabled" : true,
     "name" : "罗马尼亚",
     "path" : "countries/RO.txt"
