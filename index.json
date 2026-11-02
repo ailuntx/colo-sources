@@ -16,9 +16,9 @@
     "path" : "countries/AL.txt"
   },
   {
-    "candidates" : 9,
+    "candidates" : 8,
     "code" : "AM",
-    "count" : 3,
+    "count" : 2,
     "enabled" : true,
     "name" : "亚美尼亚",
     "path" : "countries/AM.txt"
@@ -218,7 +218,7 @@
   {
     "candidates" : 7,
     "code" : "HU",
-    "count" : 0,
+    "count" : 2,
     "enabled" : true,
     "name" : "匈牙利",
     "path" : "countries/HU.txt"
@@ -386,7 +386,7 @@
   {
     "candidates" : 3,
     "code" : "NZ",
-    "count" : 0,
+    "count" : 2,
     "enabled" : true,
     "name" : "新西兰",
     "path" : "countries/NZ.txt"
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 75,
+    "candidates" : 76,
     "code" : "SE",
     "count" : 38,
     "enabled" : true,
