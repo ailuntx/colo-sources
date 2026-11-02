@@ -82,7 +82,7 @@
   {
     "candidates" : 16,
     "code" : "BR",
-    "count" : 6,
+    "count" : 7,
     "enabled" : true,
     "name" : "巴西",
     "path" : "countries/BR.txt"
@@ -304,9 +304,9 @@
     "path" : "countries/KZ.txt"
   },
   {
-    "candidates" : 18,
+    "candidates" : 15,
     "code" : "LT",
-    "count" : 2,
+    "count" : 3,
     "enabled" : true,
     "name" : "立陶宛",
     "path" : "countries/LT.txt"
@@ -320,7 +320,7 @@
     "path" : "countries/LU.txt"
   },
   {
-    "candidates" : 22,
+    "candidates" : 25,
     "code" : "LV",
     "count" : 4,
     "enabled" : true,
