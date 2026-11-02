@@ -168,7 +168,7 @@
     "path" : "countries/ES.txt"
   },
   {
-    "candidates" : 23,
+    "candidates" : 22,
     "code" : "FI",
     "count" : 9,
     "enabled" : true,
@@ -322,7 +322,7 @@
   {
     "candidates" : 22,
     "code" : "LV",
-    "count" : 4,
+    "count" : 9,
     "enabled" : true,
     "name" : "拉脱维亚",
     "path" : "countries/LV.txt"
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 76,
+    "candidates" : 77,
     "code" : "SE",
     "count" : 38,
     "enabled" : true,
