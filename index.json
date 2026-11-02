@@ -64,7 +64,7 @@
     "path" : "countries/BE.txt"
   },
   {
-    "candidates" : 37,
+    "candidates" : 36,
     "code" : "BG",
     "count" : 8,
     "enabled" : true,
@@ -98,7 +98,7 @@
   {
     "candidates" : 34,
     "code" : "CH",
-    "count" : 20,
+    "count" : 21,
     "enabled" : true,
     "name" : "瑞士",
     "path" : "countries/CH.txt"
@@ -200,7 +200,7 @@
     "path" : "countries/GE.txt"
   },
   {
-    "candidates" : 10,
+    "candidates" : 11,
     "code" : "GR",
     "count" : 4,
     "enabled" : true,
@@ -290,7 +290,7 @@
   {
     "candidates" : 35,
     "code" : "KR",
-    "count" : 4,
+    "count" : 3,
     "enabled" : true,
     "name" : "韩国",
     "path" : "countries/KR.txt"
