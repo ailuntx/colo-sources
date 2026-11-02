@@ -330,7 +330,7 @@
   {
     "candidates" : 6,
     "code" : "MD",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
@@ -530,7 +530,7 @@
   {
     "candidates" : 21,
     "code" : "ZA",
-    "count" : 5,
+    "count" : 4,
     "enabled" : true,
     "name" : "南非",
     "path" : "countries/ZA.txt"
