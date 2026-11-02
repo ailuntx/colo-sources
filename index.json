@@ -64,7 +64,7 @@
     "path" : "countries/BE.txt"
   },
   {
-    "candidates" : 36,
+    "candidates" : 37,
     "code" : "BG",
     "count" : 8,
     "enabled" : true,
@@ -162,7 +162,7 @@
   {
     "candidates" : 32,
     "code" : "ES",
-    "count" : 17,
+    "count" : 18,
     "enabled" : true,
     "name" : "西班牙",
     "path" : "countries/ES.txt"
@@ -200,7 +200,7 @@
     "path" : "countries/GE.txt"
   },
   {
-    "candidates" : 12,
+    "candidates" : 11,
     "code" : "GR",
     "count" : 2,
     "enabled" : true,
