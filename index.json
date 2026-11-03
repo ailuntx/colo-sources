@@ -18,7 +18,7 @@
   {
     "candidates" : 9,
     "code" : "AM",
-    "count" : 5,
+    "count" : 0,
     "enabled" : true,
     "name" : "亚美尼亚",
     "path" : "countries/AM.txt"
@@ -96,7 +96,7 @@
     "path" : "countries/CA.txt"
   },
   {
-    "candidates" : 34,
+    "candidates" : 35,
     "code" : "CH",
     "count" : 9,
     "enabled" : true,
@@ -240,7 +240,7 @@
     "path" : "countries/IE.txt"
   },
   {
-    "candidates" : 12,
+    "candidates" : 11,
     "code" : "IL",
     "count" : 1,
     "enabled" : true,
