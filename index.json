@@ -522,7 +522,7 @@
   {
     "candidates" : 559755,
     "code" : "US",
-    "count" : 38,
+    "count" : 33,
     "enabled" : true,
     "name" : "美国",
     "path" : "countries/US.txt"
