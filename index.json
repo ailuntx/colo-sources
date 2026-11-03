@@ -386,7 +386,7 @@
   {
     "candidates" : 3,
     "code" : "NZ",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "新西兰",
     "path" : "countries/NZ.txt"
@@ -466,7 +466,7 @@
   {
     "candidates" : 90,
     "code" : "SG",
-    "count" : 16,
+    "count" : 31,
     "enabled" : true,
     "name" : "新加坡",
     "path" : "countries/SG.txt"
