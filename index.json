@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5513,
+    "candidates" : 5518,
     "code" : "DE",
     "count" : 48,
     "enabled" : true,
@@ -136,9 +136,9 @@
     "path" : "countries/DE.txt"
   },
   {
-    "candidates" : 39,
+    "candidates" : 28,
     "code" : "DK",
-    "count" : 4,
+    "count" : 9,
     "enabled" : true,
     "name" : "丹麦",
     "path" : "countries/DK.txt"
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 37,
+    "candidates" : 39,
     "code" : "FR",
     "count" : 11,
     "enabled" : true,
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 75,
+    "candidates" : 79,
     "code" : "SE",
     "count" : 22,
     "enabled" : true,
