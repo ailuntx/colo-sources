@@ -194,7 +194,7 @@
   {
     "candidates" : 1,
     "code" : "GE",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "格鲁吉亚",
     "path" : "countries/GE.txt"
@@ -298,7 +298,7 @@
   {
     "candidates" : 25,
     "code" : "KZ",
-    "count" : 6,
+    "count" : 5,
     "enabled" : true,
     "name" : "哈萨克斯坦",
     "path" : "countries/KZ.txt"
