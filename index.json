@@ -210,7 +210,7 @@
   {
     "candidates" : 60602,
     "code" : "HK",
-    "count" : 49,
+    "count" : 46,
     "enabled" : true,
     "name" : "香港",
     "path" : "countries/HK.txt"
@@ -272,7 +272,7 @@
     "path" : "countries/IT.txt"
   },
   {
-    "candidates" : 346,
+    "candidates" : 347,
     "code" : "JP",
     "count" : 2,
     "enabled" : true,
@@ -464,9 +464,9 @@
     "path" : "countries/SE.txt"
   },
   {
-    "candidates" : 90,
+    "candidates" : 89,
     "code" : "SG",
-    "count" : 31,
+    "count" : 30,
     "enabled" : true,
     "name" : "新加坡",
     "path" : "countries/SG.txt"
