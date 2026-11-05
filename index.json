@@ -152,7 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 25,
+    "candidates" : 26,
     "code" : "EE",
     "count" : 11,
     "enabled" : true,
@@ -408,7 +408,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 50,
+    "candidates" : 52,
     "code" : "PL",
     "count" : 19,
     "enabled" : true,
@@ -440,7 +440,7 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 5,
+    "candidates" : 6,
     "code" : "RU",
     "count" : 2,
     "enabled" : true,
@@ -456,9 +456,9 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 78,
+    "candidates" : 74,
     "code" : "SE",
-    "count" : 24,
+    "count" : 22,
     "enabled" : true,
     "name" : "瑞典",
     "path" : "countries/SE.txt"
