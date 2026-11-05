@@ -296,9 +296,9 @@
     "path" : "countries/KR.txt"
   },
   {
-    "candidates" : 25,
+    "candidates" : 24,
     "code" : "KZ",
-    "count" : 9,
+    "count" : 8,
     "enabled" : true,
     "name" : "哈萨克斯坦",
     "path" : "countries/KZ.txt"
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 69,
+    "candidates" : 70,
     "code" : "SE",
     "count" : 23,
     "enabled" : true,
