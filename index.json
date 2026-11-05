@@ -458,7 +458,7 @@
   {
     "candidates" : 77,
     "code" : "SE",
-    "count" : 23,
+    "count" : 24,
     "enabled" : true,
     "name" : "瑞典",
     "path" : "countries/SE.txt"
