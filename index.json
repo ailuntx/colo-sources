@@ -328,9 +328,9 @@
     "path" : "countries/LV.txt"
   },
   {
-    "candidates" : 10,
+    "candidates" : 7,
     "code" : "MD",
-    "count" : 4,
+    "count" : 0,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
@@ -424,7 +424,7 @@
     "path" : "countries/PT.txt"
   },
   {
-    "candidates" : 30,
+    "candidates" : 33,
     "code" : "RO",
     "count" : 7,
     "enabled" : true,
