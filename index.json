@@ -408,7 +408,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 53,
+    "candidates" : 52,
     "code" : "PL",
     "count" : 22,
     "enabled" : true,
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 73,
+    "candidates" : 74,
     "code" : "SE",
     "count" : 32,
     "enabled" : true,
