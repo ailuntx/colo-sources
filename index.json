@@ -2,7 +2,7 @@
   {
     "candidates" : 9,
     "code" : "AE",
-    "count" : 3,
+    "count" : 1,
     "enabled" : true,
     "name" : "阿拉伯联合酋长国",
     "path" : "countries/AE.txt"
@@ -152,9 +152,9 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 26,
+    "candidates" : 25,
     "code" : "EE",
-    "count" : 12,
+    "count" : 11,
     "enabled" : true,
     "name" : "爱沙尼亚",
     "path" : "countries/EE.txt"
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 32,
+    "candidates" : 33,
     "code" : "FR",
     "count" : 7,
     "enabled" : true,
@@ -392,9 +392,9 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 7,
+    "candidates" : 6,
     "code" : "OM",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "阿曼",
     "path" : "countries/OM.txt"
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 73,
+    "candidates" : 74,
     "code" : "SE",
     "count" : 31,
     "enabled" : true,
