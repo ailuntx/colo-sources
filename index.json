@@ -490,7 +490,7 @@
   {
     "candidates" : 10,
     "code" : "TH",
-    "count" : 2,
+    "count" : 5,
     "enabled" : true,
     "name" : "泰国",
     "path" : "countries/TH.txt"
@@ -506,7 +506,7 @@
   {
     "candidates" : 23,
     "code" : "TW",
-    "count" : 3,
+    "count" : 4,
     "enabled" : true,
     "name" : "台湾",
     "path" : "countries/TW.txt"
