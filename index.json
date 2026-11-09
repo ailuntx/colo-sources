@@ -160,7 +160,7 @@
     "path" : "countries/EE.txt"
   },
   {
-    "candidates" : 34,
+    "candidates" : 35,
     "code" : "ES",
     "count" : 16,
     "enabled" : true,
@@ -360,9 +360,9 @@
     "path" : "countries/MZ.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 0,
     "code" : "NG",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "尼日利亚",
     "path" : "countries/NG.txt"
@@ -376,7 +376,7 @@
     "path" : "countries/NL.txt"
   },
   {
-    "candidates" : 9,
+    "candidates" : 8,
     "code" : "NO",
     "count" : 4,
     "enabled" : true,
@@ -416,7 +416,7 @@
     "path" : "countries/PL.txt"
   },
   {
-    "candidates" : 0,
+    "candidates" : 1,
     "code" : "PT",
     "count" : 0,
     "enabled" : true,
