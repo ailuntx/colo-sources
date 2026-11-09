@@ -378,7 +378,7 @@
   {
     "candidates" : 9,
     "code" : "NO",
-    "count" : 4,
+    "count" : 5,
     "enabled" : true,
     "name" : "挪威",
     "path" : "countries/NO.txt"
@@ -530,7 +530,7 @@
   {
     "candidates" : 21,
     "code" : "ZA",
-    "count" : 3,
+    "count" : 4,
     "enabled" : true,
     "name" : "南非",
     "path" : "countries/ZA.txt"
