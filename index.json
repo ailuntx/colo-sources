@@ -434,7 +434,7 @@
   {
     "candidates" : 11,
     "code" : "RS",
-    "count" : 4,
+    "count" : 2,
     "enabled" : true,
     "name" : "塞尔维亚",
     "path" : "countries/RS.txt"
