@@ -408,7 +408,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 65,
+    "candidates" : 61,
     "code" : "PL",
     "count" : 19,
     "enabled" : true,
@@ -456,9 +456,9 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 103,
+    "candidates" : 107,
     "code" : "SE",
-    "count" : 31,
+    "count" : 32,
     "enabled" : true,
     "name" : "瑞典",
     "path" : "countries/SE.txt"
