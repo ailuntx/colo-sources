@@ -464,9 +464,9 @@
     "path" : "countries/SE.txt"
   },
   {
-    "candidates" : 89,
+    "candidates" : 88,
     "code" : "SG",
-    "count" : 33,
+    "count" : 32,
     "enabled" : true,
     "name" : "新加坡",
     "path" : "countries/SG.txt"
@@ -488,7 +488,7 @@
     "path" : "countries/SK.txt"
   },
   {
-    "candidates" : 5,
+    "candidates" : 6,
     "code" : "TH",
     "count" : 2,
     "enabled" : true,
