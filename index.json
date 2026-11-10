@@ -290,7 +290,7 @@
   {
     "candidates" : 42,
     "code" : "KR",
-    "count" : 13,
+    "count" : 6,
     "enabled" : true,
     "name" : "韩国",
     "path" : "countries/KR.txt"
