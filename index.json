@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5536,
+    "candidates" : 5534,
     "code" : "DE",
     "count" : 49,
     "enabled" : true,
@@ -184,7 +184,7 @@
     "path" : "countries/FR.txt"
   },
   {
-    "candidates" : 36499,
+    "candidates" : 36501,
     "code" : "GB",
     "count" : 50,
     "enabled" : true,
