@@ -120,7 +120,7 @@
     "path" : "countries/CY.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 2,
     "code" : "CZ",
     "count" : 0,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5526,
+    "candidates" : 5531,
     "code" : "DE",
     "count" : 49,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 55,
+    "candidates" : 48,
     "code" : "FR",
     "count" : 20,
     "enabled" : true,
@@ -392,7 +392,7 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 5,
+    "candidates" : 6,
     "code" : "OM",
     "count" : 0,
     "enabled" : true,
