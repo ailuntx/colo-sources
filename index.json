@@ -1,8 +1,8 @@
 [
   {
-    "candidates" : 13,
+    "candidates" : 10,
     "code" : "AE",
-    "count" : 4,
+    "count" : 3,
     "enabled" : true,
     "name" : "阿拉伯联合酋长国",
     "path" : "countries/AE.txt"
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5524,
+    "candidates" : 5525,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -184,7 +184,7 @@
     "path" : "countries/FR.txt"
   },
   {
-    "candidates" : 36492,
+    "candidates" : 36494,
     "code" : "GB",
     "count" : 50,
     "enabled" : true,
