@@ -184,7 +184,7 @@
     "path" : "countries/FR.txt"
   },
   {
-    "candidates" : 34828,
+    "candidates" : 34827,
     "code" : "GB",
     "count" : 50,
     "enabled" : true,
@@ -520,7 +520,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 561803,
+    "candidates" : 561804,
     "code" : "US",
     "count" : 49,
     "enabled" : true,
