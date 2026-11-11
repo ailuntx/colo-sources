@@ -178,7 +178,7 @@
   {
     "candidates" : 46,
     "code" : "FR",
-    "count" : 16,
+    "count" : 15,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
@@ -440,9 +440,9 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 8,
+    "candidates" : 7,
     "code" : "RU",
-    "count" : 4,
+    "count" : 1,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 100,
+    "candidates" : 101,
     "code" : "SE",
     "count" : 44,
     "enabled" : true,
