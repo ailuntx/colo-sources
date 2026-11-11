@@ -218,7 +218,7 @@
   {
     "candidates" : 8,
     "code" : "HU",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "匈牙利",
     "path" : "countries/HU.txt"
@@ -242,7 +242,7 @@
   {
     "candidates" : 14,
     "code" : "IL",
-    "count" : 1,
+    "count" : 3,
     "enabled" : true,
     "name" : "以色列",
     "path" : "countries/IL.txt"
