@@ -1,8 +1,8 @@
 [
   {
-    "candidates" : 10,
+    "candidates" : 9,
     "code" : "AE",
-    "count" : 3,
+    "count" : 1,
     "enabled" : true,
     "name" : "阿拉伯联合酋长国",
     "path" : "countries/AE.txt"
@@ -50,7 +50,7 @@
   {
     "candidates" : 3,
     "code" : "AZ",
-    "count" : 2,
+    "count" : 1,
     "enabled" : true,
     "name" : "阿塞拜疆",
     "path" : "countries/AZ.txt"
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5527,
+    "candidates" : 5528,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -234,7 +234,7 @@
   {
     "candidates" : 19,
     "code" : "IE",
-    "count" : 6,
+    "count" : 4,
     "enabled" : true,
     "name" : "爱尔兰",
     "path" : "countries/IE.txt"
