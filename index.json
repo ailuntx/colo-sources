@@ -42,7 +42,7 @@
   {
     "candidates" : 81,
     "code" : "AU",
-    "count" : 15,
+    "count" : 16,
     "enabled" : true,
     "name" : "澳大利亚",
     "path" : "countries/AU.txt"
