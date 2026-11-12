@@ -64,9 +64,9 @@
     "path" : "countries/BE.txt"
   },
   {
-    "candidates" : 46,
+    "candidates" : 45,
     "code" : "BG",
-    "count" : 21,
+    "count" : 20,
     "enabled" : true,
     "name" : "保加利亚",
     "path" : "countries/BG.txt"
@@ -82,7 +82,7 @@
   {
     "candidates" : 17,
     "code" : "BR",
-    "count" : 5,
+    "count" : 6,
     "enabled" : true,
     "name" : "巴西",
     "path" : "countries/BR.txt"
@@ -264,7 +264,7 @@
     "path" : "countries/IS.txt"
   },
   {
-    "candidates" : 33,
+    "candidates" : 34,
     "code" : "IT",
     "count" : 12,
     "enabled" : true,
