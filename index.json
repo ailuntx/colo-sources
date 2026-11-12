@@ -386,13 +386,13 @@
   {
     "candidates" : 3,
     "code" : "NZ",
-    "count" : 3,
+    "count" : 2,
     "enabled" : true,
     "name" : "新西兰",
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 6,
+    "candidates" : 5,
     "code" : "OM",
     "count" : 0,
     "enabled" : true,
@@ -402,7 +402,7 @@
   {
     "candidates" : 4,
     "code" : "PH",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "菲律宾",
     "path" : "countries/PH.txt"
@@ -448,7 +448,7 @@
     "path" : "countries/RU.txt"
   },
   {
-    "candidates" : 12,
+    "candidates" : 13,
     "code" : "SA",
     "count" : 0,
     "enabled" : true,
