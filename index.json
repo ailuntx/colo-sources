@@ -130,7 +130,7 @@
   {
     "candidates" : 5165,
     "code" : "DE",
-    "count" : 49,
+    "count" : 50,
     "enabled" : true,
     "name" : "德国",
     "path" : "countries/DE.txt"
@@ -440,9 +440,9 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 7,
+    "candidates" : 6,
     "code" : "RU",
-    "count" : 5,
+    "count" : 4,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 105,
+    "candidates" : 106,
     "code" : "SE",
     "count" : 42,
     "enabled" : true,
