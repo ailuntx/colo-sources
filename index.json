@@ -120,7 +120,7 @@
     "path" : "countries/CY.txt"
   },
   {
-    "candidates" : 238,
+    "candidates" : 242,
     "code" : "CZ",
     "count" : 0,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5164,
+    "candidates" : 5157,
     "code" : "DE",
     "count" : 49,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 122,
+    "candidates" : 125,
     "code" : "FR",
     "count" : 14,
     "enabled" : true,
@@ -184,7 +184,7 @@
     "path" : "countries/FR.txt"
   },
   {
-    "candidates" : 34538,
+    "candidates" : 35126,
     "code" : "GB",
     "count" : 46,
     "enabled" : true,
@@ -208,7 +208,7 @@
     "path" : "countries/GR.txt"
   },
   {
-    "candidates" : 57847,
+    "candidates" : 57814,
     "code" : "HK",
     "count" : 49,
     "enabled" : true,
@@ -520,7 +520,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 565037,
+    "candidates" : 565039,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
