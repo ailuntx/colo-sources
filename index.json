@@ -16,9 +16,9 @@
     "path" : "countries/AL.txt"
   },
   {
-    "candidates" : 12,
+    "candidates" : 10,
     "code" : "AM",
-    "count" : 6,
+    "count" : 4,
     "enabled" : true,
     "name" : "亚美尼亚",
     "path" : "countries/AM.txt"
@@ -376,7 +376,7 @@
     "path" : "countries/NL.txt"
   },
   {
-    "candidates" : 9,
+    "candidates" : 11,
     "code" : "NO",
     "count" : 2,
     "enabled" : true,
