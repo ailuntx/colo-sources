@@ -152,9 +152,9 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 31,
+    "candidates" : 27,
     "code" : "EE",
-    "count" : 14,
+    "count" : 13,
     "enabled" : true,
     "name" : "爱沙尼亚",
     "path" : "countries/EE.txt"
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 104,
+    "candidates" : 107,
     "code" : "SE",
     "count" : 47,
     "enabled" : true,
@@ -520,7 +520,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 565539,
+    "candidates" : 565540,
     "code" : "US",
     "count" : 50,
     "enabled" : true,
