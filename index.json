@@ -112,9 +112,9 @@
     "path" : "countries/CL.txt"
   },
   {
-    "candidates" : 6,
+    "candidates" : 4,
     "code" : "CY",
-    "count" : 4,
+    "count" : 3,
     "enabled" : true,
     "name" : "塞浦路斯",
     "path" : "countries/CY.txt"
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5381,
+    "candidates" : 5383,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -434,7 +434,7 @@
   {
     "candidates" : 12,
     "code" : "RS",
-    "count" : 3,
+    "count" : 4,
     "enabled" : true,
     "name" : "塞尔维亚",
     "path" : "countries/RS.txt"
