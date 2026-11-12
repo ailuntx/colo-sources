@@ -66,7 +66,7 @@
   {
     "candidates" : 46,
     "code" : "BG",
-    "count" : 20,
+    "count" : 21,
     "enabled" : true,
     "name" : "保加利亚",
     "path" : "countries/BG.txt"
@@ -160,9 +160,9 @@
     "path" : "countries/EE.txt"
   },
   {
-    "candidates" : 42,
+    "candidates" : 40,
     "code" : "ES",
-    "count" : 16,
+    "count" : 15,
     "enabled" : true,
     "name" : "西班牙",
     "path" : "countries/ES.txt"
@@ -416,7 +416,7 @@
     "path" : "countries/PL.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 2,
     "code" : "PT",
     "count" : 0,
     "enabled" : true,
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 107,
+    "candidates" : 108,
     "code" : "SE",
     "count" : 47,
     "enabled" : true,
