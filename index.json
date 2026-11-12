@@ -90,7 +90,7 @@
   {
     "candidates" : 57,
     "code" : "CA",
-    "count" : 18,
+    "count" : 21,
     "enabled" : true,
     "name" : "加拿大",
     "path" : "countries/CA.txt"
@@ -368,7 +368,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 52,
+    "candidates" : 53,
     "code" : "NL",
     "count" : 23,
     "enabled" : true,
@@ -408,9 +408,9 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 62,
+    "candidates" : 60,
     "code" : "PL",
-    "count" : 29,
+    "count" : 28,
     "enabled" : true,
     "name" : "波兰",
     "path" : "countries/PL.txt"
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 109,
+    "candidates" : 110,
     "code" : "SE",
     "count" : 47,
     "enabled" : true,
