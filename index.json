@@ -186,7 +186,7 @@
   {
     "candidates" : 35127,
     "code" : "GB",
-    "count" : 46,
+    "count" : 50,
     "enabled" : true,
     "name" : "英国",
     "path" : "countries/GB.txt"
