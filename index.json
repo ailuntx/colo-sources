@@ -138,7 +138,7 @@
   {
     "candidates" : 32,
     "code" : "DK",
-    "count" : 14,
+    "count" : 11,
     "enabled" : true,
     "name" : "丹麦",
     "path" : "countries/DK.txt"
@@ -368,9 +368,9 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 53,
+    "candidates" : 52,
     "code" : "NL",
-    "count" : 27,
+    "count" : 24,
     "enabled" : true,
     "name" : "荷兰",
     "path" : "countries/NL.txt"
@@ -456,7 +456,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 108,
+    "candidates" : 109,
     "code" : "SE",
     "count" : 47,
     "enabled" : true,
