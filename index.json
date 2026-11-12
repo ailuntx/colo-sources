@@ -42,7 +42,7 @@
   {
     "candidates" : 81,
     "code" : "AU",
-    "count" : 16,
+    "count" : 18,
     "enabled" : true,
     "name" : "澳大利亚",
     "path" : "countries/AU.txt"
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5270,
+    "candidates" : 5271,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -152,7 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 27,
+    "candidates" : 30,
     "code" : "EE",
     "count" : 12,
     "enabled" : true,
@@ -160,7 +160,7 @@
     "path" : "countries/EE.txt"
   },
   {
-    "candidates" : 40,
+    "candidates" : 41,
     "code" : "ES",
     "count" : 16,
     "enabled" : true,
@@ -168,7 +168,7 @@
     "path" : "countries/ES.txt"
   },
   {
-    "candidates" : 26,
+    "candidates" : 27,
     "code" : "FI",
     "count" : 10,
     "enabled" : true,
@@ -264,7 +264,7 @@
     "path" : "countries/IS.txt"
   },
   {
-    "candidates" : 32,
+    "candidates" : 33,
     "code" : "IT",
     "count" : 12,
     "enabled" : true,
@@ -368,7 +368,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 53,
+    "candidates" : 54,
     "code" : "NL",
     "count" : 23,
     "enabled" : true,
@@ -408,7 +408,7 @@
     "path" : "countries/PH.txt"
   },
   {
-    "candidates" : 60,
+    "candidates" : 66,
     "code" : "PL",
     "count" : 28,
     "enabled" : true,
@@ -440,7 +440,7 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 6,
+    "candidates" : 8,
     "code" : "RU",
     "count" : 2,
     "enabled" : true,
@@ -456,9 +456,9 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 110,
+    "candidates" : 94,
     "code" : "SE",
-    "count" : 47,
+    "count" : 44,
     "enabled" : true,
     "name" : "瑞典",
     "path" : "countries/SE.txt"
