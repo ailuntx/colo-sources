@@ -242,7 +242,7 @@
   {
     "candidates" : 15,
     "code" : "IL",
-    "count" : 1,
+    "count" : 4,
     "enabled" : true,
     "name" : "以色列",
     "path" : "countries/IL.txt"
