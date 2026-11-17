@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 159,
+    "candidates" : 162,
     "code" : "AT",
     "count" : 8,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5401,
+    "candidates" : 5410,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -160,7 +160,7 @@
     "path" : "countries/EE.txt"
   },
   {
-    "candidates" : 40,
+    "candidates" : 42,
     "code" : "ES",
     "count" : 17,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 70,
+    "candidates" : 71,
     "code" : "FR",
     "count" : 17,
     "enabled" : true,
@@ -266,7 +266,7 @@
   {
     "candidates" : 36,
     "code" : "IT",
-    "count" : 13,
+    "count" : 12,
     "enabled" : true,
     "name" : "意大利",
     "path" : "countries/IT.txt"
@@ -296,15 +296,15 @@
     "path" : "countries/KR.txt"
   },
   {
-    "candidates" : 24,
+    "candidates" : 18,
     "code" : "KZ",
-    "count" : 7,
+    "count" : 1,
     "enabled" : true,
     "name" : "哈萨克斯坦",
     "path" : "countries/KZ.txt"
   },
   {
-    "candidates" : 40,
+    "candidates" : 41,
     "code" : "LT",
     "count" : 20,
     "enabled" : true,
@@ -464,7 +464,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 105,
+    "candidates" : 109,
     "code" : "SE",
     "count" : 40,
     "enabled" : true,
