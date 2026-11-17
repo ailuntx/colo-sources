@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 157,
+    "candidates" : 159,
     "code" : "AT",
     "count" : 8,
     "enabled" : true,
@@ -96,7 +96,7 @@
     "path" : "countries/CA.txt"
   },
   {
-    "candidates" : 43,
+    "candidates" : 45,
     "code" : "CH",
     "count" : 20,
     "enabled" : true,
@@ -168,7 +168,7 @@
     "path" : "countries/ES.txt"
   },
   {
-    "candidates" : 28,
+    "candidates" : 29,
     "code" : "FI",
     "count" : 10,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 69,
+    "candidates" : 70,
     "code" : "FR",
     "count" : 17,
     "enabled" : true,
@@ -200,7 +200,7 @@
     "path" : "countries/GE.txt"
   },
   {
-    "candidates" : 11,
+    "candidates" : 12,
     "code" : "GR",
     "count" : 2,
     "enabled" : true,
@@ -264,7 +264,7 @@
     "path" : "countries/IS.txt"
   },
   {
-    "candidates" : 35,
+    "candidates" : 36,
     "code" : "IT",
     "count" : 13,
     "enabled" : true,
@@ -296,15 +296,15 @@
     "path" : "countries/KR.txt"
   },
   {
-    "candidates" : 25,
+    "candidates" : 24,
     "code" : "KZ",
-    "count" : 8,
+    "count" : 7,
     "enabled" : true,
     "name" : "哈萨克斯坦",
     "path" : "countries/KZ.txt"
   },
   {
-    "candidates" : 38,
+    "candidates" : 40,
     "code" : "LT",
     "count" : 20,
     "enabled" : true,
@@ -368,7 +368,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 55,
+    "candidates" : 58,
     "code" : "NL",
     "count" : 24,
     "enabled" : true,
@@ -416,7 +416,7 @@
     "path" : "countries/PK.txt"
   },
   {
-    "candidates" : 65,
+    "candidates" : 66,
     "code" : "PL",
     "count" : 26,
     "enabled" : true,
@@ -432,7 +432,7 @@
     "path" : "countries/PT.txt"
   },
   {
-    "candidates" : 37,
+    "candidates" : 39,
     "code" : "RO",
     "count" : 9,
     "enabled" : true,
@@ -464,7 +464,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 102,
+    "candidates" : 105,
     "code" : "SE",
     "count" : 40,
     "enabled" : true,
@@ -504,7 +504,7 @@
     "path" : "countries/TH.txt"
   },
   {
-    "candidates" : 23,
+    "candidates" : 24,
     "code" : "TR",
     "count" : 6,
     "enabled" : true,
@@ -512,7 +512,7 @@
     "path" : "countries/TR.txt"
   },
   {
-    "candidates" : 24,
+    "candidates" : 25,
     "code" : "TW",
     "count" : 7,
     "enabled" : true,
