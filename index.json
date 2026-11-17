@@ -90,13 +90,13 @@
   {
     "candidates" : 57,
     "code" : "CA",
-    "count" : 21,
+    "count" : 20,
     "enabled" : true,
     "name" : "加拿大",
     "path" : "countries/CA.txt"
   },
   {
-    "candidates" : 41,
+    "candidates" : 42,
     "code" : "CH",
     "count" : 20,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5396,
+    "candidates" : 5400,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
@@ -152,7 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 29,
+    "candidates" : 30,
     "code" : "EE",
     "count" : 9,
     "enabled" : true,
@@ -176,7 +176,7 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 68,
+    "candidates" : 69,
     "code" : "FR",
     "count" : 17,
     "enabled" : true,
@@ -232,7 +232,7 @@
     "path" : "countries/ID.txt"
   },
   {
-    "candidates" : 19,
+    "candidates" : 21,
     "code" : "IE",
     "count" : 0,
     "enabled" : true,
@@ -272,7 +272,7 @@
     "path" : "countries/IT.txt"
   },
   {
-    "candidates" : 124,
+    "candidates" : 125,
     "code" : "JP",
     "count" : 20,
     "enabled" : true,
@@ -296,15 +296,15 @@
     "path" : "countries/KR.txt"
   },
   {
-    "candidates" : 26,
+    "candidates" : 25,
     "code" : "KZ",
-    "count" : 9,
+    "count" : 8,
     "enabled" : true,
     "name" : "哈萨克斯坦",
     "path" : "countries/KZ.txt"
   },
   {
-    "candidates" : 35,
+    "candidates" : 37,
     "code" : "LT",
     "count" : 20,
     "enabled" : true,
@@ -320,7 +320,7 @@
     "path" : "countries/LU.txt"
   },
   {
-    "candidates" : 16,
+    "candidates" : 20,
     "code" : "LV",
     "count" : 4,
     "enabled" : true,
@@ -328,9 +328,9 @@
     "path" : "countries/LV.txt"
   },
   {
-    "candidates" : 14,
+    "candidates" : 13,
     "code" : "MD",
-    "count" : 7,
+    "count" : 6,
     "enabled" : true,
     "name" : "摩尔多瓦",
     "path" : "countries/MD.txt"
@@ -432,7 +432,7 @@
     "path" : "countries/PT.txt"
   },
   {
-    "candidates" : 36,
+    "candidates" : 37,
     "code" : "RO",
     "count" : 9,
     "enabled" : true,
@@ -472,7 +472,7 @@
     "path" : "countries/SE.txt"
   },
   {
-    "candidates" : 105,
+    "candidates" : 107,
     "code" : "SG",
     "count" : 41,
     "enabled" : true,
