@@ -80,7 +80,7 @@
     "path" : "countries/BH.txt"
   },
   {
-    "candidates" : 17,
+    "candidates" : 18,
     "code" : "BR",
     "count" : 1,
     "enabled" : true,
@@ -128,7 +128,7 @@
     "path" : "countries/CZ.txt"
   },
   {
-    "candidates" : 5411,
+    "candidates" : 5410,
     "code" : "DE",
     "count" : 50,
     "enabled" : true,
