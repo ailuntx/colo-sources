@@ -368,7 +368,7 @@
     "path" : "countries/NG.txt"
   },
   {
-    "candidates" : 59,
+    "candidates" : 60,
     "code" : "NL",
     "count" : 30,
     "enabled" : true,
@@ -504,9 +504,9 @@
     "path" : "countries/TH.txt"
   },
   {
-    "candidates" : 24,
+    "candidates" : 23,
     "code" : "TR",
-    "count" : 8,
+    "count" : 7,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
