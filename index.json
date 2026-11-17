@@ -514,7 +514,7 @@
   {
     "candidates" : 25,
     "code" : "TW",
-    "count" : 7,
+    "count" : 4,
     "enabled" : true,
     "name" : "台湾",
     "path" : "countries/TW.txt"
