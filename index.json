@@ -160,7 +160,7 @@
     "path" : "countries/EE.txt"
   },
   {
-    "candidates" : 41,
+    "candidates" : 40,
     "code" : "ES",
     "count" : 17,
     "enabled" : true,
@@ -208,7 +208,7 @@
     "path" : "countries/GR.txt"
   },
   {
-    "candidates" : 56689,
+    "candidates" : 56688,
     "code" : "HK",
     "count" : 3,
     "enabled" : true,
@@ -248,7 +248,7 @@
     "path" : "countries/IL.txt"
   },
   {
-    "candidates" : 61,
+    "candidates" : 63,
     "code" : "IN",
     "count" : 14,
     "enabled" : true,
@@ -272,7 +272,7 @@
     "path" : "countries/IT.txt"
   },
   {
-    "candidates" : 121,
+    "candidates" : 124,
     "code" : "JP",
     "count" : 20,
     "enabled" : true,
@@ -288,7 +288,7 @@
     "path" : "countries/KG.txt"
   },
   {
-    "candidates" : 42,
+    "candidates" : 43,
     "code" : "KR",
     "count" : 11,
     "enabled" : true,
@@ -392,9 +392,9 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 7,
+    "candidates" : 6,
     "code" : "OM",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "阿曼",
     "path" : "countries/OM.txt"
@@ -406,6 +406,14 @@
     "enabled" : true,
     "name" : "菲律宾",
     "path" : "countries/PH.txt"
+  },
+  {
+    "candidates" : 1,
+    "code" : "PK",
+    "count" : 0,
+    "enabled" : true,
+    "name" : "巴基斯坦",
+    "path" : "countries/PK.txt"
   },
   {
     "candidates" : 62,
@@ -448,7 +456,7 @@
     "path" : "countries/RU.txt"
   },
   {
-    "candidates" : 12,
+    "candidates" : 13,
     "code" : "SA",
     "count" : 1,
     "enabled" : true,
@@ -464,7 +472,7 @@
     "path" : "countries/SE.txt"
   },
   {
-    "candidates" : 99,
+    "candidates" : 105,
     "code" : "SG",
     "count" : 41,
     "enabled" : true,
@@ -504,7 +512,7 @@
     "path" : "countries/TR.txt"
   },
   {
-    "candidates" : 23,
+    "candidates" : 24,
     "code" : "TW",
     "count" : 7,
     "enabled" : true,
