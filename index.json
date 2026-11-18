@@ -96,7 +96,7 @@
     "path" : "countries/CA.txt"
   },
   {
-    "candidates" : 162,
+    "candidates" : 177,
     "code" : "CH",
     "count" : 12,
     "enabled" : true,
@@ -136,7 +136,7 @@
     "path" : "countries/DE.txt"
   },
   {
-    "candidates" : 83,
+    "candidates" : 99,
     "code" : "DK",
     "count" : 7,
     "enabled" : true,
@@ -184,7 +184,7 @@
     "path" : "countries/FR.txt"
   },
   {
-    "candidates" : 34912,
+    "candidates" : 34904,
     "code" : "GB",
     "count" : 49,
     "enabled" : true,
@@ -272,7 +272,7 @@
     "path" : "countries/IT.txt"
   },
   {
-    "candidates" : 231,
+    "candidates" : 242,
     "code" : "JP",
     "count" : 14,
     "enabled" : true,
@@ -528,7 +528,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 620428,
+    "candidates" : 620394,
     "code" : "US",
     "count" : 49,
     "enabled" : true,
