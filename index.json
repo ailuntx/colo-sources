@@ -208,7 +208,7 @@
     "path" : "countries/GR.txt"
   },
   {
-    "candidates" : 3410,
+    "candidates" : 3218,
     "code" : "HK",
     "count" : 4,
     "enabled" : true,
@@ -528,7 +528,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 619717,
+    "candidates" : 619909,
     "code" : "US",
     "count" : 49,
     "enabled" : true,
