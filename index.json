@@ -506,7 +506,7 @@
   {
     "candidates" : 25,
     "code" : "TR",
-    "count" : 8,
+    "count" : 7,
     "enabled" : true,
     "name" : "土耳其",
     "path" : "countries/TR.txt"
@@ -514,7 +514,7 @@
   {
     "candidates" : 25,
     "code" : "TW",
-    "count" : 2,
+    "count" : 4,
     "enabled" : true,
     "name" : "台湾",
     "path" : "countries/TW.txt"
