@@ -130,7 +130,7 @@
   {
     "candidates" : 5445,
     "code" : "DE",
-    "count" : 50,
+    "count" : 48,
     "enabled" : true,
     "name" : "德国",
     "path" : "countries/DE.txt"
@@ -208,7 +208,7 @@
     "path" : "countries/GR.txt"
   },
   {
-    "candidates" : 8173,
+    "candidates" : 8003,
     "code" : "HK",
     "count" : 3,
     "enabled" : true,
@@ -528,7 +528,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 614954,
+    "candidates" : 615124,
     "code" : "US",
     "count" : 49,
     "enabled" : true,
