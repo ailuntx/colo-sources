@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 143,
+    "candidates" : 144,
     "code" : "AT",
     "count" : 11,
     "enabled" : true,
@@ -176,9 +176,9 @@
     "path" : "countries/FI.txt"
   },
   {
-    "candidates" : 59,
+    "candidates" : 57,
     "code" : "FR",
-    "count" : 20,
+    "count" : 19,
     "enabled" : true,
     "name" : "法国",
     "path" : "countries/FR.txt"
@@ -416,7 +416,7 @@
     "path" : "countries/PK.txt"
   },
   {
-    "candidates" : 66,
+    "candidates" : 67,
     "code" : "PL",
     "count" : 18,
     "enabled" : true,
@@ -448,9 +448,9 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 9,
+    "candidates" : 8,
     "code" : "RU",
-    "count" : 3,
+    "count" : 1,
     "enabled" : true,
     "name" : "俄罗斯",
     "path" : "countries/RU.txt"
@@ -464,7 +464,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 113,
+    "candidates" : 114,
     "code" : "SE",
     "count" : 30,
     "enabled" : true,
