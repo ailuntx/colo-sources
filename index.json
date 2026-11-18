@@ -64,7 +64,7 @@
     "path" : "countries/BE.txt"
   },
   {
-    "candidates" : 46,
+    "candidates" : 47,
     "code" : "BG",
     "count" : 18,
     "enabled" : true,
@@ -170,7 +170,7 @@
   {
     "candidates" : 32,
     "code" : "FI",
-    "count" : 8,
+    "count" : 13,
     "enabled" : true,
     "name" : "芬兰",
     "path" : "countries/FI.txt"
@@ -192,7 +192,7 @@
     "path" : "countries/GB.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 0,
     "code" : "GE",
     "count" : 0,
     "enabled" : true,
