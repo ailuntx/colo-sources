@@ -32,7 +32,7 @@
     "path" : "countries/AR.txt"
   },
   {
-    "candidates" : 152,
+    "candidates" : 153,
     "code" : "AT",
     "count" : 11,
     "enabled" : true,
@@ -152,7 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 29,
+    "candidates" : 30,
     "code" : "EE",
     "count" : 4,
     "enabled" : true,
@@ -160,7 +160,7 @@
     "path" : "countries/EE.txt"
   },
   {
-    "candidates" : 44,
+    "candidates" : 45,
     "code" : "ES",
     "count" : 21,
     "enabled" : true,
@@ -464,7 +464,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 116,
+    "candidates" : 113,
     "code" : "SE",
     "count" : 30,
     "enabled" : true,
