@@ -202,13 +202,13 @@
   {
     "candidates" : 11,
     "code" : "GR",
-    "count" : 4,
+    "count" : 0,
     "enabled" : true,
     "name" : "希腊",
     "path" : "countries/GR.txt"
   },
   {
-    "candidates" : 5982,
+    "candidates" : 5945,
     "code" : "HK",
     "count" : 3,
     "enabled" : true,
@@ -528,7 +528,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 617145,
+    "candidates" : 617182,
     "code" : "US",
     "count" : 49,
     "enabled" : true,
