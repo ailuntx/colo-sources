@@ -338,7 +338,7 @@
   {
     "candidates" : 6,
     "code" : "MX",
-    "count" : 3,
+    "count" : 0,
     "enabled" : true,
     "name" : "墨西哥",
     "path" : "countries/MX.txt"
@@ -538,7 +538,7 @@
   {
     "candidates" : 21,
     "code" : "ZA",
-    "count" : 6,
+    "count" : 5,
     "enabled" : true,
     "name" : "南非",
     "path" : "countries/ZA.txt"
