@@ -160,7 +160,7 @@
     "path" : "countries/EE.txt"
   },
   {
-    "candidates" : 44,
+    "candidates" : 45,
     "code" : "ES",
     "count" : 20,
     "enabled" : true,
@@ -360,7 +360,7 @@
     "path" : "countries/MZ.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 0,
     "code" : "NG",
     "count" : 0,
     "enabled" : true,
@@ -376,9 +376,9 @@
     "path" : "countries/NL.txt"
   },
   {
-    "candidates" : 11,
+    "candidates" : 10,
     "code" : "NO",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "挪威",
     "path" : "countries/NO.txt"
@@ -536,7 +536,7 @@
     "path" : "countries/US.txt"
   },
   {
-    "candidates" : 21,
+    "candidates" : 22,
     "code" : "ZA",
     "count" : 2,
     "enabled" : true,
