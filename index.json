@@ -152,7 +152,7 @@
     "path" : "countries/DO.txt"
   },
   {
-    "candidates" : 29,
+    "candidates" : 31,
     "code" : "EE",
     "count" : 3,
     "enabled" : true,
@@ -464,7 +464,7 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 115,
+    "candidates" : 113,
     "code" : "SE",
     "count" : 28,
     "enabled" : true,
