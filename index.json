@@ -64,7 +64,7 @@
     "path" : "countries/BE.txt"
   },
   {
-    "candidates" : 46,
+    "candidates" : 45,
     "code" : "BG",
     "count" : 17,
     "enabled" : true,
@@ -192,7 +192,7 @@
     "path" : "countries/GB.txt"
   },
   {
-    "candidates" : 0,
+    "candidates" : 1,
     "code" : "GE",
     "count" : 0,
     "enabled" : true,
