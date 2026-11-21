@@ -58,7 +58,7 @@
   {
     "candidates" : 7,
     "code" : "BE",
-    "count" : 0,
+    "count" : 1,
     "enabled" : true,
     "name" : "比利时",
     "path" : "countries/BE.txt"
@@ -258,7 +258,7 @@
   {
     "candidates" : 15,
     "code" : "IS",
-    "count" : 3,
+    "count" : 1,
     "enabled" : true,
     "name" : "冰岛",
     "path" : "countries/IS.txt"
