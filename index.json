@@ -114,7 +114,7 @@
   {
     "candidates" : 4,
     "code" : "CY",
-    "count" : 0,
+    "count" : 3,
     "enabled" : true,
     "name" : "塞浦路斯",
     "path" : "countries/CY.txt"
@@ -392,7 +392,7 @@
     "path" : "countries/NZ.txt"
   },
   {
-    "candidates" : 5,
+    "candidates" : 6,
     "code" : "OM",
     "count" : 0,
     "enabled" : true,
@@ -456,9 +456,9 @@
     "path" : "countries/RU.txt"
   },
   {
-    "candidates" : 13,
+    "candidates" : 12,
     "code" : "SA",
-    "count" : 2,
+    "count" : 0,
     "enabled" : true,
     "name" : "沙特阿拉伯",
     "path" : "countries/SA.txt"
