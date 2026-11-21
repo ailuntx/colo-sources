@@ -144,9 +144,9 @@
     "path" : "countries/DK.txt"
   },
   {
-    "candidates" : 1,
+    "candidates" : 0,
     "code" : "DO",
-    "count" : 1,
+    "count" : 0,
     "enabled" : true,
     "name" : "多米尼加共和国",
     "path" : "countries/DO.txt"
@@ -416,7 +416,7 @@
     "path" : "countries/PK.txt"
   },
   {
-    "candidates" : 61,
+    "candidates" : 62,
     "code" : "PL",
     "count" : 21,
     "enabled" : true,
@@ -448,7 +448,7 @@
     "path" : "countries/RS.txt"
   },
   {
-    "candidates" : 6,
+    "candidates" : 5,
     "code" : "RU",
     "count" : 2,
     "enabled" : true,
@@ -528,7 +528,7 @@
     "path" : "countries/UA.txt"
   },
   {
-    "candidates" : 620882,
+    "candidates" : 620883,
     "code" : "US",
     "count" : 47,
     "enabled" : true,
