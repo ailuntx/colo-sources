@@ -538,7 +538,7 @@
   {
     "candidates" : 22,
     "code" : "ZA",
-    "count" : 1,
+    "count" : 5,
     "enabled" : true,
     "name" : "南非",
     "path" : "countries/ZA.txt"
