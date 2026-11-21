@@ -274,7 +274,7 @@
   {
     "candidates" : 182,
     "code" : "JP",
-    "count" : 8,
+    "count" : 12,
     "enabled" : true,
     "name" : "日本",
     "path" : "countries/JP.txt"
@@ -304,7 +304,7 @@
     "path" : "countries/KZ.txt"
   },
   {
-    "candidates" : 45,
+    "candidates" : 50,
     "code" : "LT",
     "count" : 15,
     "enabled" : true,
@@ -464,9 +464,9 @@
     "path" : "countries/SA.txt"
   },
   {
-    "candidates" : 116,
+    "candidates" : 111,
     "code" : "SE",
-    "count" : 9,
+    "count" : 8,
     "enabled" : true,
     "name" : "瑞典",
     "path" : "countries/SE.txt"
