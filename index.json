@@ -498,7 +498,7 @@
   {
     "candidates" : 9,
     "code" : "TH",
-    "count" : 4,
+    "count" : 3,
     "enabled" : true,
     "name" : "泰国",
     "path" : "countries/TH.txt"
