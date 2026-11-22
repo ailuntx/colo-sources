@@ -208,7 +208,7 @@
     "path" : "countries/GR.txt"
   },
   {
-    "candidates" : 1978,
+    "candidates" : 1979,
     "code" : "HK",
     "count" : 4,
     "enabled" : true,
@@ -400,9 +400,9 @@
     "path" : "countries/OM.txt"
   },
   {
-    "candidates" : 4,
+    "candidates" : 3,
     "code" : "PH",
-    "count" : 2,
+    "count" : 1,
     "enabled" : true,
     "name" : "菲律宾",
     "path" : "countries/PH.txt"
